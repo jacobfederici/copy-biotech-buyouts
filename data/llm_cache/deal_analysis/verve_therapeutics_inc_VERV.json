@@ -1,0 +1,50 @@
+{
+  "company": "Verve Therapeutics, Inc.",
+  "ticker": "VERV",
+  "buyer": "Eli Lilly and Company",
+  "announcement_date": "2025-06-17",
+  "close_date": "2025-07-25",
+  "deal_status": "completed",
+  "deal_size_usd_m": 1010,
+  "final_offer_per_share": 10.5,
+  "payment_type": "cash+CVR",
+  "has_cvr": true,
+  "premium": {
+    "pct": null,
+    "basis": "Premium not explicitly stated in dossier; last pre-announcement close was $6.16 on 2025-06-13."
+  },
+  "company_stage": "Phase 1b",
+  "lead_asset": "VERVE-102",
+  "lead_asset_stage": "Phase 1b",
+  "value_inflection_events": [
+    {
+      "date": "2025-04-14",
+      "event": "Positive initial data from Heart-2 Phase 1b trial of VERVE-102 announced",
+      "approx_change_pct": 40.8
+    },
+    {
+      "date": "2025-06-16",
+      "event": "Rumors of Eli Lilly acquisition reported by Financial Times",
+      "approx_change_pct": 79.5
+    }
+  ],
+  "offer_low_per_share": 10.0,
+  "offer_high_per_share": 10.5,
+  "num_offers_or_rounds": 3,
+  "num_parties_interested": 7,
+  "process_type": "limited / targeted",
+  "engagement_to_deal_days": 213,
+  "first_engagement_date": "2024-11-16",
+  "signing_date": "2025-06-16",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": true,
+    "details": "Financial Times reported on 2025-06-16 that Eli Lilly was nearing a deal, one day before the official announcement."
+  },
+  "price_move_3m_pct": 15.79,
+  "price_move_6m_pct": 7.69,
+  "price_move_12m_pct": -55.43,
+  "price_move_24m_pct": -66.79,
+  "notes": "Deal includes a $3.00 CVR tied to Phase 3 dosing of VERVE-102; Verve faced ~$1.5-2B capital needs to reach commercialization, driving the sale.",
+  "_source_file": "verve_therapeutics_inc_VERV.md"
+}

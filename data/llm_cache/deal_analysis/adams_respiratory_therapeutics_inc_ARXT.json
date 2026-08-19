@@ -1,0 +1,55 @@
+{
+  "company": "Adams Respiratory Therapeutics, Inc.",
+  "ticker": "ARXT",
+  "buyer": "Twickenham Inc.",
+  "announcement_date": "2007-12-10",
+  "close_date": "2008-01-29",
+  "deal_status": "completed",
+  "deal_size_usd_m": 2161.2,
+  "final_offer_per_share": 60.0,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 37.4,
+    "basis": "last closing price before announcement ($43.68 on 2007-12-07)"
+  },
+  "company_stage": "commercial",
+  "lead_asset": "Mucinex",
+  "lead_asset_stage": "commercial",
+  "value_inflection_events": [
+    {
+      "date": "2007-03-16",
+      "event": "not identified",
+      "approx_change_pct": -25.6
+    },
+    {
+      "date": "2007-03-23",
+      "event": "not identified",
+      "approx_change_pct": 24.1
+    },
+    {
+      "date": "2007-12-14",
+      "event": "not identified",
+      "approx_change_pct": 37.0
+    }
+  ],
+  "offer_low_per_share": 48.0,
+  "offer_high_per_share": 60.0,
+  "num_offers_or_rounds": 3,
+  "num_parties_interested": 4,
+  "process_type": "limited / targeted",
+  "engagement_to_deal_days": 112,
+  "first_engagement_date": "2007-08-20",
+  "signing_date": "2007-12-10",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No pre-deal rumors; deal came as a surprise."
+  },
+  "price_move_3m_pct": 10.67,
+  "price_move_6m_pct": 0.99,
+  "price_move_12m_pct": 10.47,
+  "price_move_24m_pct": 2.66,
+  "notes": "Surprise acquisition of commercial-stage consumer healthcare company with strong Mucinex brand; competitive process yielded a 37% premium.",
+  "_source_file": "adams_respiratory_therapeutics_inc_ARXT.md"
+}

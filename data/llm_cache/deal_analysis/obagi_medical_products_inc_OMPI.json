@@ -1,0 +1,60 @@
+{
+  "company": "Obagi Medical Products, Inc.",
+  "ticker": "OMPI",
+  "buyer": "Valeant Pharmaceuticals International",
+  "announcement_date": "2013-03-20",
+  "close_date": "2013-04-25",
+  "deal_status": "completed",
+  "deal_size_usd_m": 418.4,
+  "final_offer_per_share": 24.0,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 60.97,
+    "basis": "Final $24.00 vs last close before announcement ($14.91 on 2013-03-15)"
+  },
+  "company_stage": "commercial",
+  "lead_asset": "Obagi Nu-Derm System",
+  "lead_asset_stage": "Marketed",
+  "value_inflection_events": [
+    {
+      "date": "2011-05-06",
+      "event": "not identified in filings or news",
+      "approx_change_pct": -23.6
+    },
+    {
+      "date": "2012-08-03",
+      "event": "not identified in filings or news",
+      "approx_change_pct": -20.5
+    },
+    {
+      "date": "2013-03-22",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 32.8
+    },
+    {
+      "date": "2013-04-05",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 28.7
+    }
+  ],
+  "offer_low_per_share": 16.5,
+  "offer_high_per_share": 24.0,
+  "num_offers_or_rounds": 8,
+  "num_parties_interested": 3,
+  "process_type": "broad auction",
+  "engagement_to_deal_days": 130,
+  "first_engagement_date": "2012-11-09",
+  "signing_date": "2013-03-19",
+  "interest_direction": "mixed",
+  "leaked_early": {
+    "leaked": true,
+    "details": "Rumors in Dec 2012 about Allergan interest and in early 2013 about Medicis/Valeant; CFO hinted at strategic review on March 14, 2013."
+  },
+  "price_move_3m_pct": 10.36,
+  "price_move_6m_pct": 18.24,
+  "price_move_12m_pct": 20.15,
+  "price_move_24m_pct": 19.38,
+  "notes": "Deal price increased by 21.5% from initial $19.75 to $24.00 in amendment, triggered by competitive bidding and activist pressure.",
+  "_source_file": "obagi_medical_products_inc_OMPI.md"
+}

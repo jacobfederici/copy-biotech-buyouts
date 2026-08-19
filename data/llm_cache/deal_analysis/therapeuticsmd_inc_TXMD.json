@@ -1,0 +1,55 @@
+{
+  "company": "TherapeuticsMD, Inc.",
+  "ticker": "TXMD",
+  "buyer": "EW Healthcare Partners",
+  "announcement_date": "2022-05-31",
+  "close_date": "not applicable",
+  "deal_status": "terminated",
+  "deal_size_usd_m": 88.47,
+  "final_offer_per_share": 10.0,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": null,
+    "basis": "unknown"
+  },
+  "company_stage": "commercial",
+  "lead_asset": "IMVEXXY",
+  "lead_asset_stage": "Approved",
+  "value_inflection_events": [
+    {
+      "date": "2022-05-13",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 1946.7
+    },
+    {
+      "date": "2022-06-03",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 364.0
+    },
+    {
+      "date": "2022-07-15",
+      "event": "not identified in filings or news",
+      "approx_change_pct": -37.3
+    }
+  ],
+  "offer_low_per_share": 10.0,
+  "offer_high_per_share": 10.0,
+  "num_offers_or_rounds": 4,
+  "num_parties_interested": 83,
+  "process_type": "broad auction",
+  "engagement_to_deal_days": 134,
+  "first_engagement_date": "2022-01-13",
+  "signing_date": "2022-05-27",
+  "interest_direction": "outbound (target ran process / sought buyer)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No pre-deal rumors from reputable sources were identified."
+  },
+  "price_move_3m_pct": null,
+  "price_move_6m_pct": null,
+  "price_move_12m_pct": null,
+  "price_move_24m_pct": null,
+  "notes": "The deal was terminated because the minimum tender condition was not met, driven by the company's severe liquidity crisis and a pending debt maturity.",
+  "_source_file": "therapeuticsmd_inc_TXMD.md"
+}

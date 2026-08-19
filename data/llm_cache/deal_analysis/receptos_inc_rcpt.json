@@ -1,0 +1,75 @@
+{
+  "company": "Receptos, Inc.",
+  "ticker": "RCPT",
+  "buyer": "Celgene Corporation",
+  "announcement_date": "2015-07-14",
+  "close_date": "2015-08-27",
+  "deal_status": "completed",
+  "deal_size_usd_m": 7330,
+  "final_offer_per_share": 232.0,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 92.4,
+    "basis": "92.4% premium over the February 24, 2015 closing price of $120.59, as stated in the SC 14D9. Also noted as 17.7% above the July 13, 2015 close and 44.6% above the June 9, 2015 close."
+  },
+  "company_stage": "Phase 3 / pre-approval",
+  "lead_asset": "Ozanimod",
+  "lead_asset_stage": "Phase 3",
+  "value_inflection_events": [
+    {
+      "date": "2013-09-13",
+      "event": "Party A unsolicited acquisition proposal and market outreach",
+      "approx_change_pct": 23.2
+    },
+    {
+      "date": "2013-10-18",
+      "event": "Due diligence by Celgene and Party A; Celgene indicated willingness for contingent transaction",
+      "approx_change_pct": 20.2
+    },
+    {
+      "date": "2014-06-13",
+      "event": "Phase 2 RADIANCE trial met primary endpoint in RMS",
+      "approx_change_pct": 54.2
+    },
+    {
+      "date": "2014-10-31",
+      "event": "TOUCHSTONE Phase 2 trial met primary and secondary endpoints in ulcerative colitis",
+      "approx_change_pct": 53.8
+    },
+    {
+      "date": "2015-04-03",
+      "event": "Media reports that the company was for sale and potential acquirors were considering bids",
+      "approx_change_pct": 14.9
+    },
+    {
+      "date": "2015-06-12",
+      "event": "Media reports that several pharmaceutical companies were considering bids",
+      "approx_change_pct": 9.4
+    },
+    {
+      "date": "2015-07-17",
+      "event": "Merger Agreement executed and tender offer announced at $232.00 per share",
+      "approx_change_pct": 18.3
+    }
+  ],
+  "offer_low_per_share": 191.12,
+  "offer_high_per_share": 232.0,
+  "num_offers_or_rounds": 5,
+  "num_parties_interested": 3,
+  "process_type": "limited / targeted",
+  "engagement_to_deal_days": 701,
+  "first_engagement_date": "2013-08-14",
+  "signing_date": "2015-07-14",
+  "interest_direction": "mixed",
+  "leaked_early": {
+    "leaked": true,
+    "details": "Media reports on April 1, 2015 and June 9-10, 2015 indicated the company was for sale and that multiple bidders were considering offers, more than one month before the July 14, 2015 announcement."
+  },
+  "price_move_3m_pct": 19.6,
+  "price_move_6m_pct": 86.0,
+  "price_move_12m_pct": 480.5,
+  "price_move_24m_pct": null,
+  "notes": "The deal emerged from a 2013 unsolicited approach and two separate Celgene engagement periods, with a competing bidder (Party B) offering up to $225/share before withdrawing. The final $232/share all-cash offer represented a 92.4% premium to the unaffected February 2015 price, and the board opted against a broader market check citing prior media leaks that failed to attract new bidders.",
+  "_source_file": "receptos_inc_rcpt.md"
+}

@@ -1,0 +1,39 @@
+{
+  "company": "MAP Pharmaceuticals, Inc.",
+  "ticker": "MAPP",
+  "buyer": "Allergan, Inc.",
+  "announcement_date": "2013-01-22",
+  "close_date": "2013-03-01",
+  "deal_status": "completed",
+  "deal_size_usd_m": 961.0,
+  "final_offer_per_share": 25.0,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 60.0,
+    "basis": "prior day's closing price"
+  },
+  "company_stage": "Phase 3 / pre-approval",
+  "lead_asset": "LEVADEX",
+  "lead_asset_stage": "NDA Resubmission (PDUFA April 2013)",
+  "value_inflection_events": [],
+  "offer_low_per_share": 22.5,
+  "offer_high_per_share": 25.0,
+  "num_offers_or_rounds": 3,
+  "num_parties_interested": 2,
+  "process_type": "limited / targeted",
+  "engagement_to_deal_days": 85,
+  "first_engagement_date": "2012-10-29",
+  "signing_date": "2013-01-22",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "Buyout Rumors section explicitly states no pre-deal rumors or specific takeover speculation were reported prior to the official announcement."
+  },
+  "price_move_3m_pct": null,
+  "price_move_6m_pct": null,
+  "price_move_12m_pct": null,
+  "price_move_24m_pct": null,
+  "notes": "Deal driven by Allergan's desire to secure LEVADEX as a complement to BOTOX; negotiation history shows an initial offer of $22.50, a counter at $25.00, and a final agreement at $25.00 after Allergan had previously withdrawn a $25.00 bid in 2011 due to FDA risk.",
+  "_source_file": "map_pharmaceuticals_inc_MAPP.md"
+}

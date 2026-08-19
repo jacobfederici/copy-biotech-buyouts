@@ -1,0 +1,60 @@
+{
+  "company": "Mersana Therapeutics, Inc.",
+  "ticker": "MRSN",
+  "buyer": "Day One Biopharmaceuticals, Inc.",
+  "announcement_date": "2025-11-13",
+  "close_date": "2026-01-06",
+  "deal_status": "completed",
+  "deal_size_usd_m": 129.0,
+  "final_offer_per_share": 25.0,
+  "payment_type": "cash+CVR",
+  "has_cvr": true,
+  "premium": {
+    "pct": 182.0,
+    "basis": "vs previous day's closing price of $8.87 (per Buyout Rumors section)"
+  },
+  "company_stage": "Phase 1",
+  "lead_asset": "Emi-Le (XMT-1660)",
+  "lead_asset_stage": "Phase 1",
+  "value_inflection_events": [
+    {
+      "date": "2025-01-10",
+      "event": "Positive initial clinical data for Emi-Le and FDA Fast Track designation announced, but stock dropped significantly (possibly due to broader financial concerns or data details not meeting expectations).",
+      "approx_change_pct": -48.2
+    },
+    {
+      "date": "2025-05-06",
+      "event": "Strategic restructuring announced, including 55% workforce reduction.",
+      "approx_change_pct": null
+    },
+    {
+      "date": "2025-08-01",
+      "event": "1-for-25 reverse stock split takes effect, causing a massive nominal price increase.",
+      "approx_change_pct": 2042.9
+    },
+    {
+      "date": "2025-11-14",
+      "event": "Acquisition by Day One Biopharmaceuticals announced.",
+      "approx_change_pct": 232.0
+    }
+  ],
+  "offer_low_per_share": 12.0,
+  "offer_high_per_share": 25.0,
+  "num_offers_or_rounds": 3,
+  "num_parties_interested": 32,
+  "process_type": "broad auction",
+  "engagement_to_deal_days": 246,
+  "first_engagement_date": "2025-03-12",
+  "signing_date": "2025-11-12",
+  "interest_direction": "outbound (target ran process / sought buyer)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No confirmed pre-deal rumors exist for Mersana Therapeutics, Inc. (MRSN) prior to the official announcement."
+  },
+  "price_move_3m_pct": null,
+  "price_move_6m_pct": null,
+  "price_move_12m_pct": null,
+  "price_move_24m_pct": null,
+  "notes": "The deal included a CVR worth up to $30.25 per share tied to Emi-Le milestones, reflecting the high-risk, high-reward nature of the lead Phase 1 asset. The reverse stock split in August 2025 makes pre-split price comparisons unreliable without adjustment.",
+  "_source_file": "mersana_therapeutics_inc_MRSN.md"
+}

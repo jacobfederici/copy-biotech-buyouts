@@ -1,0 +1,55 @@
+{
+  "company": "Dimension Therapeutics, Inc.",
+  "ticker": "DMTX",
+  "buyer": "Ultragenyx Pharmaceutical Inc.",
+  "announcement_date": "2017-10-03",
+  "close_date": "2017-11-07",
+  "deal_status": "completed",
+  "deal_size_usd_m": 152.3,
+  "final_offer_per_share": 6.0,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 400,
+    "basis": "Closing price on August 24, 2017 (prior to REGENXBIO announcement)"
+  },
+  "company_stage": "Phase 1/2",
+  "lead_asset": "DTX301",
+  "lead_asset_stage": "Phase 1/2",
+  "value_inflection_events": [
+    {
+      "date": "2017-01-31",
+      "event": "Announced interim topline results for DTX101 showing failure to meet primary goals",
+      "approx_change_pct": -56.8
+    },
+    {
+      "date": "2017-08-25",
+      "event": "Announced definitive agreement with REGENXBIO (all-stock, implied $3.41 per share)",
+      "approx_change_pct": 142.3
+    },
+    {
+      "date": "2017-09-18",
+      "event": "Ultragenyx made unsolicited non-binding proposal at $5.50 per share cash",
+      "approx_change_pct": 40.5
+    }
+  ],
+  "offer_low_per_share": 5.5,
+  "offer_high_per_share": 6.0,
+  "num_offers_or_rounds": 12,
+  "num_parties_interested": 6,
+  "process_type": "broad auction",
+  "engagement_to_deal_days": 14,
+  "first_engagement_date": "2017-09-18",
+  "signing_date": "2017-10-02",
+  "interest_direction": "mixed",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No pre-announcement rumors identified"
+  },
+  "price_move_3m_pct": 361.5,
+  "price_move_6m_pct": 294.7,
+  "price_move_12m_pct": -24.9,
+  "price_move_24m_pct": -51.0,
+  "notes": "Ultragenyx emerged as a white knight with an all-cash offer after Dimension had already signed a stock-for-stock deal with REGENXBIO, sparking a public bidding war.",
+  "_source_file": "dimension_therapeutics_inc_DMTX.md"
+}

@@ -1,0 +1,39 @@
+{
+  "company": "Micromet, Inc.",
+  "ticker": "MITI",
+  "buyer": "Amgen Inc.",
+  "announcement_date": "2012-01-26",
+  "close_date": "2012-03-07",
+  "deal_status": "completed",
+  "deal_size_usd_m": null,
+  "final_offer_per_share": 11.0,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": null,
+    "basis": "unknown"
+  },
+  "company_stage": "Phase 2",
+  "lead_asset": "Blinatumomab (MT103)",
+  "lead_asset_stage": "Phase 2",
+  "value_inflection_events": [],
+  "offer_low_per_share": 9.0,
+  "offer_high_per_share": 11.0,
+  "num_offers_or_rounds": 4,
+  "num_parties_interested": 4,
+  "process_type": "limited / targeted",
+  "engagement_to_deal_days": null,
+  "first_engagement_date": "2011-01-10",
+  "signing_date": "2012-01-25",
+  "interest_direction": "mixed",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No confirmed press report/rumor >= 1 month prior to the January 26, 2012 announcement. The earliest speculation noted is in July 2011 after a collaboration, but specific acquisition rumors intensified only in the final 24 hours before the announcement."
+  },
+  "price_move_3m_pct": null,
+  "price_move_6m_pct": null,
+  "price_move_12m_pct": null,
+  "price_move_24m_pct": null,
+  "notes": "Deal completed via a short-form merger after a tender offer. Micromet ran a limited process with 3 other large pharma companies conducting diligence but none submitting a bid, after Amgen's initial $9.00 and $9.00+CVR offers were rejected. Stock price data is unavailable.",
+  "_source_file": "micromet_inc_MITI.md"
+}

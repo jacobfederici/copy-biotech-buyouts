@@ -1,0 +1,55 @@
+{
+  "company": "ARIAD Pharmaceuticals Inc.",
+  "ticker": "ARIA",
+  "buyer": "Takeda Pharmaceutical Company Limited",
+  "announcement_date": "2017-01-09",
+  "close_date": "2017-02-16",
+  "deal_status": "completed",
+  "deal_size_usd_m": 5200,
+  "final_offer_per_share": 24.0,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 74.7,
+    "basis": "last undisturbed price (as stated in Rationale section)"
+  },
+  "company_stage": "commercial",
+  "lead_asset": "Brigatinib",
+  "lead_asset_stage": "NDA Review / Phase 3",
+  "value_inflection_events": [
+    {
+      "date": "2015-08-28",
+      "event": "Unidentified event; stock price surged 49.2% (possibly related to Baxalta acquisition rumors per Company News)",
+      "approx_change_pct": 49.2
+    },
+    {
+      "date": "2016-11-11",
+      "event": "Unidentified event; stock price surged 40.1%",
+      "approx_change_pct": 40.1
+    },
+    {
+      "date": "2017-01-13",
+      "event": "Deal announcement; stock price surged 72.4%",
+      "approx_change_pct": 72.4
+    }
+  ],
+  "offer_low_per_share": 20.0,
+  "offer_high_per_share": 24.0,
+  "num_offers_or_rounds": 3,
+  "num_parties_interested": 4,
+  "process_type": "limited / targeted",
+  "engagement_to_deal_days": 41,
+  "first_engagement_date": "2016-11-29",
+  "signing_date": "2017-01-08",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": true,
+    "details": "Multiple buyout rumors reported years and months before the official announcement, including specific acquirer names (Baxalta, Incyte) and price ranges ($20/share)."
+  },
+  "price_move_3m_pct": 8.2,
+  "price_move_6m_pct": 54.7,
+  "price_move_12m_pct": 158.3,
+  "price_move_24m_pct": 120.2,
+  "notes": "Deal driven by Takeda's desire for brigatinib (PDUFA April 2017) and Iclusig; ARIAD ran a targeted market check after initial $20 bid, but exclusivity blocked a third party.",
+  "_source_file": "ariad_pharmaceuticals_inc_ARIA.md"
+}

@@ -1,0 +1,65 @@
+{
+  "company": "Morphic Holding, Inc.",
+  "ticker": "MORF",
+  "buyer": "Eli Lilly and Company",
+  "announcement_date": "2024-07-08",
+  "close_date": "2024-08-16",
+  "deal_status": "completed",
+  "deal_size_usd_m": 3200.0,
+  "final_offer_per_share": 57.0,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 79.0,
+    "basis": "79% premium to the last closing price prior to announcement ($31.84 on 2024-07-05), according to board disclosure."
+  },
+  "company_stage": "Phase 2",
+  "lead_asset": "MORF-057",
+  "lead_asset_stage": "Phase 2b",
+  "value_inflection_events": [
+    {
+      "date": "2022-08-05",
+      "event": "Unidentified event caused stock to move +22.6%",
+      "approx_change_pct": 22.6
+    },
+    {
+      "date": "2023-04-21",
+      "event": "Unidentified event caused stock to move +29.4%",
+      "approx_change_pct": 29.4
+    },
+    {
+      "date": "2023-09-22",
+      "event": "Unidentified event caused stock to move -31.1%",
+      "approx_change_pct": -31.1
+    },
+    {
+      "date": "2023-09-29",
+      "event": "Unidentified event caused stock to move -37.5%",
+      "approx_change_pct": -37.5
+    },
+    {
+      "date": "2024-07-12",
+      "event": "Deal announcement; stock jumped +75.2% to near-offer price",
+      "approx_change_pct": 75.2
+    }
+  ],
+  "offer_low_per_share": 46.0,
+  "offer_high_per_share": 57.0,
+  "num_offers_or_rounds": 4,
+  "num_parties_interested": 3,
+  "process_type": "single bidder / bilateral",
+  "engagement_to_deal_days": 97,
+  "first_engagement_date": "2024-04-02",
+  "signing_date": "2024-07-07",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No pre-deal rumors exist. The deal was announced on July 8, 2024, without prior public reporting."
+  },
+  "price_move_3m_pct": null,
+  "price_move_6m_pct": null,
+  "price_move_12m_pct": null,
+  "price_move_24m_pct": null,
+  "notes": "The $57.00 final offer represented a 79% premium to the unaffected price. No CVR was included despite Morphic's push for one; the process was bilateral after two other companies quickly declined interest.",
+  "_source_file": "morphic_holding_inc_MORF.md"
+}

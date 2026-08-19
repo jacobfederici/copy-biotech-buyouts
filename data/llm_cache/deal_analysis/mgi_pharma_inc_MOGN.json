@@ -1,0 +1,50 @@
+{
+  "company": "MGI PHARMA INC",
+  "ticker": "MOGN",
+  "buyer": "Eisai Co., Ltd.",
+  "announcement_date": "2007-12-10",
+  "close_date": "2008-01-28",
+  "deal_status": "completed",
+  "deal_size_usd_m": 3332.0,
+  "final_offer_per_share": 41.0,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 38.7,
+    "basis": "pre-announcement price (premium stated in dossier rationale as 38.7% over pre-announcement price)"
+  },
+  "company_stage": "commercial",
+  "lead_asset": "Aloxi",
+  "lead_asset_stage": "Marketed",
+  "value_inflection_events": [
+    {
+      "date": "2006-07-21",
+      "event": "not identified in filings or news",
+      "approx_change_pct": -28.7
+    },
+    {
+      "date": "2007-12-14",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 20.5
+    }
+  ],
+  "offer_low_per_share": 33.0,
+  "offer_high_per_share": 41.0,
+  "num_offers_or_rounds": 4,
+  "num_parties_interested": 18,
+  "process_type": "broad auction",
+  "engagement_to_deal_days": 441,
+  "first_engagement_date": "2006-09-25",
+  "signing_date": "2007-12-10",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": true,
+    "details": "Rumors emerged in late November/early December 2007, with official strategic alternatives announcement on Nov 29 2007, and reports of advanced talks with Eisai on Dec 9 2007, all within days of the Dec 10 official announcement."
+  },
+  "price_move_3m_pct": 54.7,
+  "price_move_6m_pct": 23.1,
+  "price_move_12m_pct": 23.1,
+  "price_move_24m_pct": 103.6,
+  "notes": "Competitive process led by Eisai's unsolicited approach; MGI ran a broad auction with 18 parties but only one other bidder submitted a formal offer, which was withdrawn before final bids.",
+  "_source_file": "mgi_pharma_inc_MOGN.md"
+}

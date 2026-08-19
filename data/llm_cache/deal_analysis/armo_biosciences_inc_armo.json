@@ -1,0 +1,55 @@
+{
+  "company": "ARMO BioSciences, Inc.",
+  "ticker": "ARMO",
+  "buyer": "Eli Lilly and Company",
+  "announcement_date": "2018-05-10",
+  "close_date": "2018-06-22",
+  "deal_status": "completed",
+  "deal_size_usd_m": 1520.3,
+  "final_offer_per_share": 50.0,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 78.0,
+    "basis": "Computed from the last weekly close before announcement (week ended 2018-05-04, $27.98) to the offer price, matching the 78.0% change recorded in the Value Inflection Points table."
+  },
+  "company_stage": "Phase 3 / pre-approval",
+  "lead_asset": "pegilodecakin (AM0010)",
+  "lead_asset_stage": "Phase 3",
+  "value_inflection_events": [
+    {
+      "date": "2018-02-12",
+      "event": "ARMO rings NASDAQ closing bell; post-IPO volatility",
+      "approx_change_pct": 40.1
+    },
+    {
+      "date": "2018-04-16",
+      "event": "Positive pivotal clinical trial data from a competitor reshapes market perception",
+      "approx_change_pct": -19.6
+    },
+    {
+      "date": "2018-05-10",
+      "event": "Eli Lilly acquisition announced at $50 per share",
+      "approx_change_pct": 78.0
+    }
+  ],
+  "offer_low_per_share": 48.0,
+  "offer_high_per_share": 50.0,
+  "num_offers_or_rounds": 3,
+  "num_parties_interested": 4,
+  "process_type": "limited / targeted",
+  "engagement_to_deal_days": 51,
+  "first_engagement_date": "2018-03-19",
+  "signing_date": "2018-05-09",
+  "interest_direction": "outbound (target ran process / sought buyer)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No pre-deal rumors or leaks identified."
+  },
+  "price_move_3m_pct": -26.96,
+  "price_move_6m_pct": null,
+  "price_move_12m_pct": null,
+  "price_move_24m_pct": null,
+  "notes": "Acquisition emerged from a competitive process where a competitor's positive clinical data caused other bidders to withdraw, leading Lilly to negotiate a lower final price.",
+  "_source_file": "armo_biosciences_inc_armo.md"
+}

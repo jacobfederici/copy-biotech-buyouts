@@ -1,0 +1,45 @@
+{
+  "company": "Ablynx NV",
+  "ticker": "ABLX",
+  "buyer": "Sanofi",
+  "announcement_date": "2018-01-29",
+  "close_date": "unknown",
+  "deal_status": "pending",
+  "deal_size_usd_m": null,
+  "final_offer_per_share": 45.0,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 112.3,
+    "basis": "112.3% over the pre-Novo announcement price (stated in rationale)"
+  },
+  "company_stage": "Phase 3 / pre-approval",
+  "lead_asset": "Caplacizumab",
+  "lead_asset_stage": "Pre-marketing",
+  "value_inflection_events": [
+    {
+      "date": "2018-01-12",
+      "event": "Novo Nordisk public disclosure of rejected bid; Ablynx confirms rejection and J.P. Morgan contacts other parties",
+      "approx_change_pct": 63.2
+    }
+  ],
+  "offer_low_per_share": 26.75,
+  "offer_high_per_share": 45.0,
+  "num_offers_or_rounds": 3,
+  "num_parties_interested": 9,
+  "process_type": "limited / targeted",
+  "engagement_to_deal_days": 22,
+  "first_engagement_date": "2018-01-08",
+  "signing_date": "2018-01-28",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "Novo Nordisk publicly disclosed its bid on 2018-01-08, 21 days before the Sanofi announcement; no evidence of a leak >1 month prior."
+  },
+  "price_move_3m_pct": null,
+  "price_move_6m_pct": null,
+  "price_move_12m_pct": null,
+  "price_move_24m_pct": null,
+  "notes": "Deal was triggered by an unsolicited Novo Nordisk bid that was rejected and then made public, prompting a targeted outreach to 8 other parties including Sanofi, which had an existing collaboration. The final \u20ac45.00 cash offer represented a significant jump from Novo's \u20ac28.00+CVR proposal.",
+  "_source_file": "ablynx_nv_ABLX.md"
+}

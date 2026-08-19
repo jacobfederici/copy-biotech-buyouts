@@ -1,0 +1,70 @@
+{
+  "company": "Lumos Pharma, Inc.",
+  "ticker": "LUMO",
+  "buyer": "Double Point Ventures LLC",
+  "announcement_date": "2024-10-23",
+  "close_date": "2024-12-12",
+  "deal_status": "completed",
+  "deal_size_usd_m": 38.0,
+  "final_offer_per_share": 4.25,
+  "payment_type": "cash+CVR",
+  "has_cvr": true,
+  "premium": {
+    "pct": 7.6,
+    "basis": "Premium over the last closing price ($3.95) before announcement, per board rationale. Also noted as 193% over 52-week low."
+  },
+  "company_stage": "Phase 3 / pre-approval",
+  "lead_asset": "LUM-201",
+  "lead_asset_stage": "Phase 3 ready",
+  "value_inflection_events": [
+    {
+      "date": "2022-11-18",
+      "event": "Not identified in filings or news",
+      "approx_change_pct": -46.0
+    },
+    {
+      "date": "2022-12-09",
+      "event": "Not identified in filings or news",
+      "approx_change_pct": -29.7
+    },
+    {
+      "date": "2023-10-06",
+      "event": "Not identified in filings or news",
+      "approx_change_pct": 20.6
+    },
+    {
+      "date": "2024-07-12",
+      "event": "Not identified in filings or news",
+      "approx_change_pct": -25.3
+    },
+    {
+      "date": "2024-07-26",
+      "event": "Not identified in filings or news",
+      "approx_change_pct": 23.3
+    },
+    {
+      "date": "2024-08-16",
+      "event": "Not identified in filings or news",
+      "approx_change_pct": 50.0
+    }
+  ],
+  "offer_low_per_share": 2.83,
+  "offer_high_per_share": 4.25,
+  "num_offers_or_rounds": 5,
+  "num_parties_interested": 3,
+  "process_type": "limited / targeted",
+  "engagement_to_deal_days": 293,
+  "first_engagement_date": "2024-01-03",
+  "signing_date": "2024-10-22",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No specific credible rumors of acquisition by Double Point Ventures or any named party were reported prior to the official announcement on October 23, 2024. Speculation was limited to general strategic alternatives exploration."
+  },
+  "price_move_3m_pct": 20.7,
+  "price_move_6m_pct": 75.9,
+  "price_move_12m_pct": 26.5,
+  "price_move_24m_pct": -55.7,
+  "notes": "The final offer of $4.25/share plus a CVR came after a Piper Sandler-led process involving 51 potential buyers, with three primary contenders emerging; the board favored this bid over a slightly lower Party A offer due to higher upfront value and the inclusion of a critical $7.5M clinical trial funding agreement.",
+  "_source_file": "lumos_pharma_inc_LUMO.md"
+}

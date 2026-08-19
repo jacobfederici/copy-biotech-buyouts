@@ -1,0 +1,65 @@
+{
+  "company": "CinCor Pharma, Inc.",
+  "ticker": "CINC",
+  "buyer": "AstraZeneca Finance and Holdings Inc. (parent: AstraZeneca PLC)",
+  "announcement_date": "2023-01-09",
+  "close_date": "2023-02-24",
+  "deal_status": "completed",
+  "deal_size_usd_m": 1800,
+  "final_offer_per_share": 36,
+  "payment_type": "cash+CVR",
+  "has_cvr": true,
+  "premium": {
+    "pct": null,
+    "basis": "unknown"
+  },
+  "company_stage": "Phase 2",
+  "lead_asset": "baxdrostat (CIN-107)",
+  "lead_asset_stage": "Phase 2",
+  "value_inflection_events": [
+    {
+      "date": "2022-06-17",
+      "event": "not identified",
+      "approx_change_pct": 32.7
+    },
+    {
+      "date": "2022-07-15",
+      "event": "not identified",
+      "approx_change_pct": 28.7
+    },
+    {
+      "date": "2022-08-12",
+      "event": "Positive Phase 2 BrigHtn trial results announced 2022-08-08",
+      "approx_change_pct": 49.6
+    },
+    {
+      "date": "2022-11-28",
+      "event": "HALO trial missed primary endpoint",
+      "approx_change_pct": -53.7
+    },
+    {
+      "date": "2023-01-09",
+      "event": "Acquisition by AstraZeneca announced",
+      "approx_change_pct": 145.8
+    }
+  ],
+  "offer_low_per_share": 22.0,
+  "offer_high_per_share": 36.0,
+  "num_offers_or_rounds": 8,
+  "num_parties_interested": 3,
+  "process_type": "single bidder / bilateral",
+  "engagement_to_deal_days": 749,
+  "first_engagement_date": "2021-05-10",
+  "signing_date": "2023-01-08",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No pre-deal public rumors exist; revealed post-announcement that negotiations were private since 2021."
+  },
+  "price_move_3m_pct": -54.3,
+  "price_move_6m_pct": -65.8,
+  "price_move_12m_pct": -26.4,
+  "price_move_24m_pct": null,
+  "notes": "Post-HALO failure, AstraZeneca re-engaged and negotiated a deal with a significant CVR tied to NDA/MAA filing for baxdrostat by 2033, reflecting the asset's risk-adjusted value.",
+  "_source_file": "cincor_pharma_inc_CINC.md"
+}

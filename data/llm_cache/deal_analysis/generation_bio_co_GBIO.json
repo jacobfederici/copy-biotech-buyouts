@@ -1,0 +1,105 @@
+{
+  "company": "Generation Bio Co.",
+  "ticker": "GBIO",
+  "buyer": "XOMA Royalty Corporation",
+  "announcement_date": "2025-12-15",
+  "close_date": "2026-02-09",
+  "deal_status": "completed",
+  "deal_size_usd_m": 28.96,
+  "final_offer_per_share": 4.2913,
+  "payment_type": "cash+CVR",
+  "has_cvr": true,
+  "premium": {
+    "pct": null,
+    "basis": "unknown"
+  },
+  "company_stage": "preclinical",
+  "lead_asset": "ctLNP system",
+  "lead_asset_stage": "Preclinical",
+  "value_inflection_events": [
+    {
+      "date": "2024-03-01",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 24.2
+    },
+    {
+      "date": "2024-03-08",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 34.0
+    },
+    {
+      "date": "2024-03-29",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 22.2
+    },
+    {
+      "date": "2024-04-19",
+      "event": "not identified in filings or news",
+      "approx_change_pct": -24.3
+    },
+    {
+      "date": "2024-05-17",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 22.4
+    },
+    {
+      "date": "2024-07-05",
+      "event": "not identified in filings or news",
+      "approx_change_pct": -23.4
+    },
+    {
+      "date": "2024-07-12",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 26.4
+    },
+    {
+      "date": "2024-07-26",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 21.9
+    },
+    {
+      "date": "2024-08-09",
+      "event": "not identified in filings or news",
+      "approx_change_pct": -20.9
+    },
+    {
+      "date": "2024-11-15",
+      "event": "not identified in filings or news",
+      "approx_change_pct": -31.9
+    },
+    {
+      "date": "2025-06-27",
+      "event": "not identified in filings or news",
+      "approx_change_pct": -21.1
+    },
+    {
+      "date": "2025-07-25",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 1035.5
+    },
+    {
+      "date": "2025-08-15",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 53.4
+    }
+  ],
+  "offer_low_per_share": null,
+  "offer_high_per_share": 4.2913,
+  "num_offers_or_rounds": 5,
+  "num_parties_interested": 5,
+  "process_type": "broad auction",
+  "engagement_to_deal_days": 95,
+  "first_engagement_date": "2025-09-11",
+  "signing_date": "2025-12-15",
+  "interest_direction": "outbound (target ran process / sought buyer)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No pre-deal rumors"
+  },
+  "price_move_3m_pct": -8.43,
+  "price_move_6m_pct": 46.76,
+  "price_move_12m_pct": -53.19,
+  "price_move_24m_pct": -71.58,
+  "notes": "Reverse split and strategic alternatives process preceded the cash+CVR deal; upfront cash represented a discount to recent trading price, with future value tied to contingent rights.",
+  "_source_file": "generation_bio_co_GBIO.md"
+}

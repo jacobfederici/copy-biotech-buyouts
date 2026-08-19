@@ -1,0 +1,60 @@
+{
+  "company": "Kezar Life Sciences, Inc.",
+  "ticker": "KZR",
+  "buyer": "Aurinia Pharma U.S., Inc.",
+  "announcement_date": "2026-03-30",
+  "close_date": "2026-05-11",
+  "deal_status": "completed",
+  "deal_size_usd_m": 51.4,
+  "final_offer_per_share": 6.955,
+  "payment_type": "cash+CVR",
+  "has_cvr": true,
+  "premium": {
+    "pct": 12.2,
+    "basis": "vs last pre-announcement close of $6.20 on 2026-03-27"
+  },
+  "company_stage": "Phase 2",
+  "lead_asset": "Zetomipzomib (KZR-616)",
+  "lead_asset_stage": "Phase 2",
+  "value_inflection_events": [
+    {
+      "date": "2024-10-04",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 46.6
+    },
+    {
+      "date": "2024-11-01",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 817.7
+    },
+    {
+      "date": "2025-10-17",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 50.7
+    },
+    {
+      "date": "2026-05-08",
+      "event": "not identified in filings or news",
+      "approx_change_pct": -97.7
+    }
+  ],
+  "offer_low_per_share": null,
+  "offer_high_per_share": 6.955,
+  "num_offers_or_rounds": 3,
+  "num_parties_interested": 2,
+  "process_type": "broad auction",
+  "engagement_to_deal_days": 165,
+  "first_engagement_date": "2025-10-16",
+  "signing_date": "2026-03-30",
+  "interest_direction": "outbound (target ran process / sought buyer)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No specific deal rumors >1 month prior; strategic review announced Oct 2025."
+  },
+  "price_move_3m_pct": -2.2,
+  "price_move_6m_pct": 69.9,
+  "price_move_12m_pct": 26.0,
+  "price_move_24m_pct": -22.5,
+  "notes": "Deal followed clinical setbacks and a broad auction, with upfront cash at a modest premium to net cash and a CVR for pipeline upside.",
+  "_source_file": "kezar_life_sciences_inc_KZR.md"
+}

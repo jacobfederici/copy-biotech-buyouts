@@ -1,0 +1,60 @@
+{
+  "company": "Anadys Pharmaceuticals, Inc.",
+  "ticker": "ANDS",
+  "buyer": "Hoffmann-La Roche Inc.",
+  "announcement_date": "2011-10-17",
+  "close_date": "2011-11-23",
+  "deal_status": "completed",
+  "deal_size_usd_m": 211.6,
+  "final_offer_per_share": 3.7,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 256,
+    "basis": "closing price on 2011-10-14 ($1.04)"
+  },
+  "company_stage": "Phase 2",
+  "lead_asset": "setrobuvir",
+  "lead_asset_stage": "Phase 2",
+  "value_inflection_events": [
+    {
+      "date": "2010-10-15",
+      "event": "Pricing of public offering",
+      "approx_change_pct": -15.5
+    },
+    {
+      "date": "2011-04-01",
+      "event": "Execution of clinical collaboration agreement",
+      "approx_change_pct": 12.3
+    },
+    {
+      "date": "2011-09-16",
+      "event": "Anadys signed a confidentiality agreement with Roche and sent bid letters to interested parties (no public disclosure)",
+      "approx_change_pct": 47.3
+    },
+    {
+      "date": "2011-10-21",
+      "event": "Announcement of acquisition by Roche",
+      "approx_change_pct": 253.4
+    }
+  ],
+  "offer_low_per_share": 3.0,
+  "offer_high_per_share": 3.7,
+  "num_offers_or_rounds": 3,
+  "num_parties_interested": 12,
+  "process_type": "broad auction",
+  "engagement_to_deal_days": 417,
+  "first_engagement_date": "2010-08-25",
+  "signing_date": "2011-10-16",
+  "interest_direction": "outbound (target ran process / sought buyer)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No specific deal leak; strategic review announced in May 2010, but no buyer identified until official announcement."
+  },
+  "price_move_3m_pct": 8.33,
+  "price_move_6m_pct": -16.8,
+  "price_move_12m_pct": -40.57,
+  "price_move_24m_pct": -52.94,
+  "notes": "Roche acquired Anadys for its Phase IIb HCV asset setrobuvir at a 256% premium, after a broad auction process that initially failed to yield offers, and the company faced significant dilution risk to fund development.",
+  "_source_file": "anadys_pharmaceuticals_inc_ands.md"
+}

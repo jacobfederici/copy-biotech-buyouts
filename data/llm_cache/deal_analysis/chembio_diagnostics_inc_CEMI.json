@@ -1,0 +1,118 @@
+{
+  "company": "Chembio Diagnostics, Inc.",
+  "ticker": "CEMI",
+  "buyer": "Biosynex SA",
+  "announcement_date": "2023-01-31",
+  "close_date": "2023-04-27",
+  "deal_status": "completed",
+  "deal_size_usd_m": 16.53,
+  "final_offer_per_share": 0.45,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": null,
+    "basis": "Premium not explicitly stated in the dossier; final price of $0.45 was significantly negotiated and close to recent trading prices."
+  },
+  "company_stage": "commercial",
+  "lead_asset": "DPP HIV-Syphilis System",
+  "lead_asset_stage": "CLIA Waived",
+  "value_inflection_events": [
+    {
+      "date": "2021-03-05",
+      "event": "not identified in filings or news",
+      "approx_change_pct": -23.0
+    },
+    {
+      "date": "2021-07-23",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 27.0
+    },
+    {
+      "date": "2021-08-27",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 21.5
+    },
+    {
+      "date": "2021-12-31",
+      "event": "not identified in filings or news",
+      "approx_change_pct": -34.5
+    },
+    {
+      "date": "2022-02-04",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 20.1
+    },
+    {
+      "date": "2022-07-08",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 30.6
+    },
+    {
+      "date": "2022-08-05",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 59.4
+    },
+    {
+      "date": "2022-08-12",
+      "event": "not identified in filings or news",
+      "approx_change_pct": -21.8
+    },
+    {
+      "date": "2022-08-26",
+      "event": "not identified in filings or news",
+      "approx_change_pct": -20.6
+    },
+    {
+      "date": "2022-10-14",
+      "event": "not identified in filings or news",
+      "approx_change_pct": -24.6
+    },
+    {
+      "date": "2022-11-25",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 21.2
+    },
+    {
+      "date": "2022-12-23",
+      "event": "not identified in filings or news",
+      "approx_change_pct": -20.2
+    },
+    {
+      "date": "2023-01-06",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 23.8
+    },
+    {
+      "date": "2023-01-13",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 32.6
+    },
+    {
+      "date": "2023-02-03",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 25.7
+    },
+    {
+      "date": "2023-03-17",
+      "event": "not identified in filings or news",
+      "approx_change_pct": -21.2
+    }
+  ],
+  "offer_low_per_share": 0.4,
+  "offer_high_per_share": 0.45,
+  "num_offers_or_rounds": 4,
+  "num_parties_interested": 80,
+  "process_type": "broad auction",
+  "engagement_to_deal_days": null,
+  "first_engagement_date": "2022-05-25",
+  "signing_date": "2023-01-31",
+  "interest_direction": "outbound (target ran process / sought buyer)",
+  "leaked": false,
+  "leaked_basis": "unknown",
+  "price_move_3m_pct": null,
+  "price_move_6m_pct": null,
+  "price_move_12m_pct": null,
+  "price_move_24m_pct": null,
+  "notes": "Deal driven by severe financial distress after COVID-19 EUA revocation; board engaged 80 potential acquirers in a broad auction process.",
+  "_source_file": "chembio_diagnostics_inc_CEMI.md"
+}

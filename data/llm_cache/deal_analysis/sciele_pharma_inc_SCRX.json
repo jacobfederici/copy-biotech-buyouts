@@ -1,0 +1,45 @@
+{
+  "company": "Sciele Pharma, Inc.",
+  "ticker": "SCRX",
+  "buyer": "Shionogi & Co., Ltd.",
+  "announcement_date": "2008-09-01",
+  "close_date": "2008-10-09",
+  "deal_status": "completed",
+  "deal_size_usd_m": 1003.0,
+  "final_offer_per_share": 31.0,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 57.7,
+    "basis": "vs. closing price on August 29, 2008 (day prior to board approval)"
+  },
+  "company_stage": "commercial",
+  "lead_asset": "Sular",
+  "lead_asset_stage": "Marketed",
+  "value_inflection_events": [
+    {
+      "date": "2008-09-01",
+      "event": "Deal announcement with Shionogi at $31.00 per share",
+      "approx_change_pct": 59.5
+    }
+  ],
+  "offer_low_per_share": 28.5,
+  "offer_high_per_share": 31.0,
+  "num_offers_or_rounds": 3,
+  "num_parties_interested": 6,
+  "process_type": "limited / targeted",
+  "engagement_to_deal_days": 125,
+  "first_engagement_date": "2008-04-29",
+  "signing_date": "2008-09-01",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No public reports of a specific takeover >=1 month prior; insider trading tip in May was non-public."
+  },
+  "price_move_3m_pct": -12.0,
+  "price_move_6m_pct": -6.9,
+  "price_move_12m_pct": -16.5,
+  "price_move_24m_pct": 9.1,
+  "notes": "Shionogi initiated unsolicited approach via Goldman Sachs; competitive tension from private equity bidders but chosen for speed and certainty; $25M breakup fee; 92% tendered in subsequent offering period.",
+  "_source_file": "sciele_pharma_inc_SCRX.md"
+}

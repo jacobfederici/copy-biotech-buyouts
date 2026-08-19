@@ -1,0 +1,45 @@
+{
+  "company": "Bioverativ Inc.",
+  "ticker": "BIVV",
+  "buyer": "Sanofi",
+  "announcement_date": "2018-01-22",
+  "close_date": "2018-03-08",
+  "deal_status": "completed",
+  "deal_size_usd_m": 11600,
+  "final_offer_per_share": 105.0,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 63.8,
+    "basis": "last trading day close ($64.11 on 2018-01-19)"
+  },
+  "company_stage": "commercial",
+  "lead_asset": "ELOCTATE",
+  "lead_asset_stage": "Marketed",
+  "value_inflection_events": [
+    {
+      "date": "2018-01-22",
+      "event": "Sanofi acquisition announcement",
+      "approx_change_pct": 60.7
+    }
+  ],
+  "offer_low_per_share": 98.5,
+  "offer_high_per_share": 105.0,
+  "num_offers_or_rounds": 3,
+  "num_parties_interested": 1,
+  "process_type": "single bidder / bilateral",
+  "engagement_to_deal_days": 254,
+  "first_engagement_date": "2017-05-12",
+  "signing_date": "2018-01-21",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No specific leak of Sanofi's interest until Jan 21, 2018, one day before announcement."
+  },
+  "price_move_3m_pct": 6.46,
+  "price_move_6m_pct": 1.41,
+  "price_move_12m_pct": 44.46,
+  "price_move_24m_pct": null,
+  "notes": "Unsolicited approach by Sanofi led to a negotiated $105/sh cash deal, a 63.8% premium over the last close, after initial $98.50 bid was rejected and management presentation highlighted pipeline value.",
+  "_source_file": "bioverativ_inc_BIVV.md"
+}

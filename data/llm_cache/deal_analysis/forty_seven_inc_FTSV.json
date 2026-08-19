@@ -1,0 +1,45 @@
+{
+  "company": "Forty Seven, Inc.",
+  "ticker": "FTSV",
+  "buyer": "Gilead Sciences, Inc.",
+  "announcement_date": "2020-03-02",
+  "close_date": "2020-04-07",
+  "deal_status": "completed",
+  "deal_size_usd_m": 4900,
+  "final_offer_per_share": 95.5,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 94.0,
+    "basis": "Unaffected closing price of $49.22 on Feb 21, 2020, prior to the Feb 27 Bloomberg report."
+  },
+  "company_stage": "Phase 2",
+  "lead_asset": "magrolimab",
+  "lead_asset_stage": "Phase 2",
+  "value_inflection_events": [
+    {
+      "date": "2019-12-09",
+      "event": "Updated magrolimab clinical data in MDS and AML",
+      "approx_change_pct": 147.6
+    }
+  ],
+  "offer_low_per_share": 57.5,
+  "offer_high_per_share": 95.5,
+  "num_offers_or_rounds": 6,
+  "num_parties_interested": 4,
+  "process_type": "limited / targeted",
+  "engagement_to_deal_days": 55,
+  "first_engagement_date": "2020-01-07",
+  "signing_date": "2020-03-02",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "Bloomberg report on Feb 27, 2020, only 3 days before announcement."
+  },
+  "price_move_3m_pct": 301.5,
+  "price_move_6m_pct": 676.6,
+  "price_move_12m_pct": 234.3,
+  "price_move_24m_pct": null,
+  "notes": "Gilead's $95.50/sh cash bid represented a 94% premium to unaffected price, fueled by magrolimab's Phase 2 promise and competitive pressure from Party X.",
+  "_source_file": "forty_seven_inc_FTSV.md"
+}

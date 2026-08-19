@@ -1,0 +1,60 @@
+{
+  "company": "BioDelivery Sciences International Inc.",
+  "ticker": "BDSI",
+  "buyer": "Collegium Pharmaceuticals Inc.",
+  "announcement_date": "2022-02-14",
+  "close_date": "2022-03-22",
+  "deal_status": "completed",
+  "deal_size_usd_m": 568.6,
+  "final_offer_per_share": 5.6,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 53.8,
+    "basis": "vs closing price of $3.64 on February 11, 2022, the last trading day before public announcement"
+  },
+  "company_stage": "commercial",
+  "lead_asset": "BELBUCA",
+  "lead_asset_stage": "Approved / commercial",
+  "value_inflection_events": [
+    {
+      "date": "2020-03-20",
+      "event": "COVID-19 market sell-off; sector-wide biotechnology decline",
+      "approx_change_pct": -21.5
+    },
+    {
+      "date": "2021-05-28",
+      "event": "Decline in BELBUCA revenue trends or competitive pressure in opioid space",
+      "approx_change_pct": -25.1
+    },
+    {
+      "date": "2021-12-24",
+      "event": "Recovery and market optimism; anticipation of ELYXYB launch in 2022, coinciding with initial outreach from Collegium",
+      "approx_change_pct": 23.8
+    },
+    {
+      "date": "2022-02-18",
+      "event": "Public announcement of Merger Agreement with Collegium at $5.60 per share",
+      "approx_change_pct": 52.7
+    }
+  ],
+  "offer_low_per_share": 4.6,
+  "offer_high_per_share": 5.6,
+  "num_offers_or_rounds": 4,
+  "num_parties_interested": 4,
+  "process_type": "limited / targeted",
+  "engagement_to_deal_days": 54,
+  "first_engagement_date": "2021-12-22",
+  "signing_date": "2022-02-14",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No pre-deal rumors or specific takeover speculation identified in major financial outlets prior to the official announcement."
+  },
+  "price_move_3m_pct": 58.3,
+  "price_move_6m_pct": 105.1,
+  "price_move_12m_pct": 27.3,
+  "price_move_24m_pct": 5.5,
+  "notes": "Collegium initiated a competitive process that drove a 55% increase from its initial $4.60 offer to the final $5.60, with Party A submitting a mixed cash/stock bid at $5.25 but failing to match Collegium's all-cash terms.",
+  "_source_file": "biodelivery_sciences_international_bdsi.md"
+}

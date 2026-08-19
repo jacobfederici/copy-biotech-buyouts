@@ -1,0 +1,39 @@
+{
+  "company": "DURECT Corporation",
+  "ticker": "DRRX",
+  "buyer": "Bausch Health Americas, Inc.",
+  "announcement_date": "2025-07-29",
+  "close_date": "2025-09-11",
+  "deal_status": "completed",
+  "deal_size_usd_m": 62.5,
+  "final_offer_per_share": 1.75,
+  "payment_type": "cash+CVR",
+  "has_cvr": true,
+  "premium": {
+    "pct": 217,
+    "basis": "Headline premium vs previous day's closing price per announcement"
+  },
+  "company_stage": "Phase 3 / pre-approval",
+  "lead_asset": "larsucosterol",
+  "lead_asset_stage": "Phase 3 ready",
+  "value_inflection_events": [],
+  "offer_low_per_share": 0.81,
+  "offer_high_per_share": 2.34,
+  "num_offers_or_rounds": 6,
+  "num_parties_interested": 1,
+  "process_type": "single bidder / bilateral",
+  "engagement_to_deal_days": 550,
+  "first_engagement_date": "2024-01-25",
+  "signing_date": "2025-07-28",
+  "interest_direction": "outbound (target ran process / sought buyer)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No pre-deal rumors identified"
+  },
+  "price_move_3m_pct": -5.0,
+  "price_move_6m_pct": -26.0,
+  "price_move_12m_pct": -65.9,
+  "price_move_24m_pct": -83.1,
+  "notes": "DURECT engaged in a prolonged bilateral negotiation with Bausch Health after multiple failed attempts and financial distress, ultimately accepting a low upfront cash price with a high CVR potential.",
+  "_source_file": "durect_corp_DRRX.md"
+}

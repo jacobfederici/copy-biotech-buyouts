@@ -1,0 +1,85 @@
+{
+  "company": "Ignyta, Inc.",
+  "ticker": "RXDX",
+  "buyer": "Roche Holdings, Inc.",
+  "announcement_date": "2017-12-22",
+  "close_date": "2018-02-08",
+  "deal_status": "completed",
+  "deal_size_usd_m": 1900,
+  "final_offer_per_share": 27.0,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 74,
+    "basis": "74% premium over the last closing price of $15.55 on December 21, 2017, as stated in the dossier"
+  },
+  "company_stage": "Phase 2",
+  "lead_asset": "Entrectinib (RXDX-101)",
+  "lead_asset_stage": "Phase 2",
+  "value_inflection_events": [
+    {
+      "date": "2016-03-18",
+      "event": "not identified in filings or news",
+      "approx_change_pct": -23.0
+    },
+    {
+      "date": "2016-06-10",
+      "event": "not identified in filings or news",
+      "approx_change_pct": -21.1
+    },
+    {
+      "date": "2016-11-11",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 56.5
+    },
+    {
+      "date": "2017-02-03",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 26.5
+    },
+    {
+      "date": "2017-02-10",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 25.0
+    },
+    {
+      "date": "2017-02-17",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 23.9
+    },
+    {
+      "date": "2017-06-16",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 26.3
+    },
+    {
+      "date": "2017-09-01",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 26.3
+    },
+    {
+      "date": "2017-12-22",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 76.1
+    }
+  ],
+  "offer_low_per_share": 23.0,
+  "offer_high_per_share": 27.0,
+  "num_offers_or_rounds": 4,
+  "num_parties_interested": 2,
+  "process_type": "limited / targeted",
+  "engagement_to_deal_days": 32,
+  "first_engagement_date": "2017-11-20",
+  "signing_date": "2017-12-21",
+  "interest_direction": "mixed",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No pre-deal rumors or specific takeover speculation were widely reported prior to the official announcement."
+  },
+  "price_move_3m_pct": 77.05,
+  "price_move_6m_pct": 145.45,
+  "price_move_12m_pct": 405.66,
+  "price_move_24m_pct": 96.63,
+  "notes": "Roche's unsolicited re-engagement in Nov 2017 triggered a competitive dynamic with Party A, culminating in a 74% premium all-cash deal completed via tender offer in under 3 months.",
+  "_source_file": "ignyta_inc_RXDX.md"
+}

@@ -1,0 +1,45 @@
+{
+  "company": "Flexion Therapeutics Inc",
+  "ticker": "FLXN",
+  "buyer": "Pacira BioSciences, Inc.",
+  "announcement_date": "2021-10-11",
+  "close_date": "2021-11-19",
+  "deal_status": "completed",
+  "deal_size_usd_m": 734.3,
+  "final_offer_per_share": 8.5,
+  "payment_type": "mixed",
+  "has_cvr": true,
+  "premium": {
+    "pct": 47.0,
+    "basis": "pre-announcement close price $5.78 on 2021-10-08 (cash component of $8.50)"
+  },
+  "company_stage": "approved+marketed",
+  "lead_asset": "ZILRETTA",
+  "lead_asset_stage": "commercial",
+  "value_inflection_events": [
+    {
+      "date": "2021-10-11",
+      "event": "Deal announcement",
+      "approx_change_pct": 63.3
+    }
+  ],
+  "offer_low_per_share": 7.5,
+  "offer_high_per_share": 8.5,
+  "num_offers_or_rounds": 5,
+  "num_parties_interested": 5,
+  "process_type": "broad auction",
+  "engagement_to_deal_days": 143,
+  "first_engagement_date": "2021-05-21",
+  "signing_date": "2021-10-11",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": true,
+    "details": "RBC Capital Markets analyst note in August 2021 speculated Flexion was an acquisition target, about 2 months before official announcement."
+  },
+  "price_move_3m_pct": -26.1,
+  "price_move_6m_pct": -28.8,
+  "price_move_12m_pct": -49.1,
+  "price_move_24m_pct": -59.4,
+  "notes": "Competitive auction process with CVR; stock had declined 59% over 2 years before 47% cash premium emerged.",
+  "_source_file": "flexion_therapeutics_inc_FLXN.md"
+}

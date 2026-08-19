@@ -1,0 +1,39 @@
+{
+  "company": "CTI BioPharma Corp.",
+  "ticker": "CTIC",
+  "buyer": "Swedish Orphan Biovitrum AB (publ)",
+  "announcement_date": "2023-05-10",
+  "close_date": "2023-06-26",
+  "deal_status": "completed",
+  "deal_size_usd_m": 1700,
+  "final_offer_per_share": 9.1,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 89,
+    "basis": "closing price on May 9, 2023 (as stated in dossier)"
+  },
+  "company_stage": "commercial",
+  "lead_asset": "VONJO (pacritinib)",
+  "lead_asset_stage": "commercial",
+  "value_inflection_events": [],
+  "offer_low_per_share": 8.0,
+  "offer_high_per_share": 9.1,
+  "num_offers_or_rounds": 5,
+  "num_parties_interested": 4,
+  "process_type": "limited / targeted",
+  "engagement_to_deal_days": 160,
+  "first_engagement_date": "2022-12-01",
+  "signing_date": "2023-05-10",
+  "interest_direction": "mixed",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No pre-deal rumors; deal was a surprise to the market."
+  },
+  "price_move_3m_pct": -7.37,
+  "price_move_6m_pct": -17.51,
+  "price_move_12m_pct": 16.67,
+  "price_move_24m_pct": 124.77,
+  "notes": "Deal valued at $1.7B despite equity value of $1.2B; competitive process with multiple bidders; no pre-deal leaks.",
+  "_source_file": "cti_biopharma_corp_CTIC.md"
+}

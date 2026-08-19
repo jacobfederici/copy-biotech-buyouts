@@ -1,0 +1,55 @@
+{
+  "company": "Osiris Therapeutics, Inc.",
+  "ticker": "OSIR",
+  "buyer": "Smith & Nephew plc",
+  "announcement_date": "2019-03-12",
+  "close_date": "2019-04-17",
+  "deal_status": "completed",
+  "deal_size_usd_m": 660.0,
+  "final_offer_per_share": 19.0,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 37.0,
+    "basis": "37% premium to the 90-day volume-weighted average stock price as stated in SC 14D9"
+  },
+  "company_stage": "commercial",
+  "lead_asset": "Grafix",
+  "lead_asset_stage": "commercial",
+  "value_inflection_events": [
+    {
+      "date": "2017-03-10",
+      "event": "Osiris received notice of delisting from Nasdaq",
+      "approx_change_pct": -25.8
+    },
+    {
+      "date": "2018-08-01",
+      "event": "Osiris re-listed on Nasdaq Global Market",
+      "approx_change_pct": 172.5
+    },
+    {
+      "date": "2019-03-12",
+      "event": "Merger Agreement with Smith & Nephew announced",
+      "approx_change_pct": 1.9
+    }
+  ],
+  "offer_low_per_share": 17.5,
+  "offer_high_per_share": 19.0,
+  "num_offers_or_rounds": 5,
+  "num_parties_interested": 2,
+  "process_type": "limited / targeted",
+  "engagement_to_deal_days": 246,
+  "first_engagement_date": "2018-07-09",
+  "signing_date": "2019-03-12",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No pre-deal public rumors were identified."
+  },
+  "price_move_3m_pct": 26.7,
+  "price_move_6m_pct": 39.6,
+  "price_move_12m_pct": 16.8,
+  "price_move_24m_pct": 229.4,
+  "notes": "Deal followed a 16-month NASDAQ delisting period; 24-month price move is inflated by stale $3.86 delisted price versus active trading baseline after re-listing at $10.52.",
+  "_source_file": "osiris_therapeutics_inc_osir.md"
+}

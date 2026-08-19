@@ -1,0 +1,65 @@
+{
+  "company": "Icosavax, Inc.",
+  "ticker": "ICVX",
+  "buyer": "AstraZeneca Finance and Holdings Inc.",
+  "announcement_date": "2023-12-12",
+  "close_date": "2024-02-19",
+  "deal_status": "completed",
+  "deal_size_usd_m": 1016.1,
+  "final_offer_per_share": 15.0,
+  "payment_type": "cash+CVR",
+  "has_cvr": true,
+  "premium": {
+    "pct": null,
+    "basis": "unknown"
+  },
+  "company_stage": "Phase 2",
+  "lead_asset": "IVX-A12",
+  "lead_asset_stage": "Phase 2",
+  "value_inflection_events": [
+    {
+      "date": "2022-03-25",
+      "event": "Topline interim Phase 1/2 results for IVX-411 (COVID-19) announced",
+      "approx_change_pct": -69.9
+    },
+    {
+      "date": "2022-06-28",
+      "event": "Positive topline interim Phase 1/1b results for IVX-121 (RSV) announced",
+      "approx_change_pct": 31.0
+    },
+    {
+      "date": "2022-12-13",
+      "event": "Positive durability data for IVX-121 at six-month timepoint reported",
+      "approx_change_pct": 162.6
+    },
+    {
+      "date": "2023-05-22",
+      "event": "Positive topline interim Phase 1 results for IVX-A12 announced",
+      "approx_change_pct": 21.3
+    },
+    {
+      "date": "2023-12-12",
+      "event": "Deal announcement and Phase 2 topline data for IVX-A12",
+      "approx_change_pct": 49.2
+    }
+  ],
+  "offer_low_per_share": 12.0,
+  "offer_high_per_share": 15.0,
+  "num_offers_or_rounds": 4,
+  "num_parties_interested": 13,
+  "process_type": "limited / targeted",
+  "engagement_to_deal_days": 172,
+  "first_engagement_date": "2022-07-21",
+  "signing_date": "2023-12-11",
+  "interest_direction": "outbound (target ran process / sought buyer)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No public rumors or media reports of takeover speculation prior to the official announcement."
+  },
+  "price_move_3m_pct": 42.7,
+  "price_move_6m_pct": 103.8,
+  "price_move_12m_pct": 176.3,
+  "price_move_24m_pct": -36.3,
+  "notes": "Deal included a $5.00 CVR tied to FDA approval and sales milestones. Icosavax ran a targeted process after Phase 1 data, engaging 13 companies, but only AstraZeneca submitted a bid.",
+  "_source_file": "icosavax_inc_ICVX.md"
+}

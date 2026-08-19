@@ -1,0 +1,45 @@
+{
+  "company": "Entasis Therapeutics Holdings Inc.",
+  "ticker": "ETTX",
+  "buyer": "Innoviva, Inc.",
+  "announcement_date": "2022-05-23",
+  "close_date": "2022-07-11",
+  "deal_status": "completed",
+  "deal_size_usd_m": 113,
+  "final_offer_per_share": 2.2,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": null,
+    "basis": "Premium not explicitly stated in dossier; final offer of $2.20 vs. prior trading prices. News headline mentions 60% premium, but basis unclear."
+  },
+  "company_stage": "Phase 3 / pre-approval",
+  "lead_asset": "Sulbactam-durlobactam (SUL-DUR)",
+  "lead_asset_stage": "Phase 3",
+  "value_inflection_events": [
+    {
+      "date": "2021-10-18",
+      "event": "Positive topline results for SUL-DUR from Phase 3 ATTACK trial announced",
+      "approx_change_pct": null
+    }
+  ],
+  "offer_low_per_share": 1.8,
+  "offer_high_per_share": 2.2,
+  "num_offers_or_rounds": 3,
+  "num_parties_interested": 34,
+  "process_type": "limited / targeted",
+  "engagement_to_deal_days": 111,
+  "first_engagement_date": "2022-02-01",
+  "signing_date": "2022-05-22",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": true,
+    "details": "Innoviva's initial $1.80/share non-binding proposal on Feb 1, 2022, was reported in SEC filings and media (Endpoints News) on Feb 2, 2022, ~3.5 months before the May 23, 2022 announcement."
+  },
+  "price_move_3m_pct": 15.79,
+  "price_move_6m_pct": 16.13,
+  "price_move_12m_pct": -12.2,
+  "price_move_24m_pct": -37.5,
+  "notes": "Deal was a take-private by majority shareholder Innoviva (60% owner) after a broad but unsuccessful market check with 34 parties contacted. The final $2.20 offer was a 22% increase over the initial $1.80 bid, driven by the target's severe capital constraints and the buyer's strategic position.",
+  "_source_file": "entasis_therapeutics_holdings_inc_ETTX.md"
+}

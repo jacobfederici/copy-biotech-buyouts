@@ -1,0 +1,45 @@
+{
+  "company": "Millennium Pharmaceuticals, Inc.",
+  "ticker": "MLNM",
+  "buyer": "Takeda America Holdings, Inc.",
+  "announcement_date": "2008-04-10",
+  "close_date": "2008-05-14",
+  "deal_status": "completed",
+  "deal_size_usd_m": 8167.6,
+  "final_offer_per_share": 25.0,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 52.9,
+    "basis": "closing price prior to announcement, as stated by Board"
+  },
+  "company_stage": "approved+marketed",
+  "lead_asset": "VELCADE (bortezomib)",
+  "lead_asset_stage": "Marketed",
+  "value_inflection_events": [
+    {
+      "date": "2008-04-11",
+      "event": "Announcement of definitive merger agreement with Takeda",
+      "approx_change_pct": 50.9
+    }
+  ],
+  "offer_low_per_share": 23.0,
+  "offer_high_per_share": 25.0,
+  "num_offers_or_rounds": 3,
+  "num_parties_interested": 1,
+  "process_type": "single bidder / bilateral",
+  "engagement_to_deal_days": 92,
+  "first_engagement_date": "2008-01-09",
+  "signing_date": "2008-04-10",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": true,
+    "details": "Multiple reports of takeover speculation since late 2006, notably in Dec 2007 - Jan 2008 and March 2008."
+  },
+  "price_move_3m_pct": 7.4,
+  "price_move_6m_pct": 47.0,
+  "price_move_12m_pct": 39.6,
+  "price_move_24m_pct": 72.1,
+  "notes": "Takeda acquired Millennium at a 53% premium in cash, with no competing bids, after unsolicited interest evolved from collaboration talks.",
+  "_source_file": "millennium_pharmaceuticals_inc_MLNM.md"
+}

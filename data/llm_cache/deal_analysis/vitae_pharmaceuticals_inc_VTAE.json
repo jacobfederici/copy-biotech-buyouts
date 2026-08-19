@@ -1,0 +1,100 @@
+{
+  "company": "Vitae Pharmaceuticals, Inc.",
+  "ticker": "VTAE",
+  "buyer": "Allergan plc",
+  "announcement_date": "2016-09-14",
+  "close_date": "2016-10-25",
+  "deal_status": "completed",
+  "deal_size_usd_m": 639,
+  "final_offer_per_share": 21.0,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 159,
+    "basis": "over prior day's close of $8.10 on September 13, 2016"
+  },
+  "company_stage": "Phase 2",
+  "lead_asset": "VTP-43742",
+  "lead_asset_stage": "Phase 2",
+  "value_inflection_events": [
+    {
+      "date": "2014-10-24",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 44.6
+    },
+    {
+      "date": "2014-10-31",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 45.3
+    },
+    {
+      "date": "2015-01-16",
+      "event": "not identified in filings or news",
+      "approx_change_pct": -22.6
+    },
+    {
+      "date": "2015-04-10",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 22.8
+    },
+    {
+      "date": "2015-06-19",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 27.2
+    },
+    {
+      "date": "2015-09-11",
+      "event": "Positive Phase 1 results for VTP-43742 (RORyt inhibitor) announced on 2015-09-08",
+      "approx_change_pct": 88.4
+    },
+    {
+      "date": "2016-01-08",
+      "event": "not identified in filings or news",
+      "approx_change_pct": -22.7
+    },
+    {
+      "date": "2016-03-04",
+      "event": "Top-line results of VTP-43742 Phase 2a trial announced on 2016-03-01",
+      "approx_change_pct": -48.8
+    },
+    {
+      "date": "2016-03-18",
+      "event": "Proof-of-concept data for VTP-43742 in psoriasis announced on 2016-03-16",
+      "approx_change_pct": 50.7
+    },
+    {
+      "date": "2016-05-20",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 24.3
+    },
+    {
+      "date": "2016-05-27",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 21.2
+    },
+    {
+      "date": "2016-09-16",
+      "event": "Acquisition announcement on 2016-09-14 at $21.00 per share",
+      "approx_change_pct": 160.2
+    }
+  ],
+  "offer_low_per_share": 20.5,
+  "offer_high_per_share": 21.0,
+  "num_offers_or_rounds": 2,
+  "num_parties_interested": 1,
+  "process_type": "limited / targeted",
+  "engagement_to_deal_days": 57,
+  "first_engagement_date": "2016-07-18",
+  "signing_date": "2016-09-13",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No pre-deal rumors or leaks; deal was a surprise to the market."
+  },
+  "price_move_3m_pct": -21.0,
+  "price_move_6m_pct": 68.8,
+  "price_move_12m_pct": -43.8,
+  "price_move_24m_pct": 1.3,
+  "notes": "Deal offered a 159% premium after a volatile period with a failed Phase 2a readout in early 2016, followed by a proof-of-concept recovery; Allergan approached target directly and conducted only a limited market check.",
+  "_source_file": "vitae_pharmaceuticals_inc_VTAE.md"
+}

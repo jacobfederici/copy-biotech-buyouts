@@ -1,0 +1,45 @@
+{
+  "company": "CoLucid Pharmaceuticals, Inc.",
+  "ticker": "CLCD",
+  "buyer": "Eli Lilly and Company",
+  "announcement_date": "2017-01-18",
+  "close_date": "2017-03-01",
+  "deal_status": "completed",
+  "deal_size_usd_m": 957.7,
+  "final_offer_per_share": 46.5,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": null,
+    "basis": "unknown"
+  },
+  "company_stage": "Phase 3",
+  "lead_asset": "Lasmiditan (oral)",
+  "lead_asset_stage": "Phase 3",
+  "value_inflection_events": [
+    {
+      "date": "2016-09-06",
+      "event": "Positive top-line results from SAMURAI Phase 3 trial announced",
+      "approx_change_pct": 105.1
+    }
+  ],
+  "offer_low_per_share": 42.7,
+  "offer_high_per_share": 46.5,
+  "num_offers_or_rounds": 3,
+  "num_parties_interested": 9,
+  "process_type": "broad auction",
+  "engagement_to_deal_days": 134,
+  "first_engagement_date": "2016-09-06",
+  "signing_date": "2017-01-17",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No pre-deal rumors or leaks identified."
+  },
+  "price_move_3m_pct": 35.5,
+  "price_move_6m_pct": 440.3,
+  "price_move_12m_pct": 778.8,
+  "price_move_24m_pct": 443.9,
+  "notes": "Lilly re-acquired its originally discovered asset lasmiditan after positive Phase 3 data; a broad process yielded only one final bidder due to labeling concerns from other parties.",
+  "_source_file": "colucid_pharmaceuticals_inc_CLCD.md"
+}

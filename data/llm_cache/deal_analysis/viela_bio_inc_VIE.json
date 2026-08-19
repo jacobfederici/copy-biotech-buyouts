@@ -1,0 +1,50 @@
+{
+  "company": "Viela Bio, Inc.",
+  "ticker": "VIE",
+  "buyer": "Horizon Therapeutics plc",
+  "announcement_date": "2021-02-01",
+  "close_date": "2021-03-15",
+  "deal_status": "completed",
+  "deal_size_usd_m": 3050.0,
+  "final_offer_per_share": 53.0,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 52.8,
+    "basis": "vs. last pre-announcement close of $34.68 on 2021-01-29"
+  },
+  "company_stage": "approved+marketed",
+  "lead_asset": "UPLIZNA (inebilizumab-cdon)",
+  "lead_asset_stage": "Approved/Marketed",
+  "value_inflection_events": [
+    {
+      "date": "2020-06-11",
+      "event": "U.S. FDA Approval of UPLIZNA for NMOSD",
+      "approx_change_pct": null
+    },
+    {
+      "date": "2021-02-01",
+      "event": "Acquisition announcement by Horizon Therapeutics at $53.00/share",
+      "approx_change_pct": 52.4
+    }
+  ],
+  "offer_low_per_share": 44.0,
+  "offer_high_per_share": 53.0,
+  "num_offers_or_rounds": 3,
+  "num_parties_interested": 8,
+  "process_type": "limited / targeted",
+  "engagement_to_deal_days": 214,
+  "first_engagement_date": "2020-07-02",
+  "signing_date": "2021-01-31",
+  "interest_direction": "mixed",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No pre-deal rumors or leaks identified; the announcement was a surprise to the market."
+  },
+  "price_move_3m_pct": -13.3,
+  "price_move_6m_pct": -8.5,
+  "price_move_12m_pct": -13.6,
+  "price_move_24m_pct": 50.0,
+  "notes": "Deal followed a targeted process (Project Zenith) where 8 parties were contacted but only Horizon bid. The final $53 offer represented a ~53% premium and was reached after Horizon's initial $44 bid was rejected as inadequate.",
+  "_source_file": "viela_bio_inc_VIE.md"
+}

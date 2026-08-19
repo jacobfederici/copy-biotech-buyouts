@@ -1,0 +1,80 @@
+{
+  "_doc": "Manual, web-verified corrections for deals whose price-feed-derived premium is wrong. Two failure modes: (1) foreign issuers whose offer is in local currency (EUR/SEK) while the price feed is the USD ADR/ADS — a currency/ratio mismatch; (2) a bad price print in the feed. Each entry restores the company-stated premium and a currency-consistent reference close, with a source. Applied by parse.py after the price-derived metrics are computed. per_share_upfront is left as-is (already the correct local-currency offer).",
+  "TXMD": {
+    "reason": "Feed had a bad $0.20 print 4wk pre-announcement; real unaffected close was $2.14 (2022-05-27). Offer $10.00 = 367.3% premium to that close (211.8% to 30-day VWAP).",
+    "currency": "USD",
+    "unaffected_close": 2.14,
+    "last_pre_close": 2.14,
+    "premium_to_unaffected": 3.673,
+    "premium_to_last": 3.673,
+    "runup_4wk_pct": null,
+    "pct_premium_pre_captured": null,
+    "source": "https://www.prnewswire.com/news-releases/ew-healthcare-partners-announces-commencement-of-the-tender-offer-for-all-outstanding-shares-of-therapeuticsmd-301562062.html"
+  },
+  "CALT": {
+    "reason": "Offer SEK 208/ordinary share (SEK 416/ADS); feed compared it to the USD ADS price. Asahi Kasei stated 83% premium to the unaffected SEK 113.6 close (2024-05-27).",
+    "currency": "SEK",
+    "unaffected_close": 113.6,
+    "last_pre_close": 113.6,
+    "premium_to_unaffected": 0.83,
+    "premium_to_last": 0.83,
+    "runup_4wk_pct": null,
+    "pct_premium_pre_captured": null,
+    "source": "https://www.calliditas.se/en/recommended-offer/"
+  },
+  "MOR": {
+    "reason": "Offer EUR 68/share; feed compared it to the USD ADR price. Novartis stated 89% premium to the unaffected 2024-01-25 close (~EUR 35.98), 94% to 1-month VWAP.",
+    "currency": "EUR",
+    "unaffected_close": 35.98,
+    "last_pre_close": 35.98,
+    "premium_to_unaffected": 0.89,
+    "premium_to_last": 0.89,
+    "runup_4wk_pct": null,
+    "pct_premium_pre_captured": null,
+    "source": "https://www.novartis.com/news/media-releases/novartis-strengthen-oncology-pipeline-agreement-acquire-morphosys-ag-eur-68-share-or-aggregate-eur-27bn-cash"
+  },
+  "PSTV": {
+    "reason": "USD feed understated the pre-announcement close (~$1.18 vs real ~$2.86). Roche stated 215% premium (upfront $9.00) to the 2024-11-25 close; up to $13.00 incl. CVR.",
+    "currency": "USD",
+    "unaffected_close": 2.857,
+    "last_pre_close": 2.857,
+    "premium_to_unaffected": 2.15,
+    "premium_to_last": 2.15,
+    "runup_4wk_pct": null,
+    "pct_premium_pre_captured": null,
+    "source": "https://www.sec.gov/Archives/edgar/data/0001661460/000119312524265591/d881793dex991.htm"
+  },
+  "MEMY": {
+    "reason": "Sub-dime 2008-crash feed: the 4wk-prior basis was an unreliable $0.07 print, inflating the premium to 771%. Roche stated a 319% premium for the $0.61 offer vs the unaffected $0.145 close (2008-11-24); to-unaffected aligned to that verified figure.",
+    "currency": "USD",
+    "unaffected_close": 0.146,
+    "last_pre_close": 0.146,
+    "premium_to_unaffected": 3.19,
+    "premium_to_last": 3.19,
+    "runup_4wk_pct": null,
+    "pct_premium_pre_captured": null,
+    "source": "https://www.pharmaceuticalonline.com/doc/roche-signs-definitive-agreement-to-acquire-0001"
+  },
+  "ABLX": {
+    "reason": "Offer EUR 45/share; feed compared it to the USD ADR price. Sanofi stated 21.2% premium to the closing price the day before announcement (~EUR 37.13).",
+    "currency": "EUR",
+    "unaffected_close": 37.13,
+    "last_pre_close": 37.13,
+    "premium_to_unaffected": 0.212,
+    "premium_to_last": 0.212,
+    "runup_4wk_pct": null,
+    "pct_premium_pre_captured": null,
+    "source": "https://www.sec.gov/Archives/edgar/data/0001121404/000119312518022610/d530660dex991.htm"
+  },
+  "TIG": {
+    "reason": "Offer EUR 1.78/ordinary share; feed compared it to the USD ADS price. 82% premium to the EUR 0.98 Brussels close on 2018-01-04.",
+    "currency": "EUR",
+    "unaffected_close": 0.98,
+    "last_pre_close": 0.98,
+    "premium_to_unaffected": 0.82,
+    "premium_to_last": 0.82,
+    "runup_4wk_pct": null,
+    "pct_premium_pre_captured": null,
+    "source": "https://www.fiercebiotech.com/biotech/takeda-strikes-eu520m-deal-to-buy-cell-therapy-firm-tigenix"
+  }
+}

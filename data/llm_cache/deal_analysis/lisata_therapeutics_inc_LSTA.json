@@ -1,0 +1,75 @@
+{
+  "company": "Lisata Therapeutics, Inc.",
+  "ticker": "LSTA",
+  "buyer": "Kuva Labs Inc.",
+  "announcement_date": "2026-03-06",
+  "close_date": "unknown",
+  "deal_status": "pending",
+  "deal_size_usd_m": 36.41,
+  "final_offer_per_share": 4.0,
+  "payment_type": "cash+CVR",
+  "has_cvr": true,
+  "premium": {
+    "pct": 85.2,
+    "basis": "vs. unaffected close of $2.16 on 2026-01-16 (prior to binding term sheet announcement)"
+  },
+  "company_stage": "Phase 2",
+  "lead_asset": "certepetide",
+  "lead_asset_stage": "Phase 2a",
+  "value_inflection_events": [
+    {
+      "date": "2025-01-03",
+      "event": "not identified",
+      "approx_change_pct": 27.5
+    },
+    {
+      "date": "2025-01-24",
+      "event": "not identified",
+      "approx_change_pct": -27.8
+    },
+    {
+      "date": "2025-05-16",
+      "event": "not identified",
+      "approx_change_pct": 25.2
+    },
+    {
+      "date": "2025-11-07",
+      "event": "not identified",
+      "approx_change_pct": -26.2
+    },
+    {
+      "date": "2026-01-23",
+      "event": "not identified",
+      "approx_change_pct": 90.3
+    },
+    {
+      "date": "2026-03-13",
+      "event": "not identified",
+      "approx_change_pct": 20.3
+    },
+    {
+      "date": "2026-04-17",
+      "event": "not identified",
+      "approx_change_pct": -35.5
+    }
+  ],
+  "offer_low_per_share": 4.0,
+  "offer_high_per_share": 7.0,
+  "num_offers_or_rounds": 4,
+  "num_parties_interested": 1,
+  "process_type": "single bidder / bilateral",
+  "engagement_to_deal_days": 405,
+  "first_engagement_date": "2025-01-25",
+  "signing_date": "2026-03-06",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No pre-deal rumors; all price movements followed official announcements."
+  },
+  "price_move_3m_pct": 112.2,
+  "price_move_6m_pct": 92.6,
+  "price_move_12m_pct": 77.1,
+  "price_move_24m_pct": 31.9,
+  "notes": "Deal followed financial distress and multiple amendments due to buyer's financing delays, with upfront cash reduced from $5.00 to $4.00 and CVR increased.",
+  "_source_file": "lisata_therapeutics_inc_LSTA.md"
+}

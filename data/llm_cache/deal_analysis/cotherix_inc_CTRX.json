@@ -1,0 +1,39 @@
+{
+  "company": "CoTherix, Inc.",
+  "ticker": "CTRX",
+  "buyer": "Actelion US Holding Company",
+  "announcement_date": "2006-11-19",
+  "close_date": "2007-01-09",
+  "deal_status": "completed",
+  "deal_size_usd_m": 388.58,
+  "final_offer_per_share": 13.5,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 21,
+    "basis": "recent closing price (as stated in board rationale)"
+  },
+  "company_stage": "commercial",
+  "lead_asset": "Ventavis (iloprost)",
+  "lead_asset_stage": "Marketed",
+  "value_inflection_events": [],
+  "offer_low_per_share": 10.0,
+  "offer_high_per_share": 13.5,
+  "num_offers_or_rounds": 4,
+  "num_parties_interested": 2,
+  "process_type": "limited / targeted",
+  "engagement_to_deal_days": 101,
+  "first_engagement_date": "2006-08-10",
+  "signing_date": "2006-11-19",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No pre-deal rumors detected"
+  },
+  "price_move_3m_pct": 34.38,
+  "price_move_6m_pct": null,
+  "price_move_12m_pct": null,
+  "price_move_24m_pct": null,
+  "notes": "Schering AG's right of first negotiation under the Ventavis license temporarily halted Actelion talks, but Schering ultimately relinquished, allowing the deal to proceed at $13.50.",
+  "_source_file": "cotherix_inc_CTRX.md"
+}

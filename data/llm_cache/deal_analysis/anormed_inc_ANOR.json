@@ -1,0 +1,50 @@
+{
+  "company": "AnorMED Inc.",
+  "ticker": "ANOR",
+  "buyer": "Genzyme Corporation",
+  "announcement_date": "2006-08-30",
+  "close_date": "2006-11-07",
+  "deal_status": "completed",
+  "deal_size_usd_m": 580,
+  "final_offer_per_share": 13.5,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 145.0,
+    "basis": "last close before announcement (2006-08-25) of $5.51"
+  },
+  "company_stage": "Phase 3 / pre-approval",
+  "lead_asset": "MOZOBIL (plerixafor)",
+  "lead_asset_stage": "Phase 3",
+  "value_inflection_events": [
+    {
+      "date": "2006-09-01",
+      "event": "Genzyme commences hostile tender offer at $8.55 per share",
+      "approx_change_pct": 80.4
+    },
+    {
+      "date": "2006-09-26",
+      "event": "AnorMED signs support agreement with Millennium at $12.00 per share",
+      "approx_change_pct": 26.8
+    }
+  ],
+  "offer_low_per_share": 8.55,
+  "offer_high_per_share": 13.5,
+  "num_offers_or_rounds": 3,
+  "num_parties_interested": 3,
+  "process_type": "limited / targeted",
+  "engagement_to_deal_days": 48,
+  "first_engagement_date": "2006-08-30",
+  "signing_date": "2006-10-17",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No public leak; Genzyme's hostile bid was announced on 2006-08-30."
+  },
+  "price_move_3m_pct": -21.3,
+  "price_move_6m_pct": -11.4,
+  "price_move_12m_pct": null,
+  "price_move_24m_pct": null,
+  "notes": "Competitive bidding process: Genzyme hostile $8.55, Millennium white knight $12.00, Genzyme final $13.50; lead asset Mozobil (Phase 3).",
+  "_source_file": "anormed_inc_ANOR.md"
+}

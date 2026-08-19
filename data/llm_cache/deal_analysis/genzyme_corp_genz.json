@@ -1,0 +1,50 @@
+{
+  "company": "Genzyme Corp",
+  "ticker": "GENZ",
+  "buyer": "sanofi-aventis",
+  "announcement_date": "2010-10-04",
+  "close_date": "2011-04-08",
+  "deal_status": "completed",
+  "deal_size_usd_m": 17600,
+  "final_offer_per_share": 74.0,
+  "payment_type": "cash+CVR",
+  "has_cvr": true,
+  "premium": {
+    "pct": null,
+    "basis": "not explicitly stated in dossier"
+  },
+  "company_stage": "commercial",
+  "lead_asset": "Alemtuzumab",
+  "lead_asset_stage": "Phase 3",
+  "value_inflection_events": [
+    {
+      "date": "2010-07-23",
+      "event": "Bloomberg/WSJ report of Sanofi's informal approach to acquire Genzyme",
+      "approx_change_pct": 20.8
+    },
+    {
+      "date": "2011-02-16",
+      "event": "Merger agreement signed at $74.00 + CVR",
+      "approx_change_pct": 3.9
+    }
+  ],
+  "offer_low_per_share": 69.0,
+  "offer_high_per_share": 74.0,
+  "num_offers_or_rounds": 2,
+  "num_parties_interested": 3,
+  "process_type": "single bidder / bilateral",
+  "engagement_to_deal_days": 202,
+  "first_engagement_date": "2010-07-29",
+  "signing_date": "2011-02-16",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": true,
+    "details": "Rumors of Sanofi's interest surfaced in early July 2010, and a formal approach was reported on July 23, 2010, over two months before the October 4, 2010 tender offer announcement."
+  },
+  "price_move_3m_pct": 34.2,
+  "price_move_6m_pct": 34.9,
+  "price_move_12m_pct": 27.5,
+  "price_move_24m_pct": 9.7,
+  "notes": "Unsolicited approach by Sanofi turned hostile before negotiated settlement with a CVR to bridge value gap on pipeline asset alemtuzumab.",
+  "_source_file": "genzyme_corp_genz.md"
+}

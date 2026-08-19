@@ -1,0 +1,45 @@
+{
+  "company": "Trius Therapeutics Inc",
+  "ticker": "TSRX",
+  "buyer": "Cubist Pharmaceuticals, Inc.",
+  "announcement_date": "2013-07-30",
+  "close_date": "2013-09-11",
+  "deal_status": "completed",
+  "deal_size_usd_m": 658,
+  "final_offer_per_share": 13.5,
+  "payment_type": "cash+CVR",
+  "has_cvr": true,
+  "premium": {
+    "pct": 30,
+    "basis": "30% premium over the closing price on July 29, 2013 (the last trading day before announcement)"
+  },
+  "company_stage": "Phase 3 / pre-approval",
+  "lead_asset": "tedizolid phosphate",
+  "lead_asset_stage": "Phase 3 / NDA preparation",
+  "value_inflection_events": [
+    {
+      "date": "2012-01-13",
+      "event": "Sharp price decline (no identified cause)",
+      "approx_change_pct": -21.4
+    }
+  ],
+  "offer_low_per_share": 12.25,
+  "offer_high_per_share": 13.5,
+  "num_offers_or_rounds": 4,
+  "num_parties_interested": 3,
+  "process_type": "limited / targeted",
+  "engagement_to_deal_days": 54,
+  "first_engagement_date": "2013-06-06",
+  "signing_date": "2013-07-30",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": true,
+    "details": "Takeover speculation reported as early as March 2012 and again in November 2012; specific Cubist deal leaked on July 29, 2013."
+  },
+  "price_move_3m_pct": 67.6,
+  "price_move_6m_pct": 140.3,
+  "price_move_12m_pct": 108.3,
+  "price_move_24m_pct": 57.5,
+  "notes": "Unsolicited approach by Cubist triggered a targeted sale process with three interested parties; final consideration included a cash payment of $13.50 per share plus a CVR worth up to $2.00 tied to tedizolid phosphate 2016 sales.",
+  "_source_file": "trius_therapeutics_inc_TSRX.md"
+}

@@ -1,0 +1,60 @@
+{
+  "company": "USANA Health Sciences, Inc.",
+  "ticker": "USNA",
+  "buyer": "Gull Holdings, Ltd.",
+  "announcement_date": "2008-05-13",
+  "close_date": "unknown",
+  "deal_status": "pending",
+  "deal_size_usd_m": 426.2,
+  "final_offer_per_share": 26.0,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 24.8,
+    "basis": "previous day's close (May 12, 2008)"
+  },
+  "company_stage": "commercial",
+  "lead_asset": "Nutritional Supplements",
+  "lead_asset_stage": "Marketed",
+  "value_inflection_events": [
+    {
+      "date": "2007-06-15",
+      "event": "not identified",
+      "approx_change_pct": 20.4
+    },
+    {
+      "date": "2008-01-11",
+      "event": "not identified",
+      "approx_change_pct": 38.5
+    },
+    {
+      "date": "2008-03-28",
+      "event": "not identified",
+      "approx_change_pct": -25.6
+    },
+    {
+      "date": "2008-05-16",
+      "event": "not identified",
+      "approx_change_pct": 20.0
+    }
+  ],
+  "offer_low_per_share": 26.0,
+  "offer_high_per_share": 26.0,
+  "num_offers_or_rounds": 1,
+  "num_parties_interested": 1,
+  "process_type": "single bidder / bilateral",
+  "engagement_to_deal_days": 346,
+  "first_engagement_date": "2007-06-01",
+  "signing_date": "2008-05-12",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No pre-announcement rumors; offer announced directly."
+  },
+  "price_move_3m_pct": -39.97,
+  "price_move_6m_pct": -51.36,
+  "price_move_12m_pct": -46.12,
+  "price_move_24m_pct": -42.31,
+  "notes": "Going-private transaction by founder at a 24.8% premium after significant stock decline, with Special Committee yet to recommend.",
+  "_source_file": "usana_health_sciences_inc_USNA.md"
+}

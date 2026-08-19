@@ -1,0 +1,75 @@
+{
+  "company": "Immune Design Corp.",
+  "ticker": "IMDZ",
+  "buyer": "Merck Sharp & Dohme Corp.",
+  "announcement_date": "2019-02-21",
+  "close_date": "2019-04-02",
+  "deal_status": "completed",
+  "deal_size_usd_m": 283.3,
+  "final_offer_per_share": 5.85,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 312,
+    "basis": "closing price of $1.42 on February 20, 2019"
+  },
+  "company_stage": "Phase 2",
+  "lead_asset": "G100",
+  "lead_asset_stage": "Phase 2",
+  "value_inflection_events": [
+    {
+      "date": "2017-06-23",
+      "event": "Positive G100 + pembrolizumab Phase 1/2 combination data for follicular lymphoma at ASCO 2017",
+      "approx_change_pct": 34.0
+    },
+    {
+      "date": "2017-09-01",
+      "event": "CMB305 + checkpoint inhibitor data at ESMO 2017 showing greater clinical benefit and immune response",
+      "approx_change_pct": 34.9
+    },
+    {
+      "date": "2017-10-20",
+      "event": "Pricing of $80 million public offering at ~$5.50 per share",
+      "approx_change_pct": -52.5
+    },
+    {
+      "date": "2017-10-27",
+      "event": "Continued post-offering selling and dilution absorption",
+      "approx_change_pct": -21.2
+    },
+    {
+      "date": "2018-10-12",
+      "event": "Discontinuation of Phase 3 SYNOVATE CMB305 trial and workforce reduction",
+      "approx_change_pct": -41.6
+    },
+    {
+      "date": "2018-12-07",
+      "event": "ASH 2018 data: increased ORR and longer PFS with G100 + pembrolizumab in follicular lymphoma",
+      "approx_change_pct": 42.6
+    },
+    {
+      "date": "2019-02-22",
+      "event": "Merck/Immune Design merger announcement at $5.85 per share cash",
+      "approx_change_pct": 304.9
+    }
+  ],
+  "offer_low_per_share": 5.8,
+  "offer_high_per_share": 5.85,
+  "num_offers_or_rounds": 5,
+  "num_parties_interested": 1,
+  "process_type": "single bidder / bilateral",
+  "engagement_to_deal_days": 122,
+  "first_engagement_date": "2018-10-21",
+  "signing_date": "2019-02-20",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No pre-deal rumors or leaks detected."
+  },
+  "price_move_3m_pct": 2.13,
+  "price_move_6m_pct": -57.01,
+  "price_move_12m_pct": -55.69,
+  "price_move_24m_pct": -73.82,
+  "notes": "Deal followed the discontinuation of lead program CMB305, which collapsed the stock price; Merck capitalized on the depressed valuation to acquire the G100 program and platform assets at a 312% premium.",
+  "_source_file": "immune_design_corp_imdz.md"
+}

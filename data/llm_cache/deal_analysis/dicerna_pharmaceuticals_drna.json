@@ -1,0 +1,55 @@
+{
+  "company": "Dicerna Pharmaceuticals, Inc.",
+  "ticker": "DRNA",
+  "buyer": "Novo Nordisk A/S",
+  "announcement_date": "2021-11-18",
+  "close_date": "2021-12-28",
+  "deal_status": "completed",
+  "deal_size_usd_m": 3300,
+  "final_offer_per_share": 38.25,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 80,
+    "basis": "Closing price on November 17, 2021 (last trading day before board approval), $21.28"
+  },
+  "company_stage": "Phase 3 / pre-approval",
+  "lead_asset": "Nedosiran",
+  "lead_asset_stage": "Phase 3 / pre-approval",
+  "value_inflection_events": [
+    {
+      "date": "2021-08-06",
+      "event": "Sharp stock decline coinciding with period when Novo approached Dicerna about GalXC Plus expansion; specific trigger not identified",
+      "approx_change_pct": -27.4
+    },
+    {
+      "date": "2021-08-13",
+      "event": "Continued selloff following prior week's decline; trigger not identified",
+      "approx_change_pct": -24.5
+    },
+    {
+      "date": "2021-11-19",
+      "event": "Announcement of Merger Agreement with Novo Nordisk at $38.25 per share",
+      "approx_change_pct": 71.1
+    }
+  ],
+  "offer_low_per_share": 32.5,
+  "offer_high_per_share": 38.25,
+  "num_offers_or_rounds": 4,
+  "num_parties_interested": 2,
+  "process_type": "limited / targeted",
+  "engagement_to_deal_days": 57,
+  "first_engagement_date": "2021-09-21",
+  "signing_date": "2021-11-17",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No credible pre-deal leak of the acquisition by Novo Nordisk; general speculation existed but no named acquirer or price."
+  },
+  "price_move_3m_pct": 7.68,
+  "price_move_6m_pct": -23.93,
+  "price_move_12m_pct": -2.93,
+  "price_move_24m_pct": -1.51,
+  "notes": "Novo Nordisk's all-cash acquisition at an 80% premium followed a sharp stock price decline in mid-2021, and the competitive process was limited to one other party that bid below the final price.",
+  "_source_file": "dicerna_pharmaceuticals_drna.md"
+}

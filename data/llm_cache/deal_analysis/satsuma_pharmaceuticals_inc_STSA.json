@@ -1,0 +1,85 @@
+{
+  "company": "Satsuma Pharmaceuticals, Inc.",
+  "ticker": "STSA",
+  "buyer": "Shin Nippon Biomedical Laboratories, Ltd.",
+  "announcement_date": "2023-04-16",
+  "close_date": "2023-06-08",
+  "deal_status": "completed",
+  "deal_size_usd_m": 27.7,
+  "final_offer_per_share": 0.91,
+  "payment_type": "cash+CVR",
+  "has_cvr": true,
+  "premium": {
+    "pct": 37.9,
+    "basis": "vs last close of $0.66 on April 14, 2023 (last trading day before announcement)"
+  },
+  "company_stage": "NDA accepted / pre-approval",
+  "lead_asset": "STS101",
+  "lead_asset_stage": "NDA Accepted",
+  "value_inflection_events": [
+    {
+      "date": "2021-06-25",
+      "event": "not identified",
+      "approx_change_pct": 29.0
+    },
+    {
+      "date": "2022-05-13",
+      "event": "not identified",
+      "approx_change_pct": -29.2
+    },
+    {
+      "date": "2022-05-20",
+      "event": "not identified",
+      "approx_change_pct": 31.3
+    },
+    {
+      "date": "2022-06-24",
+      "event": "not identified",
+      "approx_change_pct": 24.1
+    },
+    {
+      "date": "2022-08-05",
+      "event": "not identified",
+      "approx_change_pct": 34.7
+    },
+    {
+      "date": "2022-11-18",
+      "event": "SUMMIT Phase 3 trial failure",
+      "approx_change_pct": -84.0
+    },
+    {
+      "date": "2022-12-02",
+      "event": "not identified",
+      "approx_change_pct": 30.8
+    },
+    {
+      "date": "2023-03-31",
+      "event": "not identified",
+      "approx_change_pct": -21.5
+    },
+    {
+      "date": "2023-04-21",
+      "event": "Deal announcement",
+      "approx_change_pct": 58.8
+    }
+  ],
+  "offer_low_per_share": 0.88,
+  "offer_high_per_share": 0.91,
+  "num_offers_or_rounds": 4,
+  "num_parties_interested": 2,
+  "process_type": "broad auction",
+  "engagement_to_deal_days": 130,
+  "first_engagement_date": "2022-12-07",
+  "signing_date": "2023-04-16",
+  "interest_direction": "outbound (target ran process / sought buyer)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No pre-deal rumors identified."
+  },
+  "price_move_3m_pct": -38.3,
+  "price_move_6m_pct": -88.6,
+  "price_move_12m_pct": -83.4,
+  "price_move_24m_pct": -87.0,
+  "notes": "Deal followed Phase 3 failure, with SNBL stepping in to preserve its licensed technology, offering a modest cash premium plus a CVR tied to future STS101 proceeds.",
+  "_source_file": "satsuma_pharmaceuticals_inc_STSA.md"
+}

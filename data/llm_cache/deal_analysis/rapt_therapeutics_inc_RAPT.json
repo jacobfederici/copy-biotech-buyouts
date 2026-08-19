@@ -1,0 +1,140 @@
+{
+  "company": "RAPT Therapeutics, Inc.",
+  "ticker": "RAPT",
+  "buyer": "GlaxoSmithKline LLC",
+  "announcement_date": "2026-01-20",
+  "close_date": "2026-03-03",
+  "deal_status": "completed",
+  "deal_size_usd_m": 1793.5,
+  "final_offer_per_share": 58.0,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 65.0,
+    "basis": "65% over the last closing price of $35.10 on January 16, 2026"
+  },
+  "company_stage": "Phase 2b",
+  "lead_asset": "ozureprubart",
+  "lead_asset_stage": "Phase 2b",
+  "value_inflection_events": [
+    {
+      "date": "2024-02-23",
+      "event": "not identified",
+      "approx_change_pct": -66.4
+    },
+    {
+      "date": "2024-05-10",
+      "event": "not identified",
+      "approx_change_pct": -48.0
+    },
+    {
+      "date": "2024-07-12",
+      "event": "not identified",
+      "approx_change_pct": 22.5
+    },
+    {
+      "date": "2024-08-09",
+      "event": "not identified",
+      "approx_change_pct": -23.3
+    },
+    {
+      "date": "2024-11-08",
+      "event": "not identified",
+      "approx_change_pct": 29.6
+    },
+    {
+      "date": "2024-11-15",
+      "event": "not identified",
+      "approx_change_pct": -61.8
+    },
+    {
+      "date": "2024-12-27",
+      "event": "not identified",
+      "approx_change_pct": 104.8
+    },
+    {
+      "date": "2025-01-10",
+      "event": "not identified",
+      "approx_change_pct": -21.0
+    },
+    {
+      "date": "2025-05-09",
+      "event": "not identified",
+      "approx_change_pct": -22.0
+    },
+    {
+      "date": "2025-05-23",
+      "event": "not identified",
+      "approx_change_pct": 46.6
+    },
+    {
+      "date": "2025-05-30",
+      "event": "not identified",
+      "approx_change_pct": -28.0
+    },
+    {
+      "date": "2025-06-06",
+      "event": "not identified",
+      "approx_change_pct": 32.2
+    },
+    {
+      "date": "2025-06-20",
+      "event": "not identified",
+      "approx_change_pct": 614.4
+    },
+    {
+      "date": "2025-07-18",
+      "event": "not identified",
+      "approx_change_pct": 38.1
+    },
+    {
+      "date": "2025-08-01",
+      "event": "not identified",
+      "approx_change_pct": -21.2
+    },
+    {
+      "date": "2025-09-12",
+      "event": "not identified",
+      "approx_change_pct": 25.4
+    },
+    {
+      "date": "2025-09-19",
+      "event": "not identified",
+      "approx_change_pct": 22.4
+    },
+    {
+      "date": "2025-09-26",
+      "event": "not identified",
+      "approx_change_pct": 32.8
+    },
+    {
+      "date": "2025-11-28",
+      "event": "not identified",
+      "approx_change_pct": 24.8
+    },
+    {
+      "date": "2026-01-23",
+      "event": "not identified",
+      "approx_change_pct": 64.2
+    }
+  ],
+  "offer_low_per_share": 50.0,
+  "offer_high_per_share": 58.0,
+  "num_offers_or_rounds": 4,
+  "num_parties_interested": 2,
+  "process_type": "limited / targeted",
+  "engagement_to_deal_days": 110,
+  "first_engagement_date": "2025-10-01",
+  "signing_date": "2026-01-19",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No pre-deal rumors or leaks identified."
+  },
+  "price_move_3m_pct": 19.63,
+  "price_move_6m_pct": 200.51,
+  "price_move_12m_pct": 265.63,
+  "price_move_24m_pct": -82.64,
+  "notes": "GSK acquired RAPT for $58/share cash, a 65% premium, to gain ozureprubart (Phase 2b oral CCR4 antagonist for food allergy/CSU); the deal followed a rapid bilateral negotiation with a limited market check.",
+  "_source_file": "rapt_therapeutics_inc_RAPT.md"
+}

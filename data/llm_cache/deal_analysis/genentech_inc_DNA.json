@@ -1,0 +1,39 @@
+{
+  "company": "Genentech Inc",
+  "ticker": "DNA",
+  "buyer": "Roche Investments USA Inc.",
+  "announcement_date": "2008-07-21",
+  "close_date": "2009-03-26",
+  "deal_status": "completed",
+  "deal_size_usd_m": 100074.3,
+  "final_offer_per_share": 95.0,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 16.1,
+    "basis": "vs. last close before announcement ($81.82 on 2008-07-18)"
+  },
+  "company_stage": "commercial",
+  "lead_asset": "Avastin",
+  "lead_asset_stage": "marketed",
+  "value_inflection_events": [],
+  "offer_low_per_share": 86.5,
+  "offer_high_per_share": 95.0,
+  "num_offers_or_rounds": 4,
+  "num_parties_interested": 1,
+  "process_type": "single bidder / bilateral",
+  "engagement_to_deal_days": null,
+  "first_engagement_date": "unknown",
+  "signing_date": "2009-03-12",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": true,
+    "details": "June 20, 2008 WSJ reported speculation that Roche was preparing a bid."
+  },
+  "price_move_3m_pct": 12.5,
+  "price_move_6m_pct": 19.0,
+  "price_move_12m_pct": 8.9,
+  "price_move_24m_pct": 2.1,
+  "notes": "Unsolicited bid turned hostile before friendly agreement at $95/sh; Roche already owned ~56%.",
+  "_source_file": "genentech_inc_DNA.md"
+}

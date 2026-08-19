@@ -1,0 +1,50 @@
+{
+  "company": "Praecis Pharmaceuticals Incorporated",
+  "ticker": "PRCS",
+  "buyer": "SmithKline Beecham Corporation (subsidiary of GlaxoSmithKline plc)",
+  "announcement_date": "2006-12-21",
+  "close_date": "2007-02-16",
+  "deal_status": "completed",
+  "deal_size_usd_m": 54.8,
+  "final_offer_per_share": 5.0,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 150.0,
+    "basis": "Announced premium over the$1.97 closing price on the last trading day before announcement, as cited in the dossier's rationale section."
+  },
+  "company_stage": "Phase 1",
+  "lead_asset": "PPI-2458",
+  "lead_asset_stage": "Phase 1",
+  "value_inflection_events": [
+    {
+      "date": "2006-06-23",
+      "event": "Unidentified event causing significant price drop",
+      "approx_change_pct": -39.5
+    },
+    {
+      "date": "2006-12-22",
+      "event": "Deal announcement",
+      "approx_change_pct": 148.7
+    }
+  ],
+  "offer_low_per_share": 5.0,
+  "offer_high_per_share": 5.0,
+  "num_offers_or_rounds": 3,
+  "num_parties_interested": null,
+  "process_type": "broad auction",
+  "engagement_to_deal_days": null,
+  "first_engagement_date": "2005-10-18",
+  "signing_date": "2006-12-20",
+  "interest_direction": "outbound (target ran process / sought buyer)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No pre-deal rumors or press reports regarding a potential buyout were identified."
+  },
+  "price_move_3m_pct": 113.2,
+  "price_move_6m_pct": 66.3,
+  "price_move_12m_pct": 19.8,
+  "price_move_24m_pct": -44.4,
+  "notes": "GSK initially proposed $10M for the DirectSelect technology asset but was persuaded to acquire the whole company, which was facing a severe liquidity crisis, at a 150% premium in cash over a competing stock-for-stock bid.",
+  "_source_file": "praecis_pharmaceuticals_inc_PRCS.md"
+}

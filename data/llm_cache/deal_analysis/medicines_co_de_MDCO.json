@@ -1,0 +1,55 @@
+{
+  "company": "The Medicines Company",
+  "ticker": "MDCO",
+  "buyer": "Novartis AG",
+  "announcement_date": "2019-11-24",
+  "close_date": "2020-01-06",
+  "deal_status": "completed",
+  "deal_size_usd_m": 9700,
+  "final_offer_per_share": 85.0,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": null,
+    "basis": "unknown"
+  },
+  "company_stage": "Phase 3 / pre-approval",
+  "lead_asset": "Inclisiran",
+  "lead_asset_stage": "Phase 3",
+  "value_inflection_events": [
+    {
+      "date": "2018-01-26",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 35.3
+    },
+    {
+      "date": "2019-11-22",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 31.9
+    },
+    {
+      "date": "2019-11-29",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 22.8
+    }
+  ],
+  "offer_low_per_share": 74.03,
+  "offer_high_per_share": 90.0,
+  "num_offers_or_rounds": 4,
+  "num_parties_interested": 12,
+  "process_type": "broad auction",
+  "engagement_to_deal_days": 87,
+  "first_engagement_date": "2019-08-21",
+  "signing_date": "2019-11-23",
+  "interest_direction": "mixed",
+  "leaked_early": {
+    "leaked": true,
+    "details": "Bloomberg reported on Nov 19, 2019 that Novartis was in discussions and conducting due diligence, 5 days before the official announcement."
+  },
+  "price_move_3m_pct": 63.5,
+  "price_move_6m_pct": 54.6,
+  "price_move_12m_pct": 304.8,
+  "price_move_24m_pct": 172.1,
+  "notes": "Novartis verbally raised its offer to $90.00 for exclusivity but later reduced it back to $85.00 citing due diligence findings, which the board accepted as best and final.",
+  "_source_file": "medicines_co_de_MDCO.md"
+}

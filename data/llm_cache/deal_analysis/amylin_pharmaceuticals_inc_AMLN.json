@@ -1,0 +1,60 @@
+{
+  "company": "Amylin Pharmaceuticals, Inc.",
+  "ticker": "AMLN",
+  "buyer": "Bristol-Myers Squibb Company",
+  "announcement_date": "2012-06-29",
+  "close_date": "2012-08-08",
+  "deal_status": "completed",
+  "deal_size_usd_m": 5300,
+  "final_offer_per_share": 31.0,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 101,
+    "basis": "undisturbed price on March 27, 2012, as stated by the board"
+  },
+  "company_stage": "approved+marketed",
+  "lead_asset": "BYDUREON",
+  "lead_asset_stage": "Approved",
+  "value_inflection_events": [
+    {
+      "date": "2010-10-22",
+      "event": "Unidentified event causing significant price drop",
+      "approx_change_pct": -46.3
+    },
+    {
+      "date": "2011-03-04",
+      "event": "Unidentified event causing significant price drop",
+      "approx_change_pct": -28.6
+    },
+    {
+      "date": "2012-02-03",
+      "event": "Unidentified event causing significant price increase",
+      "approx_change_pct": 40.9
+    },
+    {
+      "date": "2012-03-30",
+      "event": "Bloomberg reports Amylin rejected a $22.00 offer from BMS",
+      "approx_change_pct": 60.8
+    }
+  ],
+  "offer_low_per_share": 22.0,
+  "offer_high_per_share": 31.0,
+  "num_offers_or_rounds": 4,
+  "num_parties_interested": 4,
+  "process_type": "broad auction",
+  "engagement_to_deal_days": 134,
+  "first_engagement_date": "2012-02-15",
+  "signing_date": "2012-06-29",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": true,
+    "details": "Bloomberg reported on March 28, 2012, that Amylin had rejected a $22.00 offer from BMS, approximately 3 months before the official announcement."
+  },
+  "price_move_3m_pct": 81.7,
+  "price_move_6m_pct": 132.2,
+  "price_move_12m_pct": 167.6,
+  "price_move_24m_pct": 51.5,
+  "notes": "The deal followed a competitive auction triggered by an unsolicited $22 bid from BMS, with the final $31 price representing a 101% premium to the undisturbed price after a leak in March 2012 caused a significant stock surge.",
+  "_source_file": "amylin_pharmaceuticals_inc_AMLN.md"
+}

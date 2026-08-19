@@ -1,0 +1,75 @@
+{
+  "company": "Turning Point Therapeutics, Inc.",
+  "ticker": "TPTX",
+  "buyer": "Bristol-Myers Squibb Company",
+  "announcement_date": "2022-06-03",
+  "close_date": "2022-08-17",
+  "deal_status": "completed",
+  "deal_size_usd_m": 4100,
+  "final_offer_per_share": 76.0,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 122,
+    "basis": "previous day's closing price of $34.16"
+  },
+  "company_stage": "Registrational (Phase 1/2)",
+  "lead_asset": "Repotrectinib",
+  "lead_asset_stage": "Phase 1/2 (Registrational)",
+  "value_inflection_events": [
+    {
+      "date": "2020-09-18",
+      "event": "not identified",
+      "approx_change_pct": 24.6
+    },
+    {
+      "date": "2020-10-09",
+      "event": "not identified",
+      "approx_change_pct": 26.8
+    },
+    {
+      "date": "2021-08-27",
+      "event": "not identified",
+      "approx_change_pct": 20.9
+    },
+    {
+      "date": "2021-10-08",
+      "event": "not identified",
+      "approx_change_pct": -29.1
+    },
+    {
+      "date": "2022-04-15",
+      "event": "not identified",
+      "approx_change_pct": 29.1
+    },
+    {
+      "date": "2022-05-13",
+      "event": "not identified",
+      "approx_change_pct": 21.6
+    },
+    {
+      "date": "2022-06-03",
+      "event": "not identified",
+      "approx_change_pct": 106.3
+    }
+  ],
+  "offer_low_per_share": 58.0,
+  "offer_high_per_share": 76.0,
+  "num_offers_or_rounds": 4,
+  "num_parties_interested": 3,
+  "process_type": "single bidder / bilateral",
+  "engagement_to_deal_days": 141,
+  "first_engagement_date": "2022-01-12",
+  "signing_date": "2022-06-02",
+  "interest_direction": "mixed",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No pre-deal rumors; the deal was a surprise."
+  },
+  "price_move_3m_pct": 31.16,
+  "price_move_6m_pct": 0.95,
+  "price_move_12m_pct": -44.25,
+  "price_move_24m_pct": -42.59,
+  "notes": "Bristol-Myers Squibb shifted from a partnering interest to a full acquisition after positive repotrectinib data, offering a 122% premium and outbidding alternative partnering discussions.",
+  "_source_file": "turning_point_therapeutics_inc_TPTX.md"
+}

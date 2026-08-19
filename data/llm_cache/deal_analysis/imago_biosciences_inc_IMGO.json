@@ -1,0 +1,55 @@
+{
+  "company": "Imago BioSciences, Inc.",
+  "ticker": "IMGO",
+  "buyer": "Merck Sharp & Dohme LLC",
+  "announcement_date": "2022-11-21",
+  "close_date": "2023-01-11",
+  "deal_status": "completed",
+  "deal_size_usd_m": 1350,
+  "final_offer_per_share": 36.0,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 107.0,
+    "basis": "prior closing price (2022-11-18 close of $17.40)"
+  },
+  "company_stage": "Phase 2",
+  "lead_asset": "Bomedemstat (IMG-7289)",
+  "lead_asset_stage": "Phase 2",
+  "value_inflection_events": [
+    {
+      "date": "2021-08-06",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 33.7
+    },
+    {
+      "date": "2021-08-27",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 24.9
+    },
+    {
+      "date": "2022-11-25",
+      "event": "Acquisition announcement",
+      "approx_change_pct": 104.9
+    }
+  ],
+  "offer_low_per_share": 28.0,
+  "offer_high_per_share": 36.0,
+  "num_offers_or_rounds": 4,
+  "num_parties_interested": 3,
+  "process_type": "limited / targeted",
+  "engagement_to_deal_days": 59,
+  "first_engagement_date": "2022-09-21",
+  "signing_date": "2022-11-19",
+  "interest_direction": "mixed",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No pre-deal rumors or leaks identified."
+  },
+  "price_move_3m_pct": -5.38,
+  "price_move_6m_pct": 24.46,
+  "price_move_12m_pct": -26.89,
+  "price_move_24m_pct": null,
+  "notes": "Merck acquired Imago for $36/share cash, a 107% premium, to gain Phase 2 LSD1 inhibitor bomedemstat; no pre-deal leaks, and Imago contacted 10 other parties but only Merck bid.",
+  "_source_file": "imago_biosciences_inc_IMGO.md"
+}

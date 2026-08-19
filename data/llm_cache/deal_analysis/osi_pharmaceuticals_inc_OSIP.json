@@ -1,0 +1,45 @@
+{
+  "company": "OSI Pharmaceuticals Inc.",
+  "ticker": "OSIP",
+  "buyer": "Astellas Pharma Inc.",
+  "announcement_date": "2010-03-01",
+  "close_date": "2010-06-08",
+  "deal_status": "completed",
+  "deal_size_usd_m": 4000,
+  "final_offer_per_share": 57.5,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 55.4,
+    "basis": "vs. last close ($37.01) before public disclosure of Astellas' unsolicited tender offer on Mar 1, 2010"
+  },
+  "company_stage": "commercial",
+  "lead_asset": "Tarceva (erlotinib)",
+  "lead_asset_stage": "Marketed",
+  "value_inflection_events": [
+    {
+      "date": "2010-03-05",
+      "event": "Astellas hostile tender offer announcement",
+      "approx_change_pct": 54.0
+    }
+  ],
+  "offer_low_per_share": 52.0,
+  "offer_high_per_share": 57.5,
+  "num_offers_or_rounds": 3,
+  "num_parties_interested": null,
+  "process_type": "single bidder / bilateral",
+  "engagement_to_deal_days": 487,
+  "first_engagement_date": "2009-01-14",
+  "signing_date": "2010-05-16",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No pre-announcement leak; Astellas publicly launched hostile tender offer on March 1, 2010."
+  },
+  "price_move_3m_pct": 7.7,
+  "price_move_6m_pct": 11.2,
+  "price_move_12m_pct": 8.5,
+  "price_move_24m_pct": 0.7,
+  "notes": "Astellas pursued OSI for over a year with a hostile bid, ultimately raising to $57.50 per share after FDA approval of Tarceva's new indication.",
+  "_source_file": "osi_pharmaceuticals_inc_OSIP.md"
+}

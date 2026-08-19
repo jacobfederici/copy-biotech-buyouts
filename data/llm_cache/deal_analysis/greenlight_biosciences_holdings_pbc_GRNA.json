@@ -1,0 +1,45 @@
+{
+  "company": "GreenLight Biosciences Holdings, PBC",
+  "ticker": "GRNA",
+  "buyer": "Fall Line Capital, LLC",
+  "announcement_date": "2023-05-30",
+  "close_date": "2023-07-24",
+  "deal_status": "completed",
+  "deal_size_usd_m": 45.5,
+  "final_offer_per_share": 0.3,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 50.0,
+    "basis": "premium to the trading price at the time of approval (last close $0.20 on May 26, 2023)"
+  },
+  "company_stage": "pre-commercial",
+  "lead_asset": "Calantha",
+  "lead_asset_stage": "pre-launch (2024)",
+  "value_inflection_events": [
+    {
+      "date": "2023-05-30",
+      "event": "Definitive merger agreement announced",
+      "approx_change_pct": 47.4
+    }
+  ],
+  "offer_low_per_share": 0.6,
+  "offer_high_per_share": 0.6,
+  "num_offers_or_rounds": 3,
+  "num_parties_interested": 3,
+  "process_type": "broad auction",
+  "engagement_to_deal_days": 95,
+  "first_engagement_date": "2023-02-23",
+  "signing_date": "2023-05-29",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "Company confirmed receipt of non-binding indication of interest on March 30, 2023, two months before definitive agreement; no earlier leaks."
+  },
+  "price_move_3m_pct": -64.9,
+  "price_move_6m_pct": -85.3,
+  "price_move_12m_pct": -97.5,
+  "price_move_24m_pct": null,
+  "notes": "Distressed company facing insolvency; deal includes $100M convertible debt commitment; extensive market check yielded no other bidders.",
+  "_source_file": "greenlight_biosciences_holdings_pbc_GRNA.md"
+}

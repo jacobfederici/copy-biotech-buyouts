@@ -1,0 +1,45 @@
+{
+  "company": "ArQule, Inc.",
+  "ticker": "ARQL",
+  "buyer": "Merck Sharp & Dohme Corp.",
+  "announcement_date": "2019-12-09",
+  "close_date": "2020-01-16",
+  "deal_status": "completed",
+  "deal_size_usd_m": 2417.5,
+  "final_offer_per_share": 20.0,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 106.8,
+    "basis": "vs last close before announcement (Dec 6, 2019 close of $9.67); board considered premium relative to pre-proposal trading range of $7.88-$9.67"
+  },
+  "company_stage": "Phase 1",
+  "lead_asset": "ARQ 531",
+  "lead_asset_stage": "Phase 1",
+  "value_inflection_events": [
+    {
+      "date": "2019-12-09",
+      "event": "Deal announcement at $20.00 per share and ASH data release",
+      "approx_change_pct": 100.1
+    }
+  ],
+  "offer_low_per_share": 18.0,
+  "offer_high_per_share": 20.0,
+  "num_offers_or_rounds": 3,
+  "num_parties_interested": 1,
+  "process_type": "single bidder / bilateral",
+  "engagement_to_deal_days": 162,
+  "first_engagement_date": "2019-06-27",
+  "signing_date": "2019-12-06",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": true,
+    "details": "General takeover speculation reported in June 2019 and November 2019, but no specific buyer or price leaked."
+  },
+  "price_move_3m_pct": 52.8,
+  "price_move_6m_pct": 92.6,
+  "price_move_12m_pct": 226.7,
+  "price_move_24m_pct": 73.0,
+  "notes": "Merck shifted from co-development partnership talks to full acquisition of ArQule to secure lead asset ARQ 531, with no other bidders actively pursuing a transaction at the time of the deal.",
+  "_source_file": "arqule_inc_arql.md"
+}

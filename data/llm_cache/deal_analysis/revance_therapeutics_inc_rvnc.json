@@ -1,0 +1,75 @@
+{
+  "company": "Revance Therapeutics, Inc.",
+  "ticker": "RVNC",
+  "buyer": "Crown Laboratories, Inc.",
+  "announcement_date": "2024-08-12",
+  "close_date": "2025-02-06",
+  "deal_status": "completed",
+  "deal_size_usd_m": 382,
+  "final_offer_per_share": 3.65,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": null,
+    "basis": "Not explicitly stated; final offer of $3.65 was below pre-announcement trading levels."
+  },
+  "company_stage": "commercial",
+  "lead_asset": "DAXXIFY",
+  "lead_asset_stage": "commercial",
+  "value_inflection_events": [
+    {
+      "date": "2024-03-01",
+      "event": "Public offering announced at $6.25/share",
+      "approx_change_pct": 27.1
+    },
+    {
+      "date": "2024-07-12",
+      "event": "Merger negotiations progress; Crown indicating revised $6.50 proposal",
+      "approx_change_pct": 34.1
+    },
+    {
+      "date": "2024-08-16",
+      "event": "Original Merger Agreement announced at $6.66/share",
+      "approx_change_pct": 87.5
+    },
+    {
+      "date": "2024-11-01",
+      "event": "Going concern disclosure and Crown renegotiation update",
+      "approx_change_pct": 23.4
+    },
+    {
+      "date": "2024-11-08",
+      "event": "Going concern disclosure filed; Crown offer reduced to $2.25/share",
+      "approx_change_pct": -36.2
+    },
+    {
+      "date": "2024-12-13",
+      "event": "A&R Merger Agreement announced at $3.10/share",
+      "approx_change_pct": -19.3
+    },
+    {
+      "date": "2025-01-17",
+      "event": "Second Amendment increased offer to $3.65/share",
+      "approx_change_pct": 13.2
+    }
+  ],
+  "offer_low_per_share": 2.25,
+  "offer_high_per_share": 9.25,
+  "num_offers_or_rounds": 10,
+  "num_parties_interested": 13,
+  "process_type": "broad auction",
+  "engagement_to_deal_days": 272,
+  "first_engagement_date": "2023-11-13",
+  "signing_date": "2024-08-11",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No public rumors prior to announcement."
+  },
+  "price_move_3m_pct": 6.3,
+  "price_move_6m_pct": -40.3,
+  "price_move_12m_pct": -81.3,
+  "price_move_24m_pct": -84.3,
+  "notes": "Deal price was slashed from $6.66 to $3.10 after Teoxane dispute and going concern warning, then slightly raised to $3.65; complex renegotiation amid severe financial distress.",
+  "_source_file": "revance_therapeutics_inc_rvnc.md"
+}

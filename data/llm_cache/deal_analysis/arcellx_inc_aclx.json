@@ -1,0 +1,45 @@
+{
+  "company": "Arcellx, Inc.",
+  "ticker": "ACLX",
+  "buyer": "Gilead Sciences, Inc.",
+  "announcement_date": "2026-02-23",
+  "close_date": "2026-04-28",
+  "deal_status": "completed",
+  "deal_size_usd_m": 7100,
+  "final_offer_per_share": 120.0,
+  "payment_type": "mixed",
+  "has_cvr": true,
+  "premium": {
+    "pct": 87.2,
+    "basis": "Based on last close prior to announcement ($64.11 on 2026-02-20) and maximum per-share consideration of $120.00 ($115.00 cash + $5.00 CVR)"
+  },
+  "company_stage": "Phase 3 / pre-approval",
+  "lead_asset": "anitocabtagene autoleucel (anito-cel)",
+  "lead_asset_stage": "Phase 3",
+  "value_inflection_events": [
+    {
+      "date": "2026-02-27",
+      "event": "Announcement of acquisition by Gilead Sciences",
+      "approx_change_pct": 77.5
+    }
+  ],
+  "offer_low_per_share": 98.0,
+  "offer_high_per_share": 120.0,
+  "num_offers_or_rounds": 3,
+  "num_parties_interested": 1,
+  "process_type": "single bidder / bilateral",
+  "engagement_to_deal_days": 9,
+  "first_engagement_date": "2026-02-13",
+  "signing_date": "2026-02-22",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No pre-deal rumors or leaks identified."
+  },
+  "price_move_3m_pct": -28.91,
+  "price_move_6m_pct": -10.06,
+  "price_move_12m_pct": 0.56,
+  "price_move_24m_pct": -4.05,
+  "notes": "Gilead's $115/sh cash + $5 CVR offer came after a rapid 9-day negotiation, and the 87% premium reflected anito-cel's potential but followed a sharp pre-deal stock decline.",
+  "_source_file": "arcellx_inc_aclx.md"
+}

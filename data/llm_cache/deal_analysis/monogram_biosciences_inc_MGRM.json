@@ -1,0 +1,75 @@
+{
+  "company": "Monogram Biosciences, Inc.",
+  "ticker": "MGRM",
+  "buyer": "Laboratory Corporation of America Holdings",
+  "announcement_date": "2009-06-23",
+  "close_date": "2009-08-04",
+  "deal_status": "completed",
+  "deal_size_usd_m": 105,
+  "final_offer_per_share": 4.55,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 151.4,
+    "basis": "vs. $1.81 closing price on June 19, 2009 (last trading day before announcement)"
+  },
+  "company_stage": "commercial",
+  "lead_asset": "Trofile",
+  "lead_asset_stage": "Commercial",
+  "value_inflection_events": [
+    {
+      "date": "2008-10-10",
+      "event": "Not identified",
+      "approx_change_pct": -23.9
+    },
+    {
+      "date": "2008-10-24",
+      "event": "Not identified",
+      "approx_change_pct": 20.4
+    },
+    {
+      "date": "2008-10-31",
+      "event": "Not identified",
+      "approx_change_pct": -23.1
+    },
+    {
+      "date": "2009-02-06",
+      "event": "Not identified",
+      "approx_change_pct": 45.5
+    },
+    {
+      "date": "2009-02-20",
+      "event": "Not identified",
+      "approx_change_pct": -22.0
+    },
+    {
+      "date": "2009-05-08",
+      "event": "Not identified",
+      "approx_change_pct": -21.5
+    },
+    {
+      "date": "2009-06-26",
+      "event": "Not identified",
+      "approx_change_pct": 151.4
+    }
+  ],
+  "offer_low_per_share": 3.0,
+  "offer_high_per_share": 5.25,
+  "num_offers_or_rounds": 5,
+  "num_parties_interested": 1,
+  "process_type": "single bidder / bilateral",
+  "engagement_to_deal_days": 234,
+  "first_engagement_date": "2008-10-31",
+  "signing_date": "2009-06-22",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No pre-deal rumors"
+  },
+  "price_move_3m_pct": -30.4,
+  "price_move_6m_pct": -18.5,
+  "price_move_12m_pct": -72.6,
+  "price_move_24m_pct": -82.2,
+  "notes": "LabCorp initially offered $5.25 but reduced to $4.55 due to debt obligations and enterprise value reevaluation; final all-cash deal offered 151% premium.",
+  "_source_file": "monogram_biosciences_inc_MGRM.md"
+}

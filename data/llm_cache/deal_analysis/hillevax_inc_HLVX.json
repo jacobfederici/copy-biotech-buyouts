@@ -1,0 +1,45 @@
+{
+  "company": "HilleVax, Inc.",
+  "ticker": "HLVX",
+  "buyer": "XOMA Royalty Corporation",
+  "announcement_date": "2025-08-04",
+  "close_date": "2025-09-17",
+  "deal_status": "completed",
+  "deal_size_usd_m": 102.95,
+  "final_offer_per_share": 1.95,
+  "payment_type": "cash+CVR",
+  "has_cvr": true,
+  "premium": {
+    "pct": null,
+    "basis": "Premium not stated and not computable from provided data as the deal was a cash-out of a failed biotech with no unaffected pre-announcement price clearly defined."
+  },
+  "company_stage": "Phase 2b (Discontinued)",
+  "lead_asset": "HIL-214",
+  "lead_asset_stage": "Phase 2b (Discontinued)",
+  "value_inflection_events": [
+    {
+      "date": "2024-07-12",
+      "event": "Topline data from NEST-IN1 Phase 2b study of HIL-214 failed to meet primary endpoint.",
+      "approx_change_pct": -87.6
+    }
+  ],
+  "offer_low_per_share": null,
+  "offer_high_per_share": 2.26,
+  "num_offers_or_rounds": 2,
+  "num_parties_interested": 33,
+  "process_type": "broad auction",
+  "engagement_to_deal_days": 306,
+  "first_engagement_date": "2024-10-02",
+  "signing_date": "2025-08-04",
+  "interest_direction": "outbound (target ran process / sought buyer)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No pre-deal rumors exist for HilleVax, Inc. (HLVX)."
+  },
+  "price_move_3m_pct": -1.92,
+  "price_move_6m_pct": 7.37,
+  "price_move_12m_pct": 16.57,
+  "price_move_24m_pct": -86.02,
+  "notes": "Deal represents a cash-out of a failed biotech following the Phase 2b failure of HIL-214, with the final $1.95/share cash + CVR offer deemed superior to a statutory liquidation analysis of $2.04/share due to wind-down risks.",
+  "_source_file": "hillevax_inc_HLVX.md"
+}

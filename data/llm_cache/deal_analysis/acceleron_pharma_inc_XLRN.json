@@ -1,0 +1,55 @@
+{
+  "company": "Acceleron Pharma Inc.",
+  "ticker": "XLRN",
+  "buyer": "Merck Sharp & Dohme Corp.",
+  "announcement_date": "2021-09-30",
+  "close_date": "2021-11-19",
+  "deal_status": "completed",
+  "deal_size_usd_m": 11500,
+  "final_offer_per_share": 180.0,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 30.8,
+    "basis": "vs last close before press reports (2021-09-17 close of $137.60)"
+  },
+  "company_stage": "commercial",
+  "lead_asset": "Sotatercept",
+  "lead_asset_stage": "Phase 3",
+  "value_inflection_events": [
+    {
+      "date": "2020-01-31",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 74.4
+    },
+    {
+      "date": "2020-03-27",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 20.9
+    },
+    {
+      "date": "2021-09-24",
+      "event": "press reports emerged regarding potential $180 per share acquisition",
+      "approx_change_pct": 21.8
+    }
+  ],
+  "offer_low_per_share": 160.0,
+  "offer_high_per_share": 180.0,
+  "num_offers_or_rounds": 3,
+  "num_parties_interested": 4,
+  "process_type": "limited / targeted",
+  "engagement_to_deal_days": 75,
+  "first_engagement_date": "2021-07-16",
+  "signing_date": "2021-09-29",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "First press report on September 24, 2021, 6 days before announcement"
+  },
+  "price_move_3m_pct": 32.7,
+  "price_move_6m_pct": 22.7,
+  "price_move_12m_pct": 57.5,
+  "price_move_24m_pct": 315.0,
+  "notes": "Shareholders Avoro Capital and Holocene Advisors publicly opposed the deal as undervaluing the company's Phase 3 prospects, but tender offer succeeded with ~63.3% tendered.",
+  "_source_file": "acceleron_pharma_inc_XLRN.md"
+}

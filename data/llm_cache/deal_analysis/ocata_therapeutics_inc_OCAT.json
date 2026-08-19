@@ -1,0 +1,70 @@
+{
+  "company": "Ocata Therapeutics, Inc.",
+  "ticker": "OCAT",
+  "buyer": "Astellas Pharma Inc.",
+  "announcement_date": "2015-11-10",
+  "close_date": "2016-02-10",
+  "deal_status": "completed",
+  "deal_size_usd_m": 359.6,
+  "final_offer_per_share": 8.5,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 90.6,
+    "basis": "premium over the market price as stated by the Board in the rationale section"
+  },
+  "company_stage": "Phase 1/2",
+  "lead_asset": "RPE Program",
+  "lead_asset_stage": "Phase 1/2",
+  "value_inflection_events": [
+    {
+      "date": "2014-01-31",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 33.3
+    },
+    {
+      "date": "2014-03-07",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 28.6
+    },
+    {
+      "date": "2014-07-04",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 33.3
+    },
+    {
+      "date": "2015-08-21",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 22.9
+    },
+    {
+      "date": "2015-09-25",
+      "event": "not identified in filings or news",
+      "approx_change_pct": -20.8
+    },
+    {
+      "date": "2015-11-13",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 78.1
+    }
+  ],
+  "offer_low_per_share": 8.0,
+  "offer_high_per_share": 8.5,
+  "num_offers_or_rounds": 3,
+  "num_parties_interested": 2,
+  "process_type": "limited / targeted",
+  "engagement_to_deal_days": 77,
+  "first_engagement_date": "2015-08-25",
+  "signing_date": "2015-11-10",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No pre-deal rumors exist for Ocata Therapeutics, Inc. (OCAT)."
+  },
+  "price_move_3m_pct": 7.95,
+  "price_move_6m_pct": -10.38,
+  "price_move_12m_pct": -32.14,
+  "price_move_24m_pct": -20.83,
+  "notes": "The deal originated from licensing discussions and shifted to an acquisition after a failed merger attempt with another company. The final $8.50 offer represented a 90.6% premium, driven by the target's need for capital and clinical risks.",
+  "_source_file": "ocata_therapeutics_inc_OCAT.md"
+}

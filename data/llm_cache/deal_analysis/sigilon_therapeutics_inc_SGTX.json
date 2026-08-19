@@ -1,0 +1,45 @@
+{
+  "company": "Sigilon Therapeutics, Inc.",
+  "ticker": "SGTX",
+  "buyer": "Eli Lilly and Company",
+  "announcement_date": "2023-06-29",
+  "close_date": "2023-08-11",
+  "deal_status": "completed",
+  "deal_size_usd_m": 309.6,
+  "final_offer_per_share": 14.92,
+  "payment_type": "cash",
+  "has_cvr": true,
+  "premium": {
+    "pct": 281.6,
+    "basis": "over the June 22, 2023 closing price of $3.91"
+  },
+  "company_stage": "pre-clinical",
+  "lead_asset": "Encapsulated Islet Cell Therapy (T1D Product)",
+  "lead_asset_stage": "pre-clinical",
+  "value_inflection_events": [
+    {
+      "date": "2021-07-09",
+      "event": "FDA clinical hold on SIG-001 for Hemophilia A",
+      "approx_change_pct": -33.3
+    }
+  ],
+  "offer_low_per_share": null,
+  "offer_high_per_share": 14.92,
+  "num_offers_or_rounds": 3,
+  "num_parties_interested": 9,
+  "process_type": "broad auction",
+  "engagement_to_deal_days": 288,
+  "first_engagement_date": "2022-09-13",
+  "signing_date": "2023-06-28",
+  "interest_direction": "outbound (target ran process / sought buyer)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No pre-deal rumors or leaks identified."
+  },
+  "price_move_3m_pct": -67.7,
+  "price_move_6m_pct": -14.1,
+  "price_move_12m_pct": -60.9,
+  "price_move_24m_pct": -97.1,
+  "notes": "Sigilon, a pre-clinical cell therapy company, was acquired by its collaboration partner Lilly after an exhaustive strategic process and clinical setbacks, with upfront cash of $14.92/share plus CVRs worth up to $111.64/share.",
+  "_source_file": "sigilon_therapeutics_inc_SGTX.md"
+}

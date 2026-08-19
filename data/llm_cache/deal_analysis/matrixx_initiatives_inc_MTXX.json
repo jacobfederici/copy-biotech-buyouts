@@ -1,0 +1,50 @@
+{
+  "company": "Matrixx Initiatives, Inc.",
+  "ticker": "MTXX",
+  "buyer": "H.I.G. Capital, LLC",
+  "announcement_date": "2010-12-14",
+  "close_date": "2011-02-18",
+  "deal_status": "completed",
+  "deal_size_usd_m": 82.2,
+  "final_offer_per_share": 8.75,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 56.3,
+    "basis": "56% premium over the pre-announcement price (stated in Rationale); 56.3% premium over the previous day's closing price (stated in Buyout Rumors)"
+  },
+  "company_stage": "commercial",
+  "lead_asset": "Zicam Cold Remedy (Oral)",
+  "lead_asset_stage": "Marketed",
+  "value_inflection_events": [
+    {
+      "date": "2009-06-19",
+      "event": "FDA warning letter and Zicam nasal product recall",
+      "approx_change_pct": -71.2
+    },
+    {
+      "date": "2010-12-17",
+      "event": "Merger agreement announcement",
+      "approx_change_pct": 58.2
+    }
+  ],
+  "offer_low_per_share": 6.5,
+  "offer_high_per_share": 8.75,
+  "num_offers_or_rounds": 3,
+  "num_parties_interested": 1,
+  "process_type": "single bidder / bilateral",
+  "engagement_to_deal_days": 329,
+  "first_engagement_date": "2010-01-20",
+  "signing_date": "2010-12-14",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No pre-deal rumors or acquisition speculation were reported prior to the official announcement."
+  },
+  "price_move_3m_pct": null,
+  "price_move_6m_pct": null,
+  "price_move_12m_pct": null,
+  "price_move_24m_pct": null,
+  "notes": "Deal was a distressed take-private driven by massive product liability litigation and an FDA recall that wiped out ~70% of the company's value in 2009. The final offer was bumped from $8.00 to $8.75 during the tender to secure sufficient participation.",
+  "_source_file": "matrixx_initiatives_inc_MTXX.md"
+}

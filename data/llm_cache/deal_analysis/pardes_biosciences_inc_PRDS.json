@@ -1,0 +1,55 @@
+{
+  "company": "Pardes Biosciences, Inc.",
+  "ticker": "PRDS",
+  "buyer": "MediPacific, Inc.",
+  "announcement_date": "2023-07-17",
+  "close_date": "2023-08-31",
+  "deal_status": "completed",
+  "deal_size_usd_m": 132.08,
+  "final_offer_per_share": 2.13,
+  "payment_type": "cash+CVR",
+  "has_cvr": true,
+  "premium": {
+    "pct": 15.1,
+    "basis": "vs last close before announcement ($1.85 on 2023-07-14)"
+  },
+  "company_stage": "Phase 2",
+  "lead_asset": "pomotrelvir (PBI-0451)",
+  "lead_asset_stage": "Phase 2",
+  "value_inflection_events": [
+    {
+      "date": "2021-12-27",
+      "event": "Pardes becomes publicly traded via SPAC merger",
+      "approx_change_pct": 67.0
+    },
+    {
+      "date": "2022-09-13",
+      "event": "Phase 2 trial commencement for pomotrelvir",
+      "approx_change_pct": -22.9
+    },
+    {
+      "date": "2023-04-03",
+      "event": "Phase 2 trial failure and strategic review announced",
+      "approx_change_pct": 19.7
+    }
+  ],
+  "offer_low_per_share": 1.93,
+  "offer_high_per_share": 2.13,
+  "num_offers_or_rounds": 4,
+  "num_parties_interested": 10,
+  "process_type": "broad auction",
+  "engagement_to_deal_days": 87,
+  "first_engagement_date": "2023-04-20",
+  "signing_date": "2023-07-16",
+  "interest_direction": "outbound (target ran process / sought buyer)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No pre-deal rumors or leaks identified; the strategic review was publicly announced by the company on 2023-04-03."
+  },
+  "price_move_3m_pct": 11.5,
+  "price_move_6m_pct": -7.5,
+  "price_move_12m_pct": -45.3,
+  "price_move_24m_pct": -81.3,
+  "notes": "Company sold following Phase 2 failure of COVID-19 antiviral, with cash buyout and CVR, at a premium to the last close but far below historical levels.",
+  "_source_file": "pardes_biosciences_inc_PRDS.md"
+}

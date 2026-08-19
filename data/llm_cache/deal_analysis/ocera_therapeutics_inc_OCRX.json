@@ -1,0 +1,55 @@
+{
+  "company": "Ocera Therapeutics, Inc.",
+  "ticker": "OCRX",
+  "buyer": "Mallinckrodt plc",
+  "announcement_date": "2017-11-02",
+  "close_date": "2017-12-11",
+  "deal_status": "completed",
+  "deal_size_usd_m": 42,
+  "final_offer_per_share": 1.52,
+  "payment_type": "cash+CVR",
+  "has_cvr": true,
+  "premium": {
+    "pct": 52,
+    "basis": "52% premium over the prior day's close (November 1, 2017) of $1.00"
+  },
+  "company_stage": "Phase 2b",
+  "lead_asset": "OCR-002 (ornithine phenylacetate)",
+  "lead_asset_stage": "Phase 2b (IV) / Phase 2a (Oral)",
+  "value_inflection_events": [
+    {
+      "date": "2017-01-30",
+      "event": "Phase 2b STOP-HE trial top-line results announced; primary endpoint not met",
+      "approx_change_pct": -71.0
+    },
+    {
+      "date": "2017-03-10",
+      "event": "Additional encouraging results from STOP-HE study announced",
+      "approx_change_pct": 129.5
+    },
+    {
+      "date": "2017-11-02",
+      "event": "Mallinckrodt acquisition announced",
+      "approx_change_pct": 64.1
+    }
+  ],
+  "offer_low_per_share": 1.52,
+  "offer_high_per_share": 1.52,
+  "num_offers_or_rounds": 5,
+  "num_parties_interested": 2,
+  "process_type": "broad auction",
+  "engagement_to_deal_days": 297,
+  "first_engagement_date": "2017-01-09",
+  "signing_date": "2017-11-01",
+  "interest_direction": "outbound (target ran process / sought buyer)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No pre-deal rumors or public takeover speculations identified prior to the official announcement."
+  },
+  "price_move_3m_pct": 1.0,
+  "price_move_6m_pct": -10.4,
+  "price_move_12m_pct": -50.9,
+  "price_move_24m_pct": -69.9,
+  "notes": "Deal followed a failed Phase 2b trial and a broad strategic review; final upfront cash of $1.52/share was significantly below initial offers due to regulatory risk, but included a CVR worth up to $2.58/share.",
+  "_source_file": "ocera_therapeutics_inc_OCRX.md"
+}

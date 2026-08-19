@@ -1,0 +1,55 @@
+{
+  "company": "Sirtris Pharmaceuticals, Inc.",
+  "ticker": "SIRT",
+  "buyer": "SmithKline Beecham Corporation",
+  "announcement_date": "2008-04-22",
+  "close_date": "2008-06-05",
+  "deal_status": "completed",
+  "deal_size_usd_m": 720,
+  "final_offer_per_share": 22.5,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 77.4,
+    "basis": "last close prior to announcement ($12.68 on 2008-04-18)"
+  },
+  "company_stage": "Phase 1 / pre-clinical",
+  "lead_asset": "SIRT1 activation program",
+  "lead_asset_stage": "Clinical/Pre-clinical",
+  "value_inflection_events": [
+    {
+      "date": "2007-07-13",
+      "event": "not identified",
+      "approx_change_pct": 27.6
+    },
+    {
+      "date": "2008-03-28",
+      "event": "not identified",
+      "approx_change_pct": 20.5
+    },
+    {
+      "date": "2008-04-25",
+      "event": "Merger announcement",
+      "approx_change_pct": 75.9
+    }
+  ],
+  "offer_low_per_share": 18.5,
+  "offer_high_per_share": 22.5,
+  "num_offers_or_rounds": 2,
+  "num_parties_interested": null,
+  "process_type": "limited / targeted",
+  "engagement_to_deal_days": 92,
+  "first_engagement_date": "2008-01-21",
+  "signing_date": "2008-04-22",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No pre-deal rumors exist."
+  },
+  "price_move_3m_pct": -5.44,
+  "price_move_6m_pct": -24.43,
+  "price_move_12m_pct": null,
+  "price_move_24m_pct": null,
+  "notes": "GSK paid a 77.4% premium, all cash, after initial proposal of $18.50-$19.50 was rejected; Sirtris demanded $22.50, which GSK accepted as best and final, and a market check failed to produce competing offers.",
+  "_source_file": "sirtris_pharmaceuticals_inc_SIRT.md"
+}

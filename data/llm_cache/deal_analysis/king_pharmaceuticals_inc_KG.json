@@ -1,0 +1,39 @@
+{
+  "company": "King Pharmaceuticals, Inc.",
+  "ticker": "KG",
+  "buyer": "Pfizer Inc.",
+  "announcement_date": "2010-10-11",
+  "close_date": "2011-02-28",
+  "deal_status": "completed",
+  "deal_size_usd_m": 3561.9,
+  "final_offer_per_share": 14.25,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 40.4,
+    "basis": "over the last trading day before announcement (per Board rationale)"
+  },
+  "company_stage": "commercial",
+  "lead_asset": "Altace",
+  "lead_asset_stage": "marketed",
+  "value_inflection_events": [],
+  "offer_low_per_share": 11.0,
+  "offer_high_per_share": 14.25,
+  "num_offers_or_rounds": 5,
+  "num_parties_interested": 5,
+  "process_type": "single bidder / bilateral",
+  "engagement_to_deal_days": 130,
+  "first_engagement_date": "2010-06-03",
+  "signing_date": "2010-10-11",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": true,
+    "details": "Rumors of Pfizer's interest were reported in June 2010, months before the October 2010 announcement."
+  },
+  "price_move_3m_pct": 38.2,
+  "price_move_6m_pct": 28.1,
+  "price_move_12m_pct": -1.4,
+  "price_move_24m_pct": 25.0,
+  "notes": "Pfizer pursued a bilateral negotiation after an initial rejection, raising its offer from ~$11 to a 'best and final' $14.25; King contacted four other parties but received no competing bids.",
+  "_source_file": "king_pharmaceuticals_inc_KG.md"
+}

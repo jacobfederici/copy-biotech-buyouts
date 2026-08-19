@@ -1,0 +1,75 @@
+{
+  "company": "CymaBay Therapeutics, Inc.",
+  "ticker": "CBAY",
+  "buyer": "Gilead Sciences, Inc.",
+  "announcement_date": "2024-02-12",
+  "close_date": "2024-03-22",
+  "deal_status": "completed",
+  "deal_size_usd_m": 4300,
+  "final_offer_per_share": 32.5,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 27.0,
+    "basis": "closing price on February 9, 2024"
+  },
+  "company_stage": "Phase 3 / pre-approval",
+  "lead_asset": "Seladelpar",
+  "lead_asset_stage": "Phase 3",
+  "value_inflection_events": [
+    {
+      "date": "2022-06-24",
+      "event": "not identified",
+      "approx_change_pct": 43.1
+    },
+    {
+      "date": "2022-07-08",
+      "event": "not identified",
+      "approx_change_pct": 24.2
+    },
+    {
+      "date": "2022-08-05",
+      "event": "not identified",
+      "approx_change_pct": 35.8
+    },
+    {
+      "date": "2022-12-02",
+      "event": "not identified",
+      "approx_change_pct": 24.5
+    },
+    {
+      "date": "2023-06-30",
+      "event": "not identified",
+      "approx_change_pct": 37.7
+    },
+    {
+      "date": "2023-09-07",
+      "event": "Positive Phase 3 RESPONSE topline results",
+      "approx_change_pct": 14.5
+    },
+    {
+      "date": "2024-02-12",
+      "event": "Deal announcement",
+      "approx_change_pct": 25.3
+    }
+  ],
+  "offer_low_per_share": 23.0,
+  "offer_high_per_share": 32.5,
+  "num_offers_or_rounds": 3,
+  "num_parties_interested": 22,
+  "process_type": "broad auction",
+  "engagement_to_deal_days": 423,
+  "first_engagement_date": "2022-12-15",
+  "signing_date": "2024-02-11",
+  "interest_direction": "mixed",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No pre-deal rumors or leaks reported prior to official announcement."
+  },
+  "price_move_3m_pct": 57.7,
+  "price_move_6m_pct": 90.7,
+  "price_move_12m_pct": 206.9,
+  "price_move_24m_pct": 660.1,
+  "notes": "CymaBay was acquired by Gilead for $32.50/share cash after a broad auction process involving 22 parties, with seladelpar Phase 3 data as the key value driver.",
+  "_source_file": "cymabay_therapeutics_inc_CBAY.md"
+}

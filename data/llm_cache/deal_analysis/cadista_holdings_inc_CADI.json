@@ -1,0 +1,39 @@
+{
+  "company": "Cadista Holdings Inc.",
+  "ticker": "CADI",
+  "buyer": "Jubilant Pharma Limited",
+  "announcement_date": "2014-08-01",
+  "close_date": "unknown",
+  "deal_status": "pending",
+  "deal_size_usd_m": 188.475488,
+  "final_offer_per_share": 1.6,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": null,
+    "basis": "No unaffected market price available; stock was illiquid with no active trading market."
+  },
+  "company_stage": "commercial",
+  "lead_asset": "Methylprednisolone",
+  "lead_asset_stage": "marketed",
+  "value_inflection_events": [],
+  "offer_low_per_share": 1.2,
+  "offer_high_per_share": 1.76,
+  "num_offers_or_rounds": 3,
+  "num_parties_interested": 1,
+  "process_type": "single bidder / bilateral",
+  "engagement_to_deal_days": null,
+  "first_engagement_date": "2013-09-03",
+  "signing_date": "2014-08-01",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No pre-deal rumors exist; company was already a majority-owned subsidiary."
+  },
+  "price_move_3m_pct": null,
+  "price_move_6m_pct": null,
+  "price_move_12m_pct": null,
+  "price_move_24m_pct": null,
+  "notes": "Minority squeeze-out by 82.38% parent Jubilant; no public market for shares so no premium or price-move data computable. Special Committee negotiated up from $1.20 to $1.60 after rejecting $1.76 counterproposal.",
+  "_source_file": "cadista_holdings_inc_CADI.md"
+}

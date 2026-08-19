@@ -1,0 +1,85 @@
+{
+  "company": "Tetraphase Pharmaceuticals, Inc.",
+  "ticker": "TTPH",
+  "buyer": "La Jolla Pharmaceutical Company",
+  "announcement_date": "2020-06-24",
+  "close_date": "2020-07-28",
+  "deal_status": "completed",
+  "deal_size_usd_m": 59.0,
+  "final_offer_per_share": 2.0,
+  "payment_type": "cash+CVR",
+  "has_cvr": true,
+  "premium": {
+    "pct": 51.5,
+    "basis": "Computed: $2.00 vs. last close before initial La Jolla contact (2020-05-01 close $1.32). Not officially stated."
+  },
+  "company_stage": "commercial",
+  "lead_asset": "XERAVA (eravacycline)",
+  "lead_asset_stage": "approved / commercial",
+  "value_inflection_events": [
+    {
+      "date": "2018-02-16",
+      "event": "IGNITE3 Phase 3 cUTI trial top-line results: did not meet primary endpoint",
+      "approx_change_pct": -58.8
+    },
+    {
+      "date": "2019-09-27",
+      "event": "Reverse stock split (mechanical, not fundamental value change)",
+      "approx_change_pct": 1719.6
+    },
+    {
+      "date": "2019-10-04",
+      "event": "Post-reverse-split price normalization",
+      "approx_change_pct": -27.6
+    },
+    {
+      "date": "2019-11-01",
+      "event": "Announcement of $8.0M registered direct offering to Armistice Capital (Black-Scholes Put Provisions)",
+      "approx_change_pct": -36.1
+    },
+    {
+      "date": "2019-12-27",
+      "event": "Company P (Armistice affiliate) delivers unsolicited $9.0M acquisition proposal; market check initiated",
+      "approx_change_pct": 35.9
+    },
+    {
+      "date": "2020-03-20",
+      "event": "Broad COVID-19 market selloff; AcelRx merger agreement signed March 16",
+      "approx_change_pct": -49.2
+    },
+    {
+      "date": "2020-03-27",
+      "event": "Post-COVID recovery rally",
+      "approx_change_pct": 63.0
+    },
+    {
+      "date": "2020-05-08",
+      "event": "La Jolla Chairman contacts Tetraphase; La Jolla proposes $22M cash + $12.5M CVR",
+      "approx_change_pct": 53.0
+    },
+    {
+      "date": "2020-05-22",
+      "event": "Melinta delivers unsolicited proposal ($27.0M cash + $12.5M CVR); Board finds it could lead to Superior Offer",
+      "approx_change_pct": 20.5
+    }
+  ],
+  "offer_low_per_share": 1.21,
+  "offer_high_per_share": 2.0,
+  "num_offers_or_rounds": 21,
+  "num_parties_interested": 12,
+  "process_type": "broad auction",
+  "engagement_to_deal_days": 54,
+  "first_engagement_date": "2020-05-01",
+  "signing_date": "2020-06-24",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": true,
+    "details": "La Jolla's unsolicited proposal and interest were publicly disclosed via 8-K filing on May 6, 2020, more than one month before the official announcement, and widely reported."
+  },
+  "price_move_3m_pct": 119.2,
+  "price_move_6m_pct": -13.2,
+  "price_move_12m_pct": -69.5,
+  "price_move_24m_pct": -96.4,
+  "notes": "Tetraphase, a commercial antibiotic company with near-bankruptcy risk, went through a competitive multi-round auction including AcelRx and Melinta before La Jolla\u2019s unsolicited all-cash offer with a CVR prevailed.",
+  "_source_file": "tetraphase_pharmaceuticals_inc_ttph.md"
+}

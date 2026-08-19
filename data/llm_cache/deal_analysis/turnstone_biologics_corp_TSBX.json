@@ -1,0 +1,55 @@
+{
+  "company": "Turnstone Biologics Corp.",
+  "ticker": "TSBX",
+  "buyer": "XOMA Royalty Corporation",
+  "announcement_date": "2025-06-27",
+  "close_date": "2025-08-11",
+  "deal_status": "completed",
+  "deal_size_usd_m": 7.87,
+  "final_offer_per_share": 0.34,
+  "payment_type": "cash+CVR",
+  "has_cvr": true,
+  "premium": {
+    "pct": null,
+    "basis": "Deal was a liquidation alternative; premium not meaningful vs. prior trading. Board compared to estimated dissolution value of $0.33/share."
+  },
+  "company_stage": "Phase 1 (Discontinued)",
+  "lead_asset": "TIDAL-01",
+  "lead_asset_stage": "Phase 1 (Discontinued)",
+  "value_inflection_events": [
+    {
+      "date": "2024-08-14",
+      "event": "Initial Phase 1 data for TIDAL-01 announced; stock price dropped from $2.25 to $0.83.",
+      "approx_change_pct": -63.1
+    },
+    {
+      "date": "2024-10-11",
+      "event": "Announced 60% workforce reduction and strategic prioritization.",
+      "approx_change_pct": null
+    },
+    {
+      "date": "2025-02-04",
+      "event": "Announced discontinuation of TIDAL-01 clinical studies and formal strategic review process.",
+      "approx_change_pct": null
+    }
+  ],
+  "offer_low_per_share": null,
+  "offer_high_per_share": 0.34,
+  "num_offers_or_rounds": 3,
+  "num_parties_interested": 3,
+  "process_type": "limited / targeted",
+  "engagement_to_deal_days": 72,
+  "first_engagement_date": "2025-04-16",
+  "signing_date": "2025-06-26",
+  "interest_direction": "outbound (target ran process / sought buyer)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No pre-deal rumors or leaks identifying a buyer or price were found prior to the official announcement on June 27, 2025."
+  },
+  "price_move_3m_pct": -2.86,
+  "price_move_6m_pct": -15.0,
+  "price_move_12m_pct": -86.57,
+  "price_move_24m_pct": -97.08,
+  "notes": "Deal represents a structured liquidation following the failure of lead asset TIDAL-01, with XOMA acquiring the company for net cash minus $2M plus a CVR, providing a small premium over the board's estimated dissolution value.",
+  "_source_file": "turnstone_biologics_corp_TSBX.md"
+}

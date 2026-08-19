@@ -1,0 +1,50 @@
+{
+  "company": "MyoKardia, Inc.",
+  "ticker": "MYOK",
+  "buyer": "Bristol-Myers Squibb Company",
+  "announcement_date": "2020-10-05",
+  "close_date": "2020-11-17",
+  "deal_status": "completed",
+  "deal_size_usd_m": 13100,
+  "final_offer_per_share": 225.0,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 61.0,
+    "basis": "61% over the closing price on October 2, 2020, as stated in the Board's rationale"
+  },
+  "company_stage": "Phase 3 / pre-approval",
+  "lead_asset": "mavacamten",
+  "lead_asset_stage": "Phase 3 (EXPLORER-HCM study completed), NDA submission planned Q1 2021",
+  "value_inflection_events": [
+    {
+      "date": "2020-05-11",
+      "event": "Positive Phase 3 EXPLORER-HCM results for mavacamten announced",
+      "approx_change_pct": 99.2
+    },
+    {
+      "date": "2020-10-05",
+      "event": "Acquisition announcement by Bristol-Myers Squibb at $225.00 per share",
+      "approx_change_pct": 58.5
+    }
+  ],
+  "offer_low_per_share": 185.0,
+  "offer_high_per_share": 225.0,
+  "num_offers_or_rounds": 5,
+  "num_parties_interested": 2,
+  "process_type": "limited / targeted",
+  "engagement_to_deal_days": 93,
+  "first_engagement_date": "2020-07-02",
+  "signing_date": "2020-10-03",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No pre-deal rumors or public reports of a pending buyout were identified prior to the official announcement."
+  },
+  "price_move_3m_pct": 61.0,
+  "price_move_6m_pct": 42.0,
+  "price_move_12m_pct": 172.7,
+  "price_move_24m_pct": 163.7,
+  "notes": "The deal originated from partnership discussions around danicamtiv in 2019 and evolved into a full acquisition after positive Phase 3 mavacamten data. The process was a limited, bilateral negotiation with only one other party (Party A) contacted, who declined to engage.",
+  "_source_file": "myokardia_inc_MYOK.md"
+}

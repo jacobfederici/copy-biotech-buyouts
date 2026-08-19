@@ -1,0 +1,50 @@
+{
+  "company": "Pandion Therapeutics, Inc.",
+  "ticker": "PAND",
+  "buyer": "Merck Sharp & Dohme Corp.",
+  "announcement_date": "2021-02-25",
+  "close_date": "2021-04-01",
+  "deal_status": "completed",
+  "deal_size_usd_m": 1850,
+  "final_offer_per_share": 60.0,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 134,
+    "basis": "last trading day close before announcement (2021-02-24)"
+  },
+  "company_stage": "Phase 1",
+  "lead_asset": "PT-101",
+  "lead_asset_stage": "Phase 1a",
+  "value_inflection_events": [
+    {
+      "date": "2020-11-20",
+      "event": "Unknown catalyst",
+      "approx_change_pct": 25.0
+    },
+    {
+      "date": "2021-02-26",
+      "event": "Deal announcement (Merck acquisition)",
+      "approx_change_pct": 157.3
+    }
+  ],
+  "offer_low_per_share": 40.0,
+  "offer_high_per_share": 60.0,
+  "num_offers_or_rounds": 3,
+  "num_parties_interested": 2,
+  "process_type": "limited / targeted",
+  "engagement_to_deal_days": 390,
+  "first_engagement_date": "2020-01-31",
+  "signing_date": "2021-02-24",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No pre-announcement rumors or leaks; deal was a surprise."
+  },
+  "price_move_3m_pct": 36.8,
+  "price_move_6m_pct": 28.9,
+  "price_move_12m_pct": null,
+  "price_move_24m_pct": null,
+  "notes": "Deal came as a surprise, no prior leaks; premium 134% over last trading day; Merck secured the acquisition after previous failed asset and partnership proposals.",
+  "_source_file": "pandion_therapeutics_inc_PAND.md"
+}

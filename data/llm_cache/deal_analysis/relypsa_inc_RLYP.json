@@ -1,0 +1,60 @@
+{
+  "company": "Relypsa, Inc.",
+  "ticker": "RLYP",
+  "buyer": "Vifor Pharma USA Inc.",
+  "announcement_date": "2016-07-21",
+  "close_date": "2016-09-01",
+  "deal_status": "completed",
+  "deal_size_usd_m": 1530,
+  "final_offer_per_share": 32.0,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 59,
+    "basis": "59% over the unaffected price as stated in the board's rationale"
+  },
+  "company_stage": "commercial",
+  "lead_asset": "Veltassa (patiromer)",
+  "lead_asset_stage": "Approved / Commercial",
+  "value_inflection_events": [
+    {
+      "date": "2015-12-04",
+      "event": "Rumors of Merck bid for Relypsa",
+      "approx_change_pct": 21.6
+    },
+    {
+      "date": "2016-04-08",
+      "event": "Reuters reports Relypsa exploring a sale",
+      "approx_change_pct": 69.0
+    },
+    {
+      "date": "2016-05-27",
+      "event": "AstraZeneca CRL for ZS-9 competitor",
+      "approx_change_pct": 20.7
+    },
+    {
+      "date": "2016-07-22",
+      "event": "Announcement of Galenica acquisition",
+      "approx_change_pct": 55.2
+    }
+  ],
+  "offer_low_per_share": 29.0,
+  "offer_high_per_share": 32.0,
+  "num_offers_or_rounds": 3,
+  "num_parties_interested": 4,
+  "process_type": "limited / targeted",
+  "engagement_to_deal_days": 103,
+  "first_engagement_date": "2016-04-08",
+  "signing_date": "2016-07-20",
+  "interest_direction": "mixed",
+  "leaked_early": {
+    "leaked": true,
+    "details": "Reuters reported on April 7, 2016 that Relypsa was exploring a sale, more than 3 months before the official announcement."
+  },
+  "price_move_3m_pct": 7.4,
+  "price_move_6m_pct": 5.4,
+  "price_move_12m_pct": -39.3,
+  "price_move_24m_pct": -12.0,
+  "notes": "Deal followed a competitive process with multiple bidders after press rumors, and was completed via tender offer without shareholder vote.",
+  "_source_file": "relypsa_inc_RLYP.md"
+}

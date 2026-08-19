@@ -1,0 +1,50 @@
+{
+  "company": "scPharmaceuticals Inc.",
+  "ticker": "SCPH",
+  "buyer": "MannKind Corporation",
+  "announcement_date": "2025-08-25",
+  "close_date": "2025-10-07",
+  "deal_status": "completed",
+  "deal_size_usd_m": 287.6,
+  "final_offer_per_share": 5.35,
+  "payment_type": "cash+CVR",
+  "has_cvr": true,
+  "premium": {
+    "pct": null,
+    "basis": "Not explicitly stated in dossier; last pre-announcement close was $4.85 on 2025-08-22, which would imply a ~10.3% premium to that close, but dossier does not state an unaffected price or headline premium figure."
+  },
+  "company_stage": "commercial",
+  "lead_asset": "FUROSCIX",
+  "lead_asset_stage": "commercial",
+  "value_inflection_events": [
+    {
+      "date": "2024-05-24",
+      "event": "Unidentified trigger causing a weekly close decline of 26.1% (from $4.75 to $3.51)",
+      "approx_change_pct": -26.1
+    },
+    {
+      "date": "2025-05-16",
+      "event": "Unidentified trigger causing a weekly close increase of 32.0% (from $2.44 to $3.22)",
+      "approx_change_pct": 32.0
+    }
+  ],
+  "offer_low_per_share": 4.5,
+  "offer_high_per_share": 5.35,
+  "num_offers_or_rounds": 6,
+  "num_parties_interested": 3,
+  "process_type": "broad auction",
+  "engagement_to_deal_days": 33,
+  "first_engagement_date": "2025-05-07",
+  "signing_date": "2025-08-24",
+  "interest_direction": "mixed",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No pre-deal rumors or leaked reports identified in the dossier or search results prior to the official announcement on 2025-08-25."
+  },
+  "price_move_3m_pct": 75.1,
+  "price_move_6m_pct": 49.2,
+  "price_move_12m_pct": -6.7,
+  "price_move_24m_pct": -35.1,
+  "notes": "The process was initiated by an unsolicited inbound approach from Party A, but scPharmaceuticals subsequently conducted a broad auction outreach to 25 parties, yielding bids from MannKind and Party B; the deal includes a CVR tied to SCP-111 approval and sales milestones, and negotiations were temporarily stalled due to a supplier price increase.",
+  "_source_file": "scpharmaceuticals_inc_SCPH.md"
+}

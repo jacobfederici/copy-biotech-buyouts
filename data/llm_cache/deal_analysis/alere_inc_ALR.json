@@ -1,0 +1,39 @@
+{
+  "company": "Alere Inc.",
+  "ticker": "ALR",
+  "buyer": "Abbott Laboratories",
+  "announcement_date": "2016-01-30",
+  "close_date": "2017-10-03",
+  "deal_status": "completed",
+  "deal_size_usd_m": 4600,
+  "final_offer_per_share": 51.0,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 37.1,
+    "basis": "last close before announcement ($37.20 on 2016-01-29)"
+  },
+  "company_stage": "commercial",
+  "lead_asset": "Triage MeterPro",
+  "lead_asset_stage": "Commercial",
+  "value_inflection_events": [],
+  "offer_low_per_share": 51.0,
+  "offer_high_per_share": 51.0,
+  "num_offers_or_rounds": 1,
+  "num_parties_interested": 3,
+  "process_type": "limited / targeted",
+  "engagement_to_deal_days": null,
+  "first_engagement_date": "unknown",
+  "signing_date": "2016-01-30",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "Bloomberg reported Abbott talks on 2016-01-20, only 10 days before announcement."
+  },
+  "price_move_3m_pct": -19.3,
+  "price_move_6m_pct": -23.5,
+  "price_move_12m_pct": -8.6,
+  "price_move_24m_pct": -1.8,
+  "notes": "Deal required significant antitrust divestitures and was amended over a year after initial signing, but the $51 cash price remained unchanged.",
+  "_source_file": "alere_inc_ALR.md"
+}

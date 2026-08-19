@@ -1,0 +1,45 @@
+{
+  "company": "Inozyme Pharma, Inc.",
+  "ticker": "INZY",
+  "buyer": "BioMarin Pharmaceutical Inc.",
+  "announcement_date": "2025-05-16",
+  "close_date": "2025-07-01",
+  "deal_status": "completed",
+  "deal_size_usd_m": 259.66,
+  "final_offer_per_share": 4.0,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 247.8,
+    "basis": "vs last close before announcement ($1.15 on 2025-05-09)"
+  },
+  "company_stage": "Phase 3 / pre-approval",
+  "lead_asset": "INZ-701",
+  "lead_asset_stage": "Phase 3",
+  "value_inflection_events": [
+    {
+      "date": "2025-05-16",
+      "event": "Merger agreement announced",
+      "approx_change_pct": 243.5
+    }
+  ],
+  "offer_low_per_share": 1.75,
+  "offer_high_per_share": 4.0,
+  "num_offers_or_rounds": 5,
+  "num_parties_interested": 2,
+  "process_type": "limited / targeted",
+  "engagement_to_deal_days": 373,
+  "first_engagement_date": "2024-05-08",
+  "signing_date": "2025-05-16",
+  "interest_direction": "mixed",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No pre-deal rumors or leaks identified"
+  },
+  "price_move_3m_pct": -16.1,
+  "price_move_6m_pct": -63.1,
+  "price_move_12m_pct": -75.0,
+  "price_move_24m_pct": -81.9,
+  "notes": "Inozyme, a Phase 3 rare disease company, was acquired by BioMarin for $4.00/share cash after a competitive process, representing a 248% premium to the last close but a significant discount to its 52-week highs due to a prolonged stock decline.",
+  "_source_file": "inozyme_pharma_inc_INZY.md"
+}

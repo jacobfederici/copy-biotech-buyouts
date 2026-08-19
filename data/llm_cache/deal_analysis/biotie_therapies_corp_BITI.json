@@ -1,0 +1,50 @@
+{
+  "company": "Biotie Therapies Oyj",
+  "ticker": "BITI",
+  "buyer": "Acorda Therapeutics, Inc.",
+  "announcement_date": "2016-01-19",
+  "close_date": "2016-04-11",
+  "deal_status": "completed",
+  "deal_size_usd_m": 363.0,
+  "final_offer_per_share": 0.2946,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 95.0,
+    "basis": "last trading day before announcement"
+  },
+  "company_stage": "Phase 3",
+  "lead_asset": "Tozadenant",
+  "lead_asset_stage": "Phase 3",
+  "value_inflection_events": [
+    {
+      "date": "2015-06-19",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 25.2
+    },
+    {
+      "date": "2016-01-22",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 86.2
+    }
+  ],
+  "offer_low_per_share": 0.2934,
+  "offer_high_per_share": 0.302,
+  "num_offers_or_rounds": 3,
+  "num_parties_interested": 1,
+  "process_type": "limited / targeted",
+  "engagement_to_deal_days": 99,
+  "first_engagement_date": "2015-10-12",
+  "signing_date": "2016-01-19",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "no pre-deal rumors reported"
+  },
+  "price_move_3m_pct": -13.5,
+  "price_move_6m_pct": -32.2,
+  "price_move_12m_pct": null,
+  "price_move_24m_pct": null,
+  "notes": "Acorda acquired Biotie for its Phase 3 Parkinson's drug tozadenant in an unsolicited bilateral deal with a limited market check and no competing bids.",
+  "_source_file": "biotie_therapies_corp_BITI.md"
+}

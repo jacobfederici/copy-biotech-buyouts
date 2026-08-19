@@ -1,0 +1,70 @@
+{
+  "company": "Indevus Pharmaceuticals, Inc.",
+  "ticker": "IDEV",
+  "buyer": "Endo Pharmaceuticals Holdings Inc.",
+  "announcement_date": "2009-01-05",
+  "close_date": "2009-03-23",
+  "deal_status": "completed",
+  "deal_size_usd_m": 586.41,
+  "final_offer_per_share": 4.5,
+  "payment_type": "cash+CVR",
+  "has_cvr": true,
+  "premium": {
+    "pct": 45.0,
+    "basis": "45% premium as stated in company rationale, likely vs. pre-announcement price using upfront cash of $4.50"
+  },
+  "company_stage": "approved+marketed",
+  "lead_asset": "NEBIDO",
+  "lead_asset_stage": "NDA (Complete Response)",
+  "value_inflection_events": [
+    {
+      "date": "2008-06-06",
+      "event": "unidentified event",
+      "approx_change_pct": -69.3
+    },
+    {
+      "date": "2008-09-26",
+      "event": "unidentified event",
+      "approx_change_pct": 80.0
+    },
+    {
+      "date": "2008-10-10",
+      "event": "unidentified event",
+      "approx_change_pct": -29.2
+    },
+    {
+      "date": "2008-10-31",
+      "event": "unidentified event",
+      "approx_change_pct": 20.3
+    },
+    {
+      "date": "2008-11-28",
+      "event": "unidentified event",
+      "approx_change_pct": 34.4
+    },
+    {
+      "date": "2009-01-09",
+      "event": "unidentified event (announcement effect)",
+      "approx_change_pct": 68.6
+    }
+  ],
+  "offer_low_per_share": 6.5,
+  "offer_high_per_share": 7.5,
+  "num_offers_or_rounds": 2,
+  "num_parties_interested": 1,
+  "process_type": "single bidder / bilateral",
+  "engagement_to_deal_days": 108,
+  "first_engagement_date": "2008-09-19",
+  "signing_date": "2009-01-05",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No pre-deal rumors per web search; first public report was official announcement on 2009-01-05."
+  },
+  "price_move_3m_pct": 10.92,
+  "price_move_6m_pct": 75.0,
+  "price_move_12m_pct": -50.32,
+  "price_move_24m_pct": -53.74,
+  "notes": "Deal structured with CVRs tied to regulatory milestones for NEBIDO and octreotide; Indevus faced near-term debt maturity of $72M.",
+  "_source_file": "endo_pharmaceuticals_solutions_inc_ENDP.md"
+}

@@ -1,0 +1,55 @@
+{
+  "company": "Kos Pharmaceuticals Inc.",
+  "ticker": "KOSP",
+  "buyer": "Abbott Laboratories",
+  "announcement_date": "2006-11-06",
+  "close_date": "2006-12-13",
+  "deal_status": "completed",
+  "deal_size_usd_m": 3700,
+  "final_offer_per_share": 78.0,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": null,
+    "basis": "unknown"
+  },
+  "company_stage": "commercial",
+  "lead_asset": "Niaspan",
+  "lead_asset_stage": "Marketed",
+  "value_inflection_events": [
+    {
+      "date": "2005-04-01",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 26.2
+    },
+    {
+      "date": "2005-12-16",
+      "event": "not identified in filings or news",
+      "approx_change_pct": -29.3
+    },
+    {
+      "date": "2006-11-10",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 54.3
+    }
+  ],
+  "offer_low_per_share": 60.0,
+  "offer_high_per_share": 78.0,
+  "num_offers_or_rounds": 5,
+  "num_parties_interested": 3,
+  "process_type": "limited / targeted",
+  "engagement_to_deal_days": 130,
+  "first_engagement_date": "2006-06-28",
+  "signing_date": "2006-11-05",
+  "interest_direction": "mixed",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No pre-deal rumors exist. The deal was a surprise to the market."
+  },
+  "price_move_3m_pct": 3.0,
+  "price_move_6m_pct": 33.2,
+  "price_move_12m_pct": -29.6,
+  "price_move_24m_pct": 13.7,
+  "notes": "The deal was a surprise to the market with no pre-deal rumors. The final $78 offer represented a significant jump from the initial $60-$65 range, driven by a competitive bidding process between Abbott and Party B.",
+  "_source_file": "kos_pharmaceuticals_inc_KOSP.md"
+}

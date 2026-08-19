@@ -1,0 +1,50 @@
+{
+  "company": "Sepracor Inc.",
+  "ticker": "SEPR",
+  "buyer": "Dainippon Sumitomo Pharma Co., Ltd.",
+  "announcement_date": "2009-09-03",
+  "close_date": "2009-10-20",
+  "deal_status": "completed",
+  "deal_size_usd_m": 2552.8,
+  "final_offer_per_share": 23.0,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 27.6,
+    "basis": "last trading day before announcement (per company disclosure)"
+  },
+  "company_stage": "commercial",
+  "lead_asset": "LUNESTA",
+  "lead_asset_stage": "Marketed",
+  "value_inflection_events": [
+    {
+      "date": "2008-10-10",
+      "event": "Not identified",
+      "approx_change_pct": -25.0
+    },
+    {
+      "date": "2009-09-04",
+      "event": "Merger announcement",
+      "approx_change_pct": 22.8
+    }
+  ],
+  "offer_low_per_share": 21.5,
+  "offer_high_per_share": 23.0,
+  "num_offers_or_rounds": 3,
+  "num_parties_interested": 7,
+  "process_type": "broad auction",
+  "engagement_to_deal_days": 99,
+  "first_engagement_date": "2009-05-27",
+  "signing_date": "2009-09-03",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "Rumors of a Japanese acquirer surfaced in August 2009, but specific naming of DSP occurred on September 1, 2009, just 2 days before announcement."
+  },
+  "price_move_3m_pct": 13.4,
+  "price_move_6m_pct": 34.6,
+  "price_move_12m_pct": -2.7,
+  "price_move_24m_pct": -33.5,
+  "notes": "Sepracor was acquired by Dainippon Sumitomo Pharma for $23.00/share cash after a competitive process, with DSP's offer increasing from $21.50 to $23.00 amid cooling PE interest.",
+  "_source_file": "sunovion_pharmaceuticals_inc_SEPR.md"
+}

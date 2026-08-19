@@ -1,0 +1,75 @@
+{
+  "company": "La Jolla Pharmaceutical Company",
+  "ticker": "LJPC",
+  "buyer": "Innoviva, Inc.",
+  "announcement_date": "2022-07-11",
+  "close_date": "2022-08-22",
+  "deal_status": "completed",
+  "deal_size_usd_m": 155.3,
+  "final_offer_per_share": 6.23,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 84.0,
+    "basis": "Premium to the company's closing price prior to the announcement (as stated in dossier). Last pre-announcement close from stock table (July 8, 2022 close of $3.39) implies ~83.8% premium, consistent with stated 84%."
+  },
+  "company_stage": "commercial",
+  "lead_asset": "GIAPREZA (angiotensin II)",
+  "lead_asset_stage": "Approved / Commercial",
+  "value_inflection_events": [
+    {
+      "date": "2020-11-13",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 31.1
+    },
+    {
+      "date": "2021-01-15",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 29.9
+    },
+    {
+      "date": "2021-03-12",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 21.6
+    },
+    {
+      "date": "2021-05-28",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 22.9
+    },
+    {
+      "date": "2021-12-03",
+      "event": "not identified in filings or news",
+      "approx_change_pct": -20.0
+    },
+    {
+      "date": "2021-12-10",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 21.0
+    },
+    {
+      "date": "2022-07-15",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 82.3
+    }
+  ],
+  "offer_low_per_share": 4.9,
+  "offer_high_per_share": 6.23,
+  "num_offers_or_rounds": 8,
+  "num_parties_interested": 4,
+  "process_type": "broad auction",
+  "engagement_to_deal_days": 157,
+  "first_engagement_date": "2022-02-04",
+  "signing_date": "2022-07-10",
+  "interest_direction": "mixed",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No pre-deal rumors exist for La Jolla Pharmaceutical Co. (LJPC). Market reports noted the deal as a sudden development."
+  },
+  "price_move_3m_pct": -20.49,
+  "price_move_6m_pct": -24.84,
+  "price_move_12m_pct": -19.73,
+  "price_move_24m_pct": -27.87,
+  "notes": "Competitive auction with 8 NDAs from 25 contacted parties. Final price of $6.23 included pass-through of $0.28/sh from minority interest divestiture, beating bids with uncertain CVRs and a reduced $5.50 cash bid from original lead bidder Company A.",
+  "_source_file": "la_jolla_pharmaceutical_co_LJPC.md"
+}

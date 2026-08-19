@@ -1,0 +1,55 @@
+{
+  "company": "Intercept Pharmaceuticals, Inc.",
+  "ticker": "ICPT",
+  "buyer": "Alfasigma S.p.A.",
+  "announcement_date": "2023-09-26",
+  "close_date": "2023-11-08",
+  "deal_status": "completed",
+  "deal_size_usd_m": 794.5,
+  "final_offer_per_share": 19.0,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 82,
+    "basis": "unaffected stock price (per board rationale)"
+  },
+  "company_stage": "commercial",
+  "lead_asset": "Ocaliva (obeticholic acid)",
+  "lead_asset_stage": "Marketed (conditional approval)",
+  "value_inflection_events": [
+    {
+      "date": "2023-03-10",
+      "event": "FDA Advisory Committee meeting date announced",
+      "approx_change_pct": -22.1
+    },
+    {
+      "date": "2023-05-19",
+      "event": "FDA Advisory Committee votes negatively on OCA for NASH",
+      "approx_change_pct": -36.4
+    },
+    {
+      "date": "2023-09-26",
+      "event": "Merger agreement announced",
+      "approx_change_pct": 76.9
+    }
+  ],
+  "offer_low_per_share": 12.0,
+  "offer_high_per_share": 19.0,
+  "num_offers_or_rounds": 8,
+  "num_parties_interested": 7,
+  "process_type": "broad auction",
+  "engagement_to_deal_days": 95,
+  "first_engagement_date": "2023-06-23",
+  "signing_date": "2023-09-26",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No specific deal rumors reported 1+ month prior to announcement"
+  },
+  "price_move_3m_pct": -10.7,
+  "price_move_6m_pct": -22.1,
+  "price_move_12m_pct": -31.2,
+  "price_move_24m_pct": -31.1,
+  "notes": "Intercept's acquisition followed FDA's complete response letter for OCA in NASH and restructuring; the $19 cash offer represented an 82% premium.",
+  "_source_file": "intercept_pharmaceuticals_inc_ICPT.md"
+}

@@ -1,0 +1,50 @@
+{
+  "company": "Chattem Inc.",
+  "ticker": "CHTT",
+  "buyer": "sanofi-aventis",
+  "announcement_date": "2009-12-21",
+  "close_date": "2010-03-10",
+  "deal_status": "completed",
+  "deal_size_usd_m": 1774.6,
+  "final_offer_per_share": 93.5,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 33.6,
+    "basis": "premium to the market price (closing price on December 18, 2009 of $69.98)"
+  },
+  "company_stage": "commercial",
+  "lead_asset": "Allegra",
+  "lead_asset_stage": "Rx-to-OTC Switch",
+  "value_inflection_events": [
+    {
+      "date": "2008-02-01",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 22.4
+    },
+    {
+      "date": "2009-12-25",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 33.3
+    }
+  ],
+  "offer_low_per_share": 85.0,
+  "offer_high_per_share": 93.5,
+  "num_offers_or_rounds": 3,
+  "num_parties_interested": 1,
+  "process_type": "single bidder / bilateral",
+  "engagement_to_deal_days": 114,
+  "first_engagement_date": "2009-08-28",
+  "signing_date": "2009-12-20",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No widely reported public rumors prior to announcement; described as a 'well-kept secret'."
+  },
+  "price_move_3m_pct": 8.4,
+  "price_move_6m_pct": 5.5,
+  "price_move_12m_pct": 2.5,
+  "price_move_24m_pct": -7.1,
+  "notes": "Deal driven by sanofi's need for a U.S. OTC platform to switch Allegra; insider trading occurred but no public leak.",
+  "_source_file": "chattem_inc_CHTT.md"
+}

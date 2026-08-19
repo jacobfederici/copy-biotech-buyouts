@@ -1,0 +1,39 @@
+{
+  "company": "Constellation Pharmaceuticals Inc",
+  "ticker": "CNST",
+  "buyer": "MorphoSys AG",
+  "announcement_date": "2021-06-02",
+  "close_date": "2021-07-15",
+  "deal_status": "completed",
+  "deal_size_usd_m": 1700,
+  "final_offer_per_share": 34.0,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 68,
+    "basis": "Stated premium to market price per board rationale (last close $19.81 implies 71.6%, but document states 68%)"
+  },
+  "company_stage": "Phase 3",
+  "lead_asset": "pelabresib (CPI-0610)",
+  "lead_asset_stage": "Phase 3",
+  "value_inflection_events": [],
+  "offer_low_per_share": 34.0,
+  "offer_high_per_share": 36.0,
+  "num_offers_or_rounds": 5,
+  "num_parties_interested": 8,
+  "process_type": "broad auction",
+  "engagement_to_deal_days": 307,
+  "first_engagement_date": "2020-07-30",
+  "signing_date": "2021-06-02",
+  "interest_direction": "outbound (target ran process / sought buyer)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No pre-deal rumors or acquisition speculation reported prior to official announcement"
+  },
+  "price_move_3m_pct": -24.7,
+  "price_move_6m_pct": -12.5,
+  "price_move_12m_pct": -47.0,
+  "price_move_24m_pct": 112.6,
+  "notes": "Competitive bidding with Party F offering $36/share, but MorphoSys's final $34 cash offer won after others withdrew; financing via Royalty Pharma partnership.",
+  "_source_file": "constellation_pharmaceuticals_inc_CNST.md"
+}

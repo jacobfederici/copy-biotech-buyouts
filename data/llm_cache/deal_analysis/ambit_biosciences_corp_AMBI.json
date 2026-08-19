@@ -1,0 +1,39 @@
+{
+  "company": "Ambit Biosciences Corporation",
+  "ticker": "AMBI",
+  "buyer": "Daiichi Sankyo Company, Limited",
+  "announcement_date": "2014-09-28",
+  "close_date": "2014-11-10",
+  "deal_status": "completed",
+  "deal_size_usd_m": 315.3,
+  "final_offer_per_share": 15.0,
+  "payment_type": "cash+CVR",
+  "has_cvr": true,
+  "premium": {
+    "pct": 82.9,
+    "basis": "Last close before announcement ($8.20 on 2014-09-26)"
+  },
+  "company_stage": "Phase 3 / pre-approval",
+  "lead_asset": "Quizartinib",
+  "lead_asset_stage": "Phase 3",
+  "value_inflection_events": [],
+  "offer_low_per_share": 12.0,
+  "offer_high_per_share": 17.25,
+  "num_offers_or_rounds": 6,
+  "num_parties_interested": 2,
+  "process_type": "limited / targeted",
+  "engagement_to_deal_days": 286,
+  "first_engagement_date": "2013-12-16",
+  "signing_date": "2014-09-28",
+  "interest_direction": "mixed",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No pre-deal rumors or leaks identified."
+  },
+  "price_move_3m_pct": 18.8,
+  "price_move_6m_pct": -6.9,
+  "price_move_12m_pct": -44.6,
+  "price_move_24m_pct": null,
+  "notes": "Ambit's stock had fallen significantly from 2013 highs, making the $15.00 cash offer a substantial premium despite being below earlier unsolicited bids from Company A; CVR tied to quizartinib milestones.",
+  "_source_file": "ambit_biosciences_corp_AMBI.md"
+}

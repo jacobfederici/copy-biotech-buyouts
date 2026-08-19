@@ -1,0 +1,39 @@
+{
+  "company": "Allakos Inc.",
+  "ticker": "ALLK",
+  "buyer": "Concentra Biosciences, LLC",
+  "announcement_date": "2025-04-02",
+  "close_date": "2025-05-15",
+  "deal_status": "completed",
+  "deal_size_usd_m": 29.8,
+  "final_offer_per_share": 0.33,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 50,
+    "basis": "closing price prior to announcement (as stated in summary)"
+  },
+  "company_stage": "Phase 1",
+  "lead_asset": "AK006",
+  "lead_asset_stage": "Phase 1",
+  "value_inflection_events": [],
+  "offer_low_per_share": 0.32,
+  "offer_high_per_share": 0.33,
+  "num_offers_or_rounds": 2,
+  "num_parties_interested": 42,
+  "process_type": "broad auction",
+  "engagement_to_deal_days": 66,
+  "first_engagement_date": "2025-01-25",
+  "signing_date": "2025-04-01",
+  "interest_direction": "outbound (target ran process / sought buyer)",
+  "leaked_early": {
+    "leaked": true,
+    "details": "Bloomberg reported on Dec 4, 2019 that Allakos was exploring a sale; later in Jan 2025, the company announced strategic alternatives, and Tang Capital's stake accumulation in Feb 2025 fueled speculation."
+  },
+  "price_move_3m_pct": -80.2,
+  "price_move_6m_pct": -66.7,
+  "price_move_12m_pct": -80.7,
+  "price_move_24m_pct": -94.7,
+  "notes": "Allakos, a clinical-stage biotech with failed lead asset AK006, was acquired by Concentra Biosciences for $0.33/share cash after a broad auction process, representing a 50% premium but a fraction of its peak value.",
+  "_source_file": "allakos_inc_ALLK.md"
+}

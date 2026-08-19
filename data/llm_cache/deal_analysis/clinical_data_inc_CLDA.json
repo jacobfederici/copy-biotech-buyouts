@@ -1,0 +1,45 @@
+{
+  "company": "Clinical Data, Inc.",
+  "ticker": "CLDA",
+  "buyer": "Forest Laboratories, Inc.",
+  "announcement_date": "2011-02-22",
+  "close_date": "2011-04-12",
+  "deal_status": "completed",
+  "deal_size_usd_m": 1119.3,
+  "final_offer_per_share": 30.0,
+  "payment_type": "cash+CVR",
+  "has_cvr": true,
+  "premium": {
+    "pct": null,
+    "basis": "Premium not explicitly stated in dossier; deal price of $30.00 + CVR followed FDA approval and a competitive process."
+  },
+  "company_stage": "approved+marketed",
+  "lead_asset": "Viibryd (vilazodone hydrochloride)",
+  "lead_asset_stage": "Approved",
+  "value_inflection_events": [
+    {
+      "date": "2011-01-28",
+      "event": "FDA approval of Viibryd",
+      "approx_change_pct": 82.0
+    }
+  ],
+  "offer_low_per_share": 24.0,
+  "offer_high_per_share": 30.0,
+  "num_offers_or_rounds": 3,
+  "num_parties_interested": 23,
+  "process_type": "broad auction",
+  "engagement_to_deal_days": 25,
+  "first_engagement_date": "2011-01-28",
+  "signing_date": "2011-02-22",
+  "interest_direction": "outbound (target ran process / sought buyer)",
+  "leaked_early": {
+    "leaked": true,
+    "details": "Rumors of a potential acquisition and specific bidder interest (Forest Laboratories) were reported by Bloomberg and Reuters on February 18 and 21, 2011, prior to the official announcement on February 22, 2011."
+  },
+  "price_move_3m_pct": 99.67,
+  "price_move_6m_pct": 141.18,
+  "price_move_12m_pct": 99.67,
+  "price_move_24m_pct": 263.47,
+  "notes": "Deal driven by FDA approval of Viibryd; target faced a cash runway only through May 2011, forcing a sale. Forest added a CVR to bridge valuation gap without raising upfront cash.",
+  "_source_file": "clinical_data_inc_CLDA.md"
+}

@@ -1,0 +1,70 @@
+{
+  "company": "Calliditas Therapeutics AB",
+  "ticker": "CALT",
+  "buyer": "Asahi Kasei Corporation",
+  "announcement_date": "2024-05-28",
+  "close_date": "unknown",
+  "deal_status": "pending",
+  "deal_size_usd_m": null,
+  "final_offer_per_share": 208.0,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 83.0,
+    "basis": "83% over the unaffected share price (previous day's closing price on Nasdaq Stockholm)"
+  },
+  "company_stage": "commercial",
+  "lead_asset": "Nefecon (TARPEYO / Kinpeygo)",
+  "lead_asset_stage": "Commercial",
+  "value_inflection_events": [
+    {
+      "date": "2022-08-19",
+      "event": "not identified in filings or news",
+      "approx_change_pct": -26.3
+    },
+    {
+      "date": "2023-03-17",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 47.4
+    },
+    {
+      "date": "2023-05-19",
+      "event": "not identified in filings or news",
+      "approx_change_pct": -20.9
+    },
+    {
+      "date": "2023-12-15",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 21.4
+    },
+    {
+      "date": "2023-12-22",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 23.0
+    },
+    {
+      "date": "2024-05-31",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 78.4
+    }
+  ],
+  "offer_low_per_share": 179.0,
+  "offer_high_per_share": 208.0,
+  "num_offers_or_rounds": 4,
+  "num_parties_interested": 4,
+  "process_type": "limited / targeted",
+  "engagement_to_deal_days": 411,
+  "first_engagement_date": "2023-04-13",
+  "signing_date": "2024-05-28",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No specific, documented buyout rumors or leaked acquisition reports prior to the official announcement on May 28, 2024."
+  },
+  "price_move_3m_pct": 4.9,
+  "price_move_6m_pct": 11.9,
+  "price_move_12m_pct": 25.7,
+  "price_move_24m_pct": 17.0,
+  "notes": "The deal followed a prolonged unsolicited approach by Asahi Kasei and a competitive process involving three other parties, culminating in a 'best and final' offer of SEK 208 per share, a significant premium to the unaffected price.",
+  "_source_file": "calliditas_therapeutics_ab_CALT.md"
+}

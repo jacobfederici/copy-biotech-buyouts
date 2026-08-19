@@ -1,0 +1,50 @@
+{
+  "company": "Sucampo Pharmaceuticals, Inc.",
+  "ticker": "SCMP",
+  "buyer": "Mallinckrodt plc",
+  "announcement_date": "2017-12-26",
+  "close_date": "2018-02-13",
+  "deal_status": "completed",
+  "deal_size_usd_m": 1200,
+  "final_offer_per_share": 18.0,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 70.6,
+    "basis": "November 24, 2017 close of $10.55, last trading day before Transaction Committee authorized proceeding at $18.00"
+  },
+  "company_stage": "commercial",
+  "lead_asset": "AMITIZA (lubiprostone)",
+  "lead_asset_stage": "Approved / commercial (pediatric sNDA under review)",
+  "value_inflection_events": [
+    {
+      "date": "2017-12-01",
+      "event": "Bloomberg story leak / pre-announcement trading ahead of December 7 article",
+      "approx_change_pct": 21.3
+    },
+    {
+      "date": "2017-12-08",
+      "event": "Bloomberg article published December 7 reporting Sucampo considering a sale",
+      "approx_change_pct": 25.0
+    }
+  ],
+  "offer_low_per_share": 17.0,
+  "offer_high_per_share": 18.0,
+  "num_offers_or_rounds": 5,
+  "num_parties_interested": 1,
+  "process_type": "single bidder / bilateral",
+  "engagement_to_deal_days": 89,
+  "first_engagement_date": "2017-09-25",
+  "signing_date": "2017-12-23",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "Bloomberg article published December 7, 2017 (19 days before announcement), no earlier leaks identified"
+  },
+  "price_move_3m_pct": 44.07,
+  "price_move_6m_pct": 56.68,
+  "price_move_12m_pct": 27.82,
+  "price_move_24m_pct": -4.82,
+  "notes": "Mallinckrodt initiated a bilateral negotiation leading to an all-cash $18.00 per share tender offer at a 70.6% premium; prior unsolicited approaches had failed and the board declined to run a broader auction after a Bloomberg leak in December 2017 yielded no inbound interest.",
+  "_source_file": "sucampo_pharmaceuticals_inc_scmp.md"
+}

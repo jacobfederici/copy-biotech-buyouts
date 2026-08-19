@@ -1,0 +1,75 @@
+{
+  "company": "Raptor Pharmaceutical Corp",
+  "ticker": "RPTP",
+  "buyer": "Horizon Pharma plc",
+  "announcement_date": "2016-09-12",
+  "close_date": "2016-10-25",
+  "deal_status": "completed",
+  "deal_size_usd_m": 771.8,
+  "final_offer_per_share": 9.0,
+  "payment_type": "cash+CVR",
+  "has_cvr": true,
+  "premium": {
+    "pct": 20.8,
+    "basis": "Offer price of $9.00 vs. unaffected last close before announcement ($7.45 on 2016-09-09)"
+  },
+  "company_stage": "commercial",
+  "lead_asset": "PROCYSBI (RP103)",
+  "lead_asset_stage": "approved and marketed",
+  "value_inflection_events": [
+    {
+      "date": "2015-09-18",
+      "event": "Negative data from Phase 2b CyNCh study (pediatric NASH); stock dropped 41.7%",
+      "approx_change_pct": -41.7
+    },
+    {
+      "date": "2015-11-06",
+      "event": "Rebound on additional NIDDK data presented at AASLD; stock recovered 27.2%",
+      "approx_change_pct": 27.2
+    },
+    {
+      "date": "2015-12-11",
+      "event": "Negative correction following CyNCh data; stock declined 25.1%",
+      "approx_change_pct": -25.1
+    },
+    {
+      "date": "2016-01-08",
+      "event": "Broad biotech selloff; stock declined 21.7%",
+      "approx_change_pct": -21.7
+    },
+    {
+      "date": "2016-04-08",
+      "event": "QUINSAIR launch in Europe; stock recovered 20.6%",
+      "approx_change_pct": 20.6
+    },
+    {
+      "date": "2016-05-20",
+      "event": "Momentum from rare disease franchise execution; stock advanced 22.4%",
+      "approx_change_pct": 22.4
+    },
+    {
+      "date": "2016-09-16",
+      "event": "Horizon Pharma acquisition announcement at $9.00 per share + CVR; stock spiked 20.7%",
+      "approx_change_pct": 20.7
+    }
+  ],
+  "offer_low_per_share": null,
+  "offer_high_per_share": null,
+  "num_offers_or_rounds": 1,
+  "num_parties_interested": null,
+  "process_type": "single bidder / bilateral",
+  "engagement_to_deal_days": null,
+  "first_engagement_date": "unknown",
+  "signing_date": "2016-09-12",
+  "interest_direction": "unknown",
+  "leaked_early": {
+    "leaked": true,
+    "details": "Reuters reported in April 2016 that Raptor had held exploratory discussions with investment bankers to evaluate a potential sale; later rumors linked Horizon Pharma as potential acquirer in June 2016."
+  },
+  "price_move_3m_pct": 37.96,
+  "price_move_6m_pct": 78.63,
+  "price_move_12m_pct": -38.07,
+  "price_move_24m_pct": -33.12,
+  "notes": "Cash tender offer with CVRs tied to QUINSAIR FDA approval and $100M sales; CVR conditions were never met. Stock had fallen significantly after NASH trial failure in 2015 before recovering modestly prior to the deal.",
+  "_source_file": "raptor_pharmaceutical_rptp.md"
+}

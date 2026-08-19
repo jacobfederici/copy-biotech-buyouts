@@ -1,0 +1,60 @@
+{
+  "company": "Stemline Therapeutics Inc.",
+  "ticker": "STML",
+  "buyer": "Berlin-Chemie AG",
+  "announcement_date": "2020-05-04",
+  "close_date": "2020-06-10",
+  "deal_status": "completed",
+  "deal_size_usd_m": 677,
+  "final_offer_per_share": 11.5,
+  "payment_type": "cash+CVR",
+  "has_cvr": true,
+  "premium": {
+    "pct": 142,
+    "basis": "142% over the May 1, 2020 closing price of $4.75"
+  },
+  "company_stage": "commercial",
+  "lead_asset": "ELZONRIS (tagraxofusp-erzs; SL-401)",
+  "lead_asset_stage": "Marketed (US) / Pending (EU)",
+  "value_inflection_events": [
+    {
+      "date": "2018-12-21",
+      "event": "not identified in filings or news",
+      "approx_change_pct": -20.6
+    },
+    {
+      "date": "2018-12-28",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 24.1
+    },
+    {
+      "date": "2020-01-17",
+      "event": "not identified in filings or news",
+      "approx_change_pct": -28.3
+    },
+    {
+      "date": "2020-05-08",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 156.7
+    }
+  ],
+  "offer_low_per_share": 10.0,
+  "offer_high_per_share": 11.5,
+  "num_offers_or_rounds": 4,
+  "num_parties_interested": 2,
+  "process_type": "limited / targeted",
+  "engagement_to_deal_days": 334,
+  "first_engagement_date": "2019-06-05",
+  "signing_date": "2020-05-03",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No pre-deal rumors exist. The acquisition was a surprise to the market."
+  },
+  "price_move_3m_pct": -13.0,
+  "price_move_6m_pct": -54.7,
+  "price_move_12m_pct": -69.3,
+  "price_move_24m_pct": -74.9,
+  "notes": "The deal was announced during the COVID-19 market dislocation, with the $11.50 cash offer representing a 142% premium to the unaffected price but a significant discount to the stock's 52-week high of $16.10.",
+  "_source_file": "stemline_therapeutics_inc_STML.md"
+}

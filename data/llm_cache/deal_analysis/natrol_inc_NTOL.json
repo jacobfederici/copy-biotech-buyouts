@@ -1,0 +1,55 @@
+{
+  "company": "Natrol, Inc.",
+  "ticker": "NTOL",
+  "buyer": "Plethico Pharmaceuticals Limited",
+  "announcement_date": "2007-11-18",
+  "close_date": "2007-12-28",
+  "deal_status": "completed",
+  "deal_size_usd_m": 62.8,
+  "final_offer_per_share": 4.4,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 94.0,
+    "basis": "94% premium over the closing price prior to the announcement, as stated in the rationale section."
+  },
+  "company_stage": "commercial",
+  "lead_asset": "NuHair and Shen Min",
+  "lead_asset_stage": "Marketed",
+  "value_inflection_events": [
+    {
+      "date": "2006-02-10",
+      "event": "Unidentified event causing stock price increase",
+      "approx_change_pct": 33.6
+    },
+    {
+      "date": "2006-10-13",
+      "event": "Unidentified event causing stock price increase",
+      "approx_change_pct": 24.3
+    },
+    {
+      "date": "2007-11-23",
+      "event": "Deal announcement",
+      "approx_change_pct": 89.0
+    }
+  ],
+  "offer_low_per_share": 3.5,
+  "offer_high_per_share": 4.4,
+  "num_offers_or_rounds": 4,
+  "num_parties_interested": 1,
+  "process_type": "single bidder / bilateral",
+  "engagement_to_deal_days": 215,
+  "first_engagement_date": "2007-04-17",
+  "signing_date": "2007-11-18",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No pre-deal rumors identified; announcement was unexpected and caused an 89% single-day stock increase."
+  },
+  "price_move_3m_pct": -17.3,
+  "price_move_6m_pct": -34.2,
+  "price_move_12m_pct": -12.3,
+  "price_move_24m_pct": 82.1,
+  "notes": "Deal involved a two-step tender offer and short-form merger. Negotiations saw a significant re-trade from $5.00 down to $3.50 after disappointing Q3 results, before settling at $4.40. The 94% premium was relative to a depressed pre-announcement price.",
+  "_source_file": "natrol_inc_NTOL.md"
+}

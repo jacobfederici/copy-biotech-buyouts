@@ -1,0 +1,55 @@
+{
+  "company": "Kinnate Biopharma Inc.",
+  "ticker": "KNTE",
+  "buyer": "XOMA Corporation",
+  "announcement_date": "2024-02-16",
+  "close_date": "2024-04-03",
+  "deal_status": "completed",
+  "deal_size_usd_m": 122.11,
+  "final_offer_per_share": 2.5879,
+  "payment_type": "cash+CVR",
+  "has_cvr": true,
+  "premium": {
+    "pct": 49.0,
+    "basis": "49% over the Nov 14, 2023 price, as stated in the Rationale section"
+  },
+  "company_stage": "Phase 1",
+  "lead_asset": "Exarafenib",
+  "lead_asset_stage": "Phase 1",
+  "value_inflection_events": [
+    {
+      "date": "2023-04-21",
+      "event": "Exarafenib Phase 1 data released",
+      "approx_change_pct": -47.3
+    },
+    {
+      "date": "2023-09-18",
+      "event": "Announced strategic reprioritization and workforce restructuring",
+      "approx_change_pct": -26.3
+    },
+    {
+      "date": "2023-11-17",
+      "event": "Foresite/OrbiMed and XOMA submit non-binding expressions of interest",
+      "approx_change_pct": 82.9
+    }
+  ],
+  "offer_low_per_share": 2.17,
+  "offer_high_per_share": 2.5879,
+  "num_offers_or_rounds": 3,
+  "num_parties_interested": 3,
+  "process_type": "limited / targeted",
+  "engagement_to_deal_days": 155,
+  "first_engagement_date": "2023-09-05",
+  "signing_date": "2024-02-16",
+  "interest_direction": "outbound (target ran process / sought buyer)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No pre-deal rumors identified; the process was publicly disclosed via a strategic review announcement on 2023-09-18."
+  },
+  "price_move_3m_pct": 11.4,
+  "price_move_6m_pct": 20.5,
+  "price_move_12m_pct": -60.6,
+  "price_move_24m_pct": -71.7,
+  "notes": "Deal followed a failed reverse merger and withdrawal of a stockholder buyout bid, leaving XOMA as the sole bidder; final price was based on a 'net cash minus $9.5M' formula plus a CVR for asset sale proceeds.",
+  "_source_file": "kinnate_biopharma_inc_KNTE.md"
+}

@@ -1,0 +1,70 @@
+{
+  "company": "TESARO, Inc.",
+  "ticker": "TSRO",
+  "buyer": "GlaxoSmithKline LLC",
+  "announcement_date": "2018-12-03",
+  "close_date": "2019-01-22",
+  "deal_status": "completed",
+  "deal_size_usd_m": 5100,
+  "final_offer_per_share": 75.0,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 110,
+    "basis": "30-day VWAP prior to announcement"
+  },
+  "company_stage": "commercial",
+  "lead_asset": "ZEJULA (niraparib)",
+  "lead_asset_stage": "Marketed / Phase 3",
+  "value_inflection_events": [
+    {
+      "date": "2018-06-22",
+      "event": "not identified",
+      "approx_change_pct": 24.8
+    },
+    {
+      "date": "2018-08-03",
+      "event": "not identified",
+      "approx_change_pct": -23.2
+    },
+    {
+      "date": "2018-10-26",
+      "event": "not identified",
+      "approx_change_pct": -24.6
+    },
+    {
+      "date": "2018-11-16",
+      "event": "not identified",
+      "approx_change_pct": 39.3
+    },
+    {
+      "date": "2018-11-23",
+      "event": "not identified",
+      "approx_change_pct": 23.0
+    },
+    {
+      "date": "2018-12-07",
+      "event": "not identified",
+      "approx_change_pct": 59.4
+    }
+  ],
+  "offer_low_per_share": 66.0,
+  "offer_high_per_share": 75.0,
+  "num_offers_or_rounds": 3,
+  "num_parties_interested": 3,
+  "process_type": "limited / targeted",
+  "engagement_to_deal_days": 176,
+  "first_engagement_date": "2018-06-10",
+  "signing_date": "2018-12-03",
+  "interest_direction": "mixed",
+  "leaked_early": {
+    "leaked": false,
+    "details": "Bloomberg reported sale exploration on Nov 16-19, 2018, less than one month before announcement."
+  },
+  "price_move_3m_pct": 42.9,
+  "price_move_6m_pct": -1.1,
+  "price_move_12m_pct": -45.5,
+  "price_move_24m_pct": -64.3,
+  "notes": "GSK acquired TESARO for $75/share cash, a 110% premium to 30-day VWAP, to gain the PARP inhibitor ZEJULA and immuno-oncology pipeline after a targeted process that saw GSK raise its bid from $66 to $75.",
+  "_source_file": "tesaro_inc_TSRO.md"
+}

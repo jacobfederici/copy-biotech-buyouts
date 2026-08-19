@@ -1,0 +1,120 @@
+{
+  "company": "Memory Pharmaceuticals Corp.",
+  "ticker": "MEMY",
+  "buyer": "Hoffmann-La Roche Inc.",
+  "announcement_date": "2008-11-25",
+  "close_date": "2009-01-05",
+  "deal_status": "completed",
+  "deal_size_usd_m": 50.17,
+  "final_offer_per_share": 0.61,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 319,
+    "basis": "closing price prior to announcement (stated in Rationale)"
+  },
+  "company_stage": "Phase 2",
+  "lead_asset": "R3487/MEM 3454",
+  "lead_asset_stage": "Phase 2",
+  "value_inflection_events": [
+    {
+      "date": "2007-01-05",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 38.1
+    },
+    {
+      "date": "2007-03-09",
+      "event": "not identified in filings or news",
+      "approx_change_pct": -28.8
+    },
+    {
+      "date": "2007-03-23",
+      "event": "not identified in filings or news",
+      "approx_change_pct": -20.9
+    },
+    {
+      "date": "2007-04-13",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 56.4
+    },
+    {
+      "date": "2007-05-11",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 21.5
+    },
+    {
+      "date": "2007-10-19",
+      "event": "not identified in filings or news",
+      "approx_change_pct": -42.9
+    },
+    {
+      "date": "2007-11-23",
+      "event": "not identified in filings or news",
+      "approx_change_pct": -22.1
+    },
+    {
+      "date": "2008-05-23",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 34.1
+    },
+    {
+      "date": "2008-08-01",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 23.3
+    },
+    {
+      "date": "2008-09-19",
+      "event": "not identified in filings or news",
+      "approx_change_pct": -31.0
+    },
+    {
+      "date": "2008-10-10",
+      "event": "not identified in filings or news",
+      "approx_change_pct": -27.8
+    },
+    {
+      "date": "2008-10-24",
+      "event": "not identified in filings or news",
+      "approx_change_pct": -41.7
+    },
+    {
+      "date": "2008-10-31",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 42.9
+    },
+    {
+      "date": "2008-11-07",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 60.0
+    },
+    {
+      "date": "2008-11-21",
+      "event": "not identified in filings or news",
+      "approx_change_pct": -23.5
+    },
+    {
+      "date": "2008-11-28",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 353.8
+    }
+  ],
+  "offer_low_per_share": 0.55,
+  "offer_high_per_share": 0.61,
+  "num_offers_or_rounds": 3,
+  "num_parties_interested": 1,
+  "process_type": "single bidder / bilateral",
+  "engagement_to_deal_days": 35,
+  "first_engagement_date": "2008-10-21",
+  "signing_date": "2008-11-25",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "no pre-deal rumors"
+  },
+  "price_move_3m_pct": -64.86,
+  "price_move_6m_pct": -77.97,
+  "price_move_12m_pct": -80.6,
+  "price_move_24m_pct": -95.15,
+  "notes": "Memory faced severe financial distress and delisting risk; Roche acquired the partnered alpha-7 program at a stated 319% premium, but the stock had lost >95% from its high due to earlier clinical setbacks.",
+  "_source_file": "memory_pharmaceuticals_corp_MEMY.md"
+}

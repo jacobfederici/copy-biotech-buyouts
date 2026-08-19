@@ -1,0 +1,45 @@
+{
+  "company": "Adolor Corporation",
+  "ticker": "ADLR",
+  "buyer": "Cubist Pharmaceuticals, Inc.",
+  "announcement_date": "2011-10-24",
+  "close_date": "2011-12-12",
+  "deal_status": "completed",
+  "deal_size_usd_m": 220.9,
+  "final_offer_per_share": 4.25,
+  "payment_type": "cash+CVR",
+  "has_cvr": true,
+  "premium": {
+    "pct": 121.4,
+    "basis": "121.4% premium over the previous closing price of $1.92 on 2011-10-21, as stated in the board rationale."
+  },
+  "company_stage": "commercial",
+  "lead_asset": "ADL5945",
+  "lead_asset_stage": "Phase 2",
+  "value_inflection_events": [
+    {
+      "date": "2011-10-28",
+      "event": "Deal announcement",
+      "approx_change_pct": 133.9
+    }
+  ],
+  "offer_low_per_share": 4.0,
+  "offer_high_per_share": 4.25,
+  "num_offers_or_rounds": 3,
+  "num_parties_interested": 11,
+  "process_type": "limited / targeted",
+  "engagement_to_deal_days": 111,
+  "first_engagement_date": "2011-07-05",
+  "signing_date": "2011-10-24",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No specific pre-deal rumors were reported; the acquisition was characterized as a surprise."
+  },
+  "price_move_3m_pct": 23.9,
+  "price_move_6m_pct": -9.0,
+  "price_move_12m_pct": 55.0,
+  "price_move_24m_pct": 25.5,
+  "notes": "Deal included a Contingent Payment Right (CPR) worth up to $4.50 per share tied to ADL5945 milestones, making the maximum total consideration $8.75. Adolor ran a targeted outreach to 10 other parties but received no superior proposals.",
+  "_source_file": "adolor_corp_ADLR.md"
+}

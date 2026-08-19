@@ -1,0 +1,45 @@
+{
+  "company": "New River Pharmaceuticals Inc.",
+  "ticker": "NRPH",
+  "buyer": "Shire plc",
+  "announcement_date": "2007-02-20",
+  "close_date": "2007-04-19",
+  "deal_status": "completed",
+  "deal_size_usd_m": 2371.3,
+  "final_offer_per_share": 64.0,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 9.68,
+    "basis": "vs. last closing price of $58.35 on 2007-02-16 (pre-announcement Friday)"
+  },
+  "company_stage": "approved+marketed",
+  "lead_asset": "VYVANSE (lisdexamfetamine dimesylate)",
+  "lead_asset_stage": "Approved (FDA approval Feb 23, 2007)",
+  "value_inflection_events": [
+    {
+      "date": "2006-10-13",
+      "event": "Unidentified trigger event; stock price surged 74.8% from prior week's close of $26.21 to $45.82. Speculation likely related to positive clinical/regulatory news for VYVANSE given subsequent high volume.",
+      "approx_change_pct": 74.8
+    }
+  ],
+  "offer_low_per_share": 61.5,
+  "offer_high_per_share": 64.0,
+  "num_offers_or_rounds": 3,
+  "num_parties_interested": 15,
+  "process_type": "broad auction",
+  "engagement_to_deal_days": 48,
+  "first_engagement_date": "2007-01-10",
+  "signing_date": "2007-02-20",
+  "interest_direction": "mixed",
+  "leaked_early": {
+    "leaked": true,
+    "details": "Rumors of Shire as a likely acquirer surfaced by January 13, 2007, and heavy pre-announcement speculation on February 16, 2007, indicated imminent deal."
+  },
+  "price_move_3m_pct": 5.3,
+  "price_move_6m_pct": 121.66,
+  "price_move_12m_pct": 140.21,
+  "price_move_24m_pct": 386.25,
+  "notes": "Deal was driven by Shire's desire to consolidate VYVANSE ownership post-FDA approval. Despite a broad process contacting 14 other parties, no superior bids emerged. The final $64.00 price was a modest 9.7% premium over the pre-announcement close ($58.35), though the stock had already surged significantly in the prior months due to commercial prospects.",
+  "_source_file": "new_river_pharmaceuticals_inc_NRPH.md"
+}

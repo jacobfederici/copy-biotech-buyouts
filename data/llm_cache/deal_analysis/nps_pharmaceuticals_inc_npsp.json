@@ -1,0 +1,60 @@
+{
+  "company": "NPS Pharmaceuticals, Inc.",
+  "ticker": "NPSP",
+  "buyer": "Shire plc",
+  "announcement_date": "2015-01-11",
+  "close_date": "2015-02-21",
+  "deal_status": "completed",
+  "deal_size_usd_m": 5200,
+  "final_offer_per_share": 46.0,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": null,
+    "basis": "Premium not explicitly stated; pre-announcement close was $41.91 on 2015-01-09"
+  },
+  "company_stage": "commercial",
+  "lead_asset": "Natpara / Natpar",
+  "lead_asset_stage": "pending approval",
+  "value_inflection_events": [
+    {
+      "date": "2013-08-09",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 21.1
+    },
+    {
+      "date": "2014-05-30",
+      "event": "Financial Times reports Shire is holding internal talks regarding a possible cash offer",
+      "approx_change_pct": 19.3
+    },
+    {
+      "date": "2014-12-17",
+      "event": "Bloomberg reports Shire is revisiting a potential bid for NPS",
+      "approx_change_pct": 8.6
+    },
+    {
+      "date": "2015-01-09",
+      "event": "Reuters/Bloomberg report Shire is in advanced talks to acquire NPS for ~$5B",
+      "approx_change_pct": 17.2
+    }
+  ],
+  "offer_low_per_share": 41.0,
+  "offer_high_per_share": 46.0,
+  "num_offers_or_rounds": 3,
+  "num_parties_interested": 3,
+  "process_type": "limited / targeted",
+  "engagement_to_deal_days": 66,
+  "first_engagement_date": "2014-11-15",
+  "signing_date": "2015-01-11",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": true,
+    "details": "FT Alphaville reported on May 30, 2014 that Shire was holding internal discussions regarding a possible offer for NPS; NPS issued an SEC filing on June 2, 2014 to 'dispel erroneous press reports' stating no communication with Shire had occurred."
+  },
+  "price_move_3m_pct": -27.7,
+  "price_move_6m_pct": 17.2,
+  "price_move_12m_pct": 15.5,
+  "price_move_24m_pct": 371.8,
+  "notes": "The deal was driven by the upcoming PDUFA date for Natpara, with Shire assuming the full FDA regulatory risk; the company ran a limited market check of nine parties after receiving Shire's best and final offer, but all declined.",
+  "_source_file": "nps_pharmaceuticals_inc_npsp.md"
+}

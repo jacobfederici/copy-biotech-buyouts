@@ -1,0 +1,45 @@
+{
+  "company": "Cubist Pharmaceuticals Inc.",
+  "ticker": "CBST",
+  "buyer": "Merck & Co., Inc.",
+  "announcement_date": "2014-12-08",
+  "close_date": "2015-01-21",
+  "deal_status": "completed",
+  "deal_size_usd_m": 7794.9,
+  "final_offer_per_share": 102.0,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 37.2,
+    "basis": "vs. $74.36 closing price on December 5, 2014 (last trading day before announcement)"
+  },
+  "company_stage": "commercial",
+  "lead_asset": "Cubicin (daptomycin)",
+  "lead_asset_stage": "approved / commercial",
+  "value_inflection_events": [
+    {
+      "date": "2014-12-08",
+      "event": "Merger announcement: Merck to acquire Cubist for $102.00 per share",
+      "approx_change_pct": 29.5
+    }
+  ],
+  "offer_low_per_share": 88.0,
+  "offer_high_per_share": 102.0,
+  "num_offers_or_rounds": 3,
+  "num_parties_interested": 4,
+  "process_type": "limited / targeted",
+  "engagement_to_deal_days": 62,
+  "first_engagement_date": "2014-10-07",
+  "signing_date": "2014-12-08",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": true,
+    "details": "On December 5, 2014, The Wall Street Journal, The New York Times, and CNBC reported Merck was in advanced talks to acquire Cubist for ~$100/share, 3 days before the official announcement."
+  },
+  "price_move_3m_pct": -9.4,
+  "price_move_6m_pct": -7.5,
+  "price_move_12m_pct": 10.5,
+  "price_move_24m_pct": 75.2,
+  "notes": "Deal featured a robust market check with 3 other parties contacted, but none could match Merck's $102 bid. Merck agreed to exclude Hospira litigation and Zerbaxa regulatory outcomes from closing conditions, a key negotiation win for Cubist.",
+  "_source_file": "cubist_pharmaceuticals_cbst.md"
+}

@@ -1,0 +1,39 @@
+{
+  "company": "iTeos Therapeutics, Inc.",
+  "ticker": "ITOS",
+  "buyer": "Concentra Biosciences, LLC",
+  "announcement_date": "2025-07-21",
+  "close_date": "2025-08-29",
+  "deal_status": "completed",
+  "deal_size_usd_m": 465.0,
+  "final_offer_per_share": 10.047,
+  "payment_type": "cash+CVR",
+  "has_cvr": true,
+  "premium": {
+    "pct": 17.8,
+    "basis": "Premium over unaffected price before wind-down announcement (~$8.53 on 2025-05-23)"
+  },
+  "company_stage": "Phase 2",
+  "lead_asset": "Belrestotug (EOS-448)",
+  "lead_asset_stage": "Phase 2",
+  "value_inflection_events": [],
+  "offer_low_per_share": 8.5,
+  "offer_high_per_share": 10.355,
+  "num_offers_or_rounds": 5,
+  "num_parties_interested": 3,
+  "process_type": "broad auction",
+  "engagement_to_deal_days": 139,
+  "first_engagement_date": "2025-03-01",
+  "signing_date": "2025-07-18",
+  "interest_direction": "outbound (target ran process / sought buyer)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No pre-deal rumors identified"
+  },
+  "price_move_3m_pct": 57.6,
+  "price_move_6m_pct": 28.25,
+  "price_move_12m_pct": -34.8,
+  "price_move_24m_pct": -26.4,
+  "notes": "iTeos was acquired for its cash and liquidation value after lead asset failure, with CVR providing potential upside from legacy asset dispositions.",
+  "_source_file": "iteos_therapeutics_inc_ITOS.md"
+}

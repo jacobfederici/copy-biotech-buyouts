@@ -1,0 +1,60 @@
+{
+  "company": "Nabriva Therapeutics AG",
+  "ticker": "NBRV",
+  "buyer": "Nabriva Therapeutics plc",
+  "announcement_date": "2017-04-18",
+  "close_date": "2017-06-23",
+  "deal_status": "completed",
+  "deal_size_usd_m": 230.58,
+  "final_offer_per_share": 101.5,
+  "payment_type": "stock",
+  "has_cvr": false,
+  "premium": {
+    "pct": null,
+    "basis": "This was a corporate redomiciliation via a 1-for-1 share exchange, not a third-party acquisition with a premium to an unaffected price."
+  },
+  "company_stage": "Phase 3",
+  "lead_asset": "Lefamulin",
+  "lead_asset_stage": "Phase 3",
+  "value_inflection_events": [
+    {
+      "date": "2015-09-25",
+      "event": "not identified in filings or news",
+      "approx_change_pct": -26.5
+    },
+    {
+      "date": "2015-12-18",
+      "event": "not identified in filings or news",
+      "approx_change_pct": -99.6
+    },
+    {
+      "date": "2016-01-15",
+      "event": "not identified in filings or news",
+      "approx_change_pct": -20.3
+    },
+    {
+      "date": "2016-11-04",
+      "event": "not identified in filings or news",
+      "approx_change_pct": -21.0
+    }
+  ],
+  "offer_low_per_share": null,
+  "offer_high_per_share": null,
+  "num_offers_or_rounds": null,
+  "num_parties_interested": null,
+  "process_type": "single bidder / bilateral",
+  "engagement_to_deal_days": null,
+  "first_engagement_date": "unknown",
+  "signing_date": "2017-04-11",
+  "interest_direction": "unknown",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No credible pre-deal rumors were reported. The transaction was a corporate redomiciliation."
+  },
+  "price_move_3m_pct": -8.42,
+  "price_move_6m_pct": 131.52,
+  "price_move_12m_pct": 48.79,
+  "price_move_24m_pct": null,
+  "notes": "This was an internal corporate redomiciliation from Austria to Ireland, not a third-party acquisition, structured as a 1-for-1 stock exchange offer.",
+  "_source_file": "nabriva_therapeutics_plc_NBRV.md"
+}

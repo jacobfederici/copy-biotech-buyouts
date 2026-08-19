@@ -1,0 +1,39 @@
+{
+  "company": "Cellular Dynamics International, Inc.",
+  "ticker": "ICEL",
+  "buyer": "FUJIFILM Holdings Corporation",
+  "announcement_date": "2015-03-30",
+  "close_date": "2015-05-01",
+  "deal_status": "completed",
+  "deal_size_usd_m": 260.9,
+  "final_offer_per_share": 16.5,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 108,
+    "basis": "prior closing price of $7.94 on 2015-03-27"
+  },
+  "company_stage": "commercial",
+  "lead_asset": "iCell Hepatocytes",
+  "lead_asset_stage": "Commercial",
+  "value_inflection_events": [],
+  "offer_low_per_share": 13.0,
+  "offer_high_per_share": 16.5,
+  "num_offers_or_rounds": 5,
+  "num_parties_interested": 6,
+  "process_type": "limited / targeted",
+  "engagement_to_deal_days": 294,
+  "first_engagement_date": "2014-06-09",
+  "signing_date": "2015-03-30",
+  "interest_direction": "outbound (target ran process / sought buyer)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No pre-deal rumors or leaks identified."
+  },
+  "price_move_3m_pct": 24.1,
+  "price_move_6m_pct": 21.8,
+  "price_move_12m_pct": -42.8,
+  "price_move_24m_pct": null,
+  "notes": "CDI faced financial distress and the $16.50 all-cash deal provided a 108% premium; no pre-deal rumors; outbound process with six strategic parties.",
+  "_source_file": "cellular_dynamics_international_inc_ICEL.md"
+}

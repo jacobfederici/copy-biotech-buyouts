@@ -1,0 +1,80 @@
+{
+  "company": "89bio, Inc.",
+  "ticker": "ETNB",
+  "buyer": "Roche Holdings, Inc.",
+  "announcement_date": "2025-09-18",
+  "close_date": "2025-10-30",
+  "deal_status": "completed",
+  "deal_size_usd_m": 2255.7,
+  "final_offer_per_share": 14.5,
+  "payment_type": "cash+CVR",
+  "has_cvr": true,
+  "premium": {
+    "pct": 79.0,
+    "basis": "79% over the unaffected price (closing price on the day prior to announcement, $8.07 per share)"
+  },
+  "company_stage": "Phase 3 / pre-approval",
+  "lead_asset": "pegozafermin (BIO89-100)",
+  "lead_asset_stage": "Phase 3",
+  "value_inflection_events": [
+    {
+      "date": "2023-10-13",
+      "event": "Unidentified event causing sharp decline",
+      "approx_change_pct": -52.5
+    },
+    {
+      "date": "2023-11-03",
+      "event": "Unidentified event causing recovery",
+      "approx_change_pct": 25.5
+    },
+    {
+      "date": "2024-11-15",
+      "event": "Unidentified event causing decline",
+      "approx_change_pct": -24.1
+    },
+    {
+      "date": "2025-01-31",
+      "event": "Positive clinical data from competitor Akero Therapeutics increases industry focus on FGF21 class",
+      "approx_change_pct": 34.6
+    },
+    {
+      "date": "2025-04-04",
+      "event": "Unidentified event causing decline",
+      "approx_change_pct": -28.6
+    },
+    {
+      "date": "2025-05-02",
+      "event": "Unidentified event causing recovery",
+      "approx_change_pct": 25.8
+    },
+    {
+      "date": "2025-05-23",
+      "event": "Unidentified event causing recovery",
+      "approx_change_pct": 22.1
+    },
+    {
+      "date": "2025-09-19",
+      "event": "Deal announcement",
+      "approx_change_pct": 84.3
+    }
+  ],
+  "offer_low_per_share": 13.0,
+  "offer_high_per_share": 14.5,
+  "num_offers_or_rounds": 4,
+  "num_parties_interested": 1,
+  "process_type": "single bidder / bilateral",
+  "engagement_to_deal_days": null,
+  "first_engagement_date": "2023-03-28",
+  "signing_date": "2025-09-17",
+  "interest_direction": "outbound (target ran process / sought buyer)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No specific pre-deal buyout rumors or acquisition reports for 89bio involving a named buyer or price were identified prior to the official announcement."
+  },
+  "price_move_3m_pct": null,
+  "price_move_6m_pct": null,
+  "price_move_12m_pct": null,
+  "price_move_24m_pct": null,
+  "notes": "Deal included a non-tradeable CVR of up to $6.00 per share to bridge valuation gaps related to the Phase 3 pegozafermin program; 89bio engaged Moelis in 2022 to explore strategic options, leading to a bilateral negotiation with Roche.",
+  "_source_file": "89bio_inc_ETNB.md"
+}

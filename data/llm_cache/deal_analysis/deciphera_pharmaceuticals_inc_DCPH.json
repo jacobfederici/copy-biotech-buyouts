@@ -1,0 +1,55 @@
+{
+  "company": "Deciphera Pharmaceuticals, Inc.",
+  "ticker": "DCPH",
+  "buyer": "ONO Pharmaceutical Co., Ltd.",
+  "announcement_date": "2024-04-29",
+  "close_date": "2024-06-11",
+  "deal_status": "completed",
+  "deal_size_usd_m": 2400,
+  "final_offer_per_share": 25.6,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 75,
+    "basis": "75% premium over the unaffected closing price as stated in the dossier"
+  },
+  "company_stage": "commercial",
+  "lead_asset": "QINLOCK (ripretinib)",
+  "lead_asset_stage": "Approved / Phase 3 (Label Expansion)",
+  "value_inflection_events": [
+    {
+      "date": "2022-08-05",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 30.1
+    },
+    {
+      "date": "2023-01-06",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 31.8
+    },
+    {
+      "date": "2024-05-03",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 73.2
+    }
+  ],
+  "offer_low_per_share": 22.5,
+  "offer_high_per_share": 25.6,
+  "num_offers_or_rounds": 5,
+  "num_parties_interested": 5,
+  "process_type": "limited / targeted",
+  "engagement_to_deal_days": 75,
+  "first_engagement_date": "2024-02-13",
+  "signing_date": "2024-04-29",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "Rumors of the deal with ONO appeared on the morning of the announcement, April 29, 2024, but not 1+ month prior."
+  },
+  "price_move_3m_pct": 72.78,
+  "price_move_6m_pct": 101.97,
+  "price_move_12m_pct": 73.73,
+  "price_move_24m_pct": 117.05,
+  "notes": "The deal was an inbound, all-cash tender offer by ONO, representing a 75% premium. Deciphera ran a limited market check with 4 other parties, but only one submitted a lower, non-binding bid.",
+  "_source_file": "deciphera_pharmaceuticals_inc_DCPH.md"
+}

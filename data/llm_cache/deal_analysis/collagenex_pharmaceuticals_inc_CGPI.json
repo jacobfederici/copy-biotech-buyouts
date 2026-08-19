@@ -1,0 +1,55 @@
+{
+  "company": "CollaGenex Pharmaceuticals Inc.",
+  "ticker": "CGPI",
+  "buyer": "Galderma Laboratories, Inc.",
+  "announcement_date": "2008-02-26",
+  "close_date": "2008-04-10",
+  "deal_status": "completed",
+  "deal_size_usd_m": 420,
+  "final_offer_per_share": 16.6,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 45.0,
+    "basis": "45% premium over the 20-day average trading price as stated in the rationale section"
+  },
+  "company_stage": "commercial",
+  "lead_asset": "Oracea",
+  "lead_asset_stage": "Marketed",
+  "value_inflection_events": [
+    {
+      "date": "2007-05-04",
+      "event": "Significant share price decline (week ended 2007-05-04, close $14.00 to $11.16)",
+      "approx_change_pct": -20.3
+    },
+    {
+      "date": "2007-09-28",
+      "event": "Significant share price decline (week ended 2007-09-28, close $11.24 to $8.98)",
+      "approx_change_pct": -20.1
+    },
+    {
+      "date": "2008-02-29",
+      "event": "Public announcement of merger agreement on 2008-02-26; price jumps to near offer",
+      "approx_change_pct": 29.2
+    }
+  ],
+  "offer_low_per_share": 12.5,
+  "offer_high_per_share": 16.6,
+  "num_offers_or_rounds": 4,
+  "num_parties_interested": 5,
+  "process_type": "broad auction",
+  "engagement_to_deal_days": 122,
+  "first_engagement_date": "2007-10-24",
+  "signing_date": "2008-02-25",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked": {
+    "leaked": false,
+    "details": "No pre-deal rumors or public speculation identified; process remained private until official announcement."
+  },
+  "price_move_3m_pct": 31.58,
+  "price_move_6m_pct": 74.24,
+  "price_move_12m_pct": 20.69,
+  "price_move_24m_pct": 17.21,
+  "notes": "Deal value explicitly stated as $420M, though implied equity value from share count is $358.2M; competitive process with 13 parties contacted, 4 non-disclosure agreements signed, and 3 other indications; final price was deemed superior to a slightly higher competing bid due to closing certainty.",
+  "_source_file": "collagenex_pharmaceuticals_inc_CGPI.md"
+}

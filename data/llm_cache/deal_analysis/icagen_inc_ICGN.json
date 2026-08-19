@@ -1,0 +1,39 @@
+{
+  "company": "Icagen, Inc.",
+  "ticker": "ICGN",
+  "buyer": "Pfizer Inc.",
+  "announcement_date": "2011-07-20",
+  "close_date": "2011-10-27",
+  "deal_status": "completed",
+  "deal_size_usd_m": 53.12,
+  "final_offer_per_share": 6.0,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 150,
+    "basis": "150% premium over unaffected stock price of $2.40 as stated in board rationale"
+  },
+  "company_stage": "Phase 2",
+  "lead_asset": "Nav 1.7 Program",
+  "lead_asset_stage": "Pre-clinical / Clinical",
+  "value_inflection_events": [],
+  "offer_low_per_share": 4.0,
+  "offer_high_per_share": 6.0,
+  "num_offers_or_rounds": 3,
+  "num_parties_interested": 3,
+  "process_type": "broad auction",
+  "engagement_to_deal_days": 98,
+  "first_engagement_date": "2011-04-13",
+  "signing_date": "2011-07-20",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "First public rumor on June 28, 2011, less than one month before announcement; 13D filing on June 24, 2011."
+  },
+  "price_move_3m_pct": 192.5,
+  "price_move_6m_pct": 198.4,
+  "price_move_12m_pct": 144.4,
+  "price_move_24m_pct": 132.2,
+  "notes": "Pfizer acquired Icagen after a multi-year strategic review and market check, paying a 150% premium to the unaffected price, with no competing cash bids emerging.",
+  "_source_file": "icagen_inc_ICGN.md"
+}

@@ -1,0 +1,39 @@
+{
+  "company": "AveXis, Inc.",
+  "ticker": "AVXS",
+  "buyer": "Novartis AG",
+  "announcement_date": "2018-04-09",
+  "close_date": "2018-05-15",
+  "deal_status": "completed",
+  "deal_size_usd_m": 8700,
+  "final_offer_per_share": 218.0,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 88.1,
+    "basis": "Based on last closing price of $115.91 on April 6, 2018, the last trading day before announcement."
+  },
+  "company_stage": "Phase 3 / pre-approval",
+  "lead_asset": "AVXS-101",
+  "lead_asset_stage": "Phase 3 / BLA Preparation",
+  "value_inflection_events": [],
+  "offer_low_per_share": 112.0,
+  "offer_high_per_share": 218.0,
+  "num_offers_or_rounds": 7,
+  "num_parties_interested": 3,
+  "process_type": "limited / targeted",
+  "engagement_to_deal_days": 49,
+  "first_engagement_date": "2018-02-16",
+  "signing_date": "2018-04-06",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No specific leak of the Novartis deal; general gene therapy M&A speculation existed."
+  },
+  "price_move_3m_pct": -1.4,
+  "price_move_6m_pct": 11.0,
+  "price_move_12m_pct": 66.8,
+  "price_move_24m_pct": 392.6,
+  "notes": "AveXis was acquired by Novartis for $8.7B in cash, an 88% premium, driven by its gene therapy AVXS-101 for SMA, following a competitive process with multiple bidders.",
+  "_source_file": "avexis_inc_AVXS.md"
+}

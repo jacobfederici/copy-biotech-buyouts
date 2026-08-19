@@ -1,0 +1,50 @@
+{
+  "company": "Alpine Immune Sciences, Inc.",
+  "ticker": "ALPN",
+  "buyer": "Vertex Pharmaceuticals Incorporated",
+  "announcement_date": "2024-04-10",
+  "close_date": "2024-05-20",
+  "deal_status": "completed",
+  "deal_size_usd_m": 4900,
+  "final_offer_per_share": 65.0,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 67,
+    "basis": "As stated in board rationale: 67% premium vs unaffected price; exact unaffected price date not disclosed"
+  },
+  "company_stage": "Phase 3 / pre-approval",
+  "lead_asset": "povetacicept (ALPN-303)",
+  "lead_asset_stage": "Phase 3 (planned 2H 2024)",
+  "value_inflection_events": [
+    {
+      "date": "2023-11-02",
+      "event": "Phase 1b/2a data for povetacicept presented",
+      "approx_change_pct": 72.8
+    },
+    {
+      "date": "2024-04-10",
+      "event": "Definitive acquisition agreement announced",
+      "approx_change_pct": 84.4
+    }
+  ],
+  "offer_low_per_share": 60.0,
+  "offer_high_per_share": 65.0,
+  "num_offers_or_rounds": 3,
+  "num_parties_interested": 2,
+  "process_type": "limited / targeted",
+  "engagement_to_deal_days": 34,
+  "first_engagement_date": "2024-03-07",
+  "signing_date": "2024-04-10",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No public rumors >1 month before announcement; Bloomberg reported same day as official announcement"
+  },
+  "price_move_3m_pct": 70.6,
+  "price_move_6m_pct": 240.2,
+  "price_move_12m_pct": 377.8,
+  "price_move_24m_pct": 336.4,
+  "notes": "Vertex's $65/share cash offer represented a 67% premium to Alpine's unaffected price, driven by the potential of povetacicept in IgA nephropathy.",
+  "_source_file": "alpine_immune_sciences_inc_ALPN.md"
+}

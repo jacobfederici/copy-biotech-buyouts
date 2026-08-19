@@ -1,0 +1,45 @@
+{
+  "company": "Tourmaline Bio, Inc.",
+  "ticker": "TRML",
+  "buyer": "Novartis AG",
+  "announcement_date": "2025-09-09",
+  "close_date": "2025-10-28",
+  "deal_status": "completed",
+  "deal_size_usd_m": 1238.4,
+  "final_offer_per_share": 48.0,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 59.0,
+    "basis": "last trading day close"
+  },
+  "company_stage": "Phase 2 / Phase 3 ready",
+  "lead_asset": "pacibekitug",
+  "lead_asset_stage": "Phase 2",
+  "value_inflection_events": [
+    {
+      "date": "2023-10-19",
+      "event": "Closing of merger with Talaris Therapeutics and $75M private placement",
+      "approx_change_pct": 281.1
+    }
+  ],
+  "offer_low_per_share": 28.0,
+  "offer_high_per_share": 48.0,
+  "num_offers_or_rounds": 8,
+  "num_parties_interested": 12,
+  "process_type": "limited / targeted",
+  "engagement_to_deal_days": 217,
+  "first_engagement_date": "2025-02-03",
+  "signing_date": "2025-09-08",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No pre-deal rumors or public speculation reported"
+  },
+  "price_move_3m_pct": 38.83,
+  "price_move_6m_pct": 85.95,
+  "price_move_12m_pct": 74.27,
+  "price_move_24m_pct": 872.73,
+  "notes": "Deal driven by positive Phase 2 pacibekitug data; competitive process with multiple bidders; final all-cash offer at $48/sh represents 59% premium to last trading day.",
+  "_source_file": "tourmaline_bio_inc_TRML.md"
+}

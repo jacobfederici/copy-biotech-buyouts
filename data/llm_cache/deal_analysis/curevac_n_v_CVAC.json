@@ -1,0 +1,65 @@
+{
+  "company": "CureVac N.V.",
+  "ticker": "CVAC",
+  "buyer": "BioNTech SE",
+  "announcement_date": "2025-06-12",
+  "close_date": "unknown",
+  "deal_status": "pending",
+  "deal_size_usd_m": 1250.0,
+  "final_offer_per_share": 5.4641,
+  "payment_type": "stock",
+  "has_cvr": false,
+  "premium": {
+    "pct": 111.0,
+    "basis": "111% over the April 7, 2025 price, as stated in the Rationale section of the dossier."
+  },
+  "company_stage": "Clinical/Pre-clinical",
+  "lead_asset": "mRNA Oncology Programs",
+  "lead_asset_stage": "Clinical/Pre-clinical",
+  "value_inflection_events": [
+    {
+      "date": "2023-12-22",
+      "event": "not identified in filings or news",
+      "approx_change_pct": -33.7
+    },
+    {
+      "date": "2024-05-03",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 34.3
+    },
+    {
+      "date": "2024-09-13",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 25.5
+    },
+    {
+      "date": "2025-04-11",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 23.2
+    },
+    {
+      "date": "2025-06-13",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 26.3
+    }
+  ],
+  "offer_low_per_share": null,
+  "offer_high_per_share": 5.4641,
+  "num_offers_or_rounds": 3,
+  "num_parties_interested": 1,
+  "process_type": "single bidder / bilateral",
+  "engagement_to_deal_days": 106,
+  "first_engagement_date": "2025-02-26",
+  "signing_date": "2025-06-12",
+  "interest_direction": "mixed",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No evidence of a press report/rumor >= ~1 month prior to the June 12, 2025 announcement. Speculation about a BioNTech deal appeared only on June 11, 2025, the day before the official announcement."
+  },
+  "price_move_3m_pct": 70.59,
+  "price_move_6m_pct": 38.68,
+  "price_move_12m_pct": 45.54,
+  "price_move_24m_pct": -46.48,
+  "notes": "The deal originated from patent litigation settlement discussions and includes a complex fixed-value collar structure to mitigate stock volatility, with a post-offer Dutch squeeze-out mechanism planned.",
+  "_source_file": "curevac_n_v_CVAC.md"
+}

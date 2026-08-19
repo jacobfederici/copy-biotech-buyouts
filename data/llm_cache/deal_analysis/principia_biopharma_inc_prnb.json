@@ -1,0 +1,75 @@
+{
+  "company": "Principia Biopharma Inc.",
+  "ticker": "PRNB",
+  "buyer": "Sanofi",
+  "announcement_date": "2020-08-16",
+  "close_date": "2020-09-28",
+  "deal_status": "completed",
+  "deal_size_usd_m": 3325.99,
+  "final_offer_per_share": 100.0,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 10.0,
+    "basis": "Approximate premium over the August 14, 2020 closing price of $96.92, as noted in the dossier's buyout rumors section. The dossier also notes a ~75% premium over the share price before the July 2020 Bloomberg rumors."
+  },
+  "company_stage": "Phase 2b / Phase 3-ready",
+  "lead_asset": "PRN2246/SAR442168",
+  "lead_asset_stage": "Phase 2b (Phase 3 planned)",
+  "value_inflection_events": [
+    {
+      "date": "2020-02-21",
+      "event": "Sanofi announces positive Phase 2b data for PRN2246/SAR442168 in relapsing MS",
+      "approx_change_pct": 128.1
+    },
+    {
+      "date": "2020-04-24",
+      "event": "Sanofi announces additional positive Phase 2b data confirming primary and secondary endpoints",
+      "approx_change_pct": 128.1
+    },
+    {
+      "date": "2020-05-29",
+      "event": "Sanofi's unsolicited asset-acquisition proposal of ~$1.5B and escalation to full company acquisition discussion",
+      "approx_change_pct": 28.1
+    },
+    {
+      "date": "2020-07-13",
+      "event": "Sanofi provides revised $82.50 per share offer; Board negotiates value range of $82.50\u2013$100.00",
+      "approx_change_pct": 5.5
+    },
+    {
+      "date": "2020-08-16",
+      "event": "Merger Agreement signed; Sanofi announces $100.00 per share offer",
+      "approx_change_pct": 16.3
+    },
+    {
+      "date": "2020-08-21",
+      "event": "Week of Merger Agreement execution and tender offer filing; stock consolidates near offer price",
+      "approx_change_pct": 8.5
+    },
+    {
+      "date": "2020-09-28",
+      "event": "Merger closes; Principia becomes wholly owned subsidiary of Sanofi",
+      "approx_change_pct": 0.05
+    }
+  ],
+  "offer_low_per_share": 76.0,
+  "offer_high_per_share": 100.0,
+  "num_offers_or_rounds": 3,
+  "num_parties_interested": 1,
+  "process_type": "single bidder / bilateral",
+  "engagement_to_deal_days": 89,
+  "first_engagement_date": "2020-05-19",
+  "signing_date": "2020-08-16",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": true,
+    "details": "Bloomberg reported on July 16, 2020, that Sanofi was studying a potential acquisition of Principia, approximately one month before the official announcement on August 16, 2020."
+  },
+  "price_move_3m_pct": 82.14,
+  "price_move_6m_pct": 430.5,
+  "price_move_12m_pct": 462.08,
+  "price_move_24m_pct": null,
+  "notes": "The deal was driven by Sanofi's desire to fully own the CNS-penetrating BTK inhibitor PRN2246/SAR442168 after positive Phase 2b data, escalating from an unsolicited $1.5B asset purchase to a $3.33B full company acquisition following board rejection and a limited negotiation process constrained by existing license field-of-use restrictions.",
+  "_source_file": "principia_biopharma_inc_prnb.md"
+}

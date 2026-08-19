@@ -1,0 +1,60 @@
+{
+  "company": "Cypress Bioscience Inc.",
+  "ticker": "CYPB",
+  "buyer": "Ramius Value and Opportunity Advisors LLC",
+  "announcement_date": "2010-12-14",
+  "close_date": "2010-12-14",
+  "deal_status": "completed",
+  "deal_size_usd_m": 250.82,
+  "final_offer_per_share": 6.5,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 31.8,
+    "basis": "vs. closing price of $4.93 on 2010-12-10 (last trading week before announcement)"
+  },
+  "company_stage": "commercial",
+  "lead_asset": "Savella (milnacipran HCl)",
+  "lead_asset_stage": "Marketed",
+  "value_inflection_events": [
+    {
+      "date": "2009-01-16",
+      "event": "Unidentified catalyst (stock spike)",
+      "approx_change_pct": 28.6
+    },
+    {
+      "date": "2010-06-25",
+      "event": "Market reaction to CYP-1020 license and restructuring",
+      "approx_change_pct": -45.6
+    },
+    {
+      "date": "2010-07-23",
+      "event": "Ramius $4.00 unsolicited proposal made public",
+      "approx_change_pct": 40.0
+    },
+    {
+      "date": "2010-12-10",
+      "event": "Ramius increased willingness-to-pay to $5.50 per share",
+      "approx_change_pct": 21.1
+    }
+  ],
+  "offer_low_per_share": 4.0,
+  "offer_high_per_share": 6.5,
+  "num_offers_or_rounds": 4,
+  "num_parties_interested": null,
+  "process_type": "broad auction",
+  "engagement_to_deal_days": 148,
+  "first_engagement_date": "2010-07-19",
+  "signing_date": "2010-12-14",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "Hostile bid by Ramius was public since July 2010, but the final agreement with Royalty Pharma was not leaked prior to official announcement."
+  },
+  "price_move_3m_pct": 45.4,
+  "price_move_6m_pct": 13.1,
+  "price_move_12m_pct": -10.2,
+  "price_move_24m_pct": -16.9,
+  "notes": "Hostile pursuit by Ramius that started at $4.00/share eventually led to a friendly merger at $6.50/share with Royalty Pharma\u2019s involvement, more than doubling the initial offer.",
+  "_source_file": "cypress_bioscience_inc_CYPB.md"
+}

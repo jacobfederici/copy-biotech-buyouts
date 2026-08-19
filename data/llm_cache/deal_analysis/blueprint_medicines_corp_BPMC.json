@@ -1,0 +1,55 @@
+{
+  "company": "Blueprint Medicines Corporation",
+  "ticker": "BPMC",
+  "buyer": "Sanofi",
+  "announcement_date": "2025-06-02",
+  "close_date": "2025-07-17",
+  "deal_status": "completed",
+  "deal_size_usd_m": 9100,
+  "final_offer_per_share": 135.0,
+  "payment_type": "cash+CVR",
+  "has_cvr": true,
+  "premium": {
+    "pct": 27.3,
+    "basis": "vs unaffected closing price of $101.35 on 2025-05-30 (last trading day before announcement)"
+  },
+  "company_stage": "commercial",
+  "lead_asset": "AYVAKIT (avapritinib)",
+  "lead_asset_stage": "approved+marketed",
+  "value_inflection_events": [
+    {
+      "date": "2023-08-04",
+      "event": "Stock dropped 21.0% on unidentified event",
+      "approx_change_pct": -21.0
+    },
+    {
+      "date": "2025-01-17",
+      "event": "Stock rose 25.9% on unidentified event (possible undisclosed acquisition interest)",
+      "approx_change_pct": 25.9
+    },
+    {
+      "date": "2025-06-06",
+      "event": "Deal announcement; stock jumped 26.1%",
+      "approx_change_pct": 26.1
+    }
+  ],
+  "offer_low_per_share": 124.0,
+  "offer_high_per_share": 135.0,
+  "num_offers_or_rounds": 3,
+  "num_parties_interested": 2,
+  "process_type": "limited / targeted",
+  "engagement_to_deal_days": 190,
+  "first_engagement_date": "2024-11-22",
+  "signing_date": "2025-05-31",
+  "interest_direction": "outbound",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No pre-deal rumors; acquisition was a surprise to the market"
+  },
+  "price_move_3m_pct": 5.0,
+  "price_move_6m_pct": 5.6,
+  "price_move_12m_pct": -4.0,
+  "price_move_24m_pct": 73.3,
+  "notes": "Surprise deal with no prior leaks; upfront $129/share cash plus CVR up to $6 tied to BLU-808 milestones; target originally initiated strategic discussions.",
+  "_source_file": "blueprint_medicines_corp_BPMC.md"
+}

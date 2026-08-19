@@ -1,0 +1,45 @@
+{
+  "company": "Akouos, Inc.",
+  "ticker": "AKUS",
+  "buyer": "Eli Lilly and Company",
+  "announcement_date": "2022-10-18",
+  "close_date": "2022-12-01",
+  "deal_status": "completed",
+  "deal_size_usd_m": 487,
+  "final_offer_per_share": 12.5,
+  "payment_type": "cash+CVR",
+  "has_cvr": true,
+  "premium": {
+    "pct": null,
+    "basis": "unknown"
+  },
+  "company_stage": "Phase 1/2",
+  "lead_asset": "AK-OTOF",
+  "lead_asset_stage": "Phase 1/2 (IND cleared)",
+  "value_inflection_events": [
+    {
+      "date": "2022-09-09",
+      "event": "FDA clearance of IND application for AK-OTOF",
+      "approx_change_pct": null
+    }
+  ],
+  "offer_low_per_share": 9.0,
+  "offer_high_per_share": 12.5,
+  "num_offers_or_rounds": 5,
+  "num_parties_interested": 4,
+  "process_type": "limited / targeted",
+  "engagement_to_deal_days": 237,
+  "first_engagement_date": "2022-02-23",
+  "signing_date": "2022-10-17",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No pre-deal rumors or public reporting of buyout interest prior to the official announcement on 2022-10-18."
+  },
+  "price_move_3m_pct": 124.62,
+  "price_move_6m_pct": 80.24,
+  "price_move_12m_pct": -26.22,
+  "price_move_24m_pct": -62.49,
+  "notes": "Deal triggered by FDA IND clearance for lead asset AK-OTOF, which revived stalled talks and led to a 'best and final' offer from Lilly after three other parties declined to bid.",
+  "_source_file": "akouos_inc_AKUS.md"
+}

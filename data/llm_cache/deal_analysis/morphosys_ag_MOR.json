@@ -1,0 +1,55 @@
+{
+  "company": "MorphoSys AG",
+  "ticker": "MOR",
+  "buyer": "Novartis BidCo AG",
+  "announcement_date": "2024-02-05",
+  "close_date": "2024-05-31",
+  "deal_status": "completed",
+  "deal_size_usd_m": 2900,
+  "final_offer_per_share": 68.0,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 89,
+    "basis": "premium to the unaffected closing price on January 25, 2024, as identified by MorphoSys"
+  },
+  "company_stage": "Phase 3 / pre-approval",
+  "lead_asset": "Pelabresib",
+  "lead_asset_stage": "Phase 3",
+  "value_inflection_events": [
+    {
+      "date": "2023-11-20",
+      "event": "Phase 3 MANIFEST-2 study of pelabresib met primary endpoint (spleen volume reduction) but showed mixed symptom data, leading to a sharp sell-off.",
+      "approx_change_pct": -23.2
+    },
+    {
+      "date": "2023-12-11",
+      "event": "Presentation of full Phase 3 MANIFEST-2 data at ASH showing improvement in all four hallmarks of myelofibrosis, driving a significant recovery.",
+      "approx_change_pct": 50.1
+    },
+    {
+      "date": "2024-02-05",
+      "event": "Novartis announced a definitive agreement to acquire MorphoSys for \u20ac68.00 per share in cash.",
+      "approx_change_pct": 54.9
+    }
+  ],
+  "offer_low_per_share": 68.0,
+  "offer_high_per_share": 68.0,
+  "num_offers_or_rounds": 1,
+  "num_parties_interested": 2,
+  "process_type": "limited / targeted",
+  "engagement_to_deal_days": 70,
+  "first_engagement_date": "2023-11-27",
+  "signing_date": "2024-02-05",
+  "interest_direction": "unknown",
+  "leaked_early": {
+    "leaked": false,
+    "details": "The deal was reported by Reuters on the morning of the official announcement date, February 5, 2024, not one month prior."
+  },
+  "price_move_3m_pct": 63.4,
+  "price_move_6m_pct": 47.3,
+  "price_move_12m_pct": 185.3,
+  "price_move_24m_pct": 131.1,
+  "notes": "The deal was driven by Novartis's interest in the Phase 3 BET inhibitor pelabresib. A rival bidder, Incyte, was reported to be involved in the process on the day of the announcement, but Novartis secured the deal.",
+  "_source_file": "morphosys_ag_MOR.md"
+}

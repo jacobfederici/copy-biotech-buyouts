@@ -1,0 +1,50 @@
+{
+  "company": "bluebird bio, Inc.",
+  "ticker": "BLUE",
+  "buyer": "Beacon Parent Holdings, L.P. (backed by The Carlyle Group and SK Capital Partners)",
+  "announcement_date": "2025-02-21",
+  "close_date": "2025-06-02",
+  "deal_status": "completed",
+  "deal_size_usd_m": 95.9,
+  "final_offer_per_share": 9.84,
+  "payment_type": "cash+CVR",
+  "has_cvr": true,
+  "premium": {
+    "pct": null,
+    "basis": "unknown"
+  },
+  "company_stage": "approved+marketed",
+  "lead_asset": "LYFGENIA",
+  "lead_asset_stage": "Marketed",
+  "value_inflection_events": [
+    {
+      "date": "2024-12-13",
+      "event": "Rumored acquisition proposal from PJ Carlin & Co.",
+      "approx_change_pct": 1292.8
+    },
+    {
+      "date": "2025-02-21",
+      "event": "Merger Agreement executed and officially announced",
+      "approx_change_pct": -43.9
+    }
+  ],
+  "offer_low_per_share": 3.0,
+  "offer_high_per_share": 9.84,
+  "num_offers_or_rounds": 5,
+  "num_parties_interested": 3,
+  "process_type": "single bidder / bilateral",
+  "engagement_to_deal_days": 100,
+  "first_engagement_date": "2024-11-14",
+  "signing_date": "2025-02-21",
+  "interest_direction": "outbound (target ran process / sought buyer)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No evidence of a press report/rumor >= ~1 month prior to official announcement. Buyout rumors only surfaced retrospectively via SEC filings in March 2025."
+  },
+  "price_move_3m_pct": -43.9,
+  "price_move_6m_pct": 4.4,
+  "price_move_12m_pct": 197.8,
+  "price_move_24m_pct": -20.3,
+  "notes": "Company faced a severe liquidity crisis and risk of imminent bankruptcy, which drove a rapid negotiated sale process. The final deal included a CVR providing potential additional value, and a competing bid from Ayrmid eventually led to an amended all-cash alternative option.",
+  "_source_file": "bluebird_bio_inc_BLUE.md"
+}

@@ -1,0 +1,75 @@
+{
+  "company": "IMMUNOMEDICS INC",
+  "ticker": "IMMU",
+  "buyer": "Gilead Sciences, Inc.",
+  "announcement_date": "2020-09-13",
+  "close_date": "2020-10-23",
+  "deal_status": "completed",
+  "deal_size_usd_m": 21000,
+  "final_offer_per_share": 88.0,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 108,
+    "basis": "vs closing price on September 11, 2020"
+  },
+  "company_stage": "commercial",
+  "lead_asset": "Trodelvy (sacituzumab govitecan-hziy)",
+  "lead_asset_stage": "approved",
+  "value_inflection_events": [
+    {
+      "date": "2019-01-18",
+      "event": "not identified in filings or news",
+      "approx_change_pct": -25.7
+    },
+    {
+      "date": "2019-09-13",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 26.8
+    },
+    {
+      "date": "2020-03-13",
+      "event": "not identified in filings or news",
+      "approx_change_pct": -22.6
+    },
+    {
+      "date": "2020-04-03",
+      "event": "not identified in filings or news",
+      "approx_change_pct": -26.8
+    },
+    {
+      "date": "2020-04-10",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 108.9
+    },
+    {
+      "date": "2020-04-24",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 41.3
+    },
+    {
+      "date": "2020-09-18",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 102.4
+    }
+  ],
+  "offer_low_per_share": 55.0,
+  "offer_high_per_share": 88.0,
+  "num_offers_or_rounds": 3,
+  "num_parties_interested": 4,
+  "process_type": "limited / targeted",
+  "engagement_to_deal_days": 621,
+  "first_engagement_date": "2019-01-01",
+  "signing_date": "2020-09-13",
+  "interest_direction": "mixed",
+  "leaked_early": {
+    "leaked": false,
+    "details": "WSJ report on September 12, 2020, less than one month before announcement"
+  },
+  "price_move_3m_pct": 36.63,
+  "price_move_6m_pct": 232.68,
+  "price_move_12m_pct": 152.69,
+  "price_move_24m_pct": 89.72,
+  "notes": "Deal emerged from a competitive process triggered by an unsolicited $55/sh bid, with Gilead outbidding Party A and ultimately paying a 108% premium in an all-cash tender offer.",
+  "_source_file": "immunomedics_inc_immu.md"
+}

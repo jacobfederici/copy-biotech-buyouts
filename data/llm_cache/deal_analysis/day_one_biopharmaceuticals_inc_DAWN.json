@@ -1,0 +1,55 @@
+{
+  "company": "Day One Biopharmaceuticals, Inc.",
+  "ticker": "DAWN",
+  "buyer": "Servier Pharmaceuticals LLC (parent: Servier S.A.S.)",
+  "announcement_date": "2026-03-06",
+  "close_date": "2026-04-23",
+  "deal_status": "completed",
+  "deal_size_usd_m": 2500,
+  "final_offer_per_share": 21.5,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 114,
+    "basis": "unaffected price (as stated in board rationale)"
+  },
+  "company_stage": "commercial",
+  "lead_asset": "OJEMDA (tovorafenib)",
+  "lead_asset_stage": "Commercial / Phase 3 (FIREFLY-2)",
+  "value_inflection_events": [
+    {
+      "date": "2025-02-28",
+      "event": "Unidentified event (stock dropped 27.1%)",
+      "approx_change_pct": -27.1
+    },
+    {
+      "date": "2025-11-07",
+      "event": "Unidentified event (stock rose 30.8%)",
+      "approx_change_pct": 30.8
+    },
+    {
+      "date": "2026-03-06",
+      "event": "Deal announcement (stock rose 100%)",
+      "approx_change_pct": 100.0
+    }
+  ],
+  "offer_low_per_share": 13.0,
+  "offer_high_per_share": 21.5,
+  "num_offers_or_rounds": 7,
+  "num_parties_interested": 3,
+  "process_type": "limited / targeted",
+  "engagement_to_deal_days": 101,
+  "first_engagement_date": "2025-11-25",
+  "signing_date": "2026-03-06",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": true,
+    "details": "Rumors of a buyout by Jazz/Ipsen surfaced on March 4-5, 2026, just 1-2 days before the official announcement with Servier."
+  },
+  "price_move_3m_pct": 100.0,
+  "price_move_6m_pct": 172.0,
+  "price_move_12m_pct": 163.3,
+  "price_move_24m_pct": 36.9,
+  "notes": "The final $21.50 all-cash deal with Servier emerged from a competitive process involving three bidders (Company A, Company C, Servier) and represented a 114% premium to the unaffected price, with the stock doubling on announcement day.",
+  "_source_file": "day_one_biopharmaceuticals_inc_DAWN.md"
+}

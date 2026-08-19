@@ -1,0 +1,50 @@
+{
+  "company": "Alpharma Inc.",
+  "ticker": "ALO",
+  "buyer": "King Pharmaceuticals, Inc.",
+  "announcement_date": "2008-11-24",
+  "close_date": "2008-12-29",
+  "deal_status": "completed",
+  "deal_size_usd_m": 1600.0,
+  "final_offer_per_share": 37.0,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 40.6,
+    "basis": "premium based on 2008-08-22 event change (pre-event close $24.55 to post-event $34.51) as indicated in Value Inflection Points; also 37% premium noted in rumors vs prior day close for the initial $33 offer"
+  },
+  "company_stage": "commercial",
+  "lead_asset": "EMBEDA",
+  "lead_asset_stage": "NDA / Priority Review",
+  "value_inflection_events": [
+    {
+      "date": "2008-02-08",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 20.4
+    },
+    {
+      "date": "2008-08-22",
+      "event": "King publicly discloses $33 per share proposal; Alpharma publicly rejects it; deal speculation intensifies",
+      "approx_change_pct": 40.6
+    }
+  ],
+  "offer_low_per_share": 33.0,
+  "offer_high_per_share": 37.0,
+  "num_offers_or_rounds": 3,
+  "num_parties_interested": 3,
+  "process_type": "limited / targeted",
+  "engagement_to_deal_days": 135,
+  "first_engagement_date": "2008-07-11",
+  "signing_date": "2008-11-23",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": true,
+    "details": "King's interest became public on 2008-08-22, about 3 months before the November 24 official announcement."
+  },
+  "price_move_3m_pct": -38.4,
+  "price_move_6m_pct": -29.2,
+  "price_move_12m_pct": -14.5,
+  "price_move_24m_pct": -3.5,
+  "notes": "Hostile bid turned friendly after a failed auction; the final $37 offer was reached after King's initial $33 was rejected and a white-knight search failed to produce a superior bid.",
+  "_source_file": "alpharma_inc_ALO.md"
+}

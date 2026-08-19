@@ -1,0 +1,60 @@
+{
+  "company": "Cougar Biotechnology, Inc.",
+  "ticker": "CGRB",
+  "buyer": "Johnson & Johnson",
+  "announcement_date": "2009-05-21",
+  "close_date": "2009-07-03",
+  "deal_status": "completed",
+  "deal_size_usd_m": 970,
+  "final_offer_per_share": 43.0,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 18.3,
+    "basis": "over the last trading day prior to announcement (as stated in rationale)"
+  },
+  "company_stage": "Phase 3 / pre-approval",
+  "lead_asset": "abiraterone acetate",
+  "lead_asset_stage": "Phase 3",
+  "value_inflection_events": [
+    {
+      "date": "2007-10-05",
+      "event": "unidentified price movement (possible positive data?)",
+      "approx_change_pct": 22.5
+    },
+    {
+      "date": "2008-11-14",
+      "event": "unidentified price movement",
+      "approx_change_pct": -20.1
+    },
+    {
+      "date": "2008-11-28",
+      "event": "unidentified price movement",
+      "approx_change_pct": 28.9
+    },
+    {
+      "date": "2009-05-22",
+      "event": "announcement of acquisition by Johnson & Johnson",
+      "approx_change_pct": 21.9
+    }
+  ],
+  "offer_low_per_share": 36.0,
+  "offer_high_per_share": 43.0,
+  "num_offers_or_rounds": 7,
+  "num_parties_interested": 17,
+  "process_type": "broad auction",
+  "engagement_to_deal_days": 230,
+  "first_engagement_date": "2008-10-03",
+  "signing_date": "2009-05-21",
+  "interest_direction": "outbound (target ran process / sought buyer)",
+  "leaked_early": {
+    "leaked": true,
+    "details": "Analyst note in April 2009 predicted a sale; CNBC discussed on May 18, 2009; rumors intensified May 20, 2009."
+  },
+  "price_move_3m_pct": 21.01,
+  "price_move_6m_pct": 87.2,
+  "price_move_12m_pct": 52.8,
+  "price_move_24m_pct": null,
+  "notes": "Cougar was acquired after a broad auction process, with J&J outbidding others; the final $43 cash offer represented a ~22% premium to the last pre-announcement weekly close and ~87% over six months, reflecting strong interest in the Phase 3 prostate cancer asset abiraterone acetate.",
+  "_source_file": "cougar_biotechnology_inc_CGRB.md"
+}

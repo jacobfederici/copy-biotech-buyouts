@@ -1,0 +1,65 @@
+{
+  "company": "Myogen, Inc.",
+  "ticker": "MYOG",
+  "buyer": "Gilead Sciences, Inc.",
+  "announcement_date": "2006-10-02",
+  "close_date": "2006-11-17",
+  "deal_status": "completed",
+  "deal_size_usd_m": 2300.0,
+  "final_offer_per_share": 52.5,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 49.7,
+    "basis": "over the last closing price before announcement"
+  },
+  "company_stage": "Phase 3 / pre-approval",
+  "lead_asset": "Ambrisentan",
+  "lead_asset_stage": "Phase 3",
+  "value_inflection_events": [
+    {
+      "date": "2005-07-22",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 24.5
+    },
+    {
+      "date": "2005-08-05",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 24.3
+    },
+    {
+      "date": "2005-08-19",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 54.6
+    },
+    {
+      "date": "2005-12-16",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 63.5
+    },
+    {
+      "date": "2006-10-06",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 47.4
+    }
+  ],
+  "offer_low_per_share": 45.0,
+  "offer_high_per_share": 52.5,
+  "num_offers_or_rounds": 6,
+  "num_parties_interested": 2,
+  "process_type": "limited / targeted",
+  "engagement_to_deal_days": 183,
+  "first_engagement_date": "2006-04-01",
+  "signing_date": "2006-10-01",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No pre-announcement rumors; deal was a surprise."
+  },
+  "price_move_3m_pct": 20.97,
+  "price_move_6m_pct": -3.07,
+  "price_move_12m_pct": 49.28,
+  "price_move_24m_pct": 322.65,
+  "notes": "Competitive bidding between Gilead and an undisclosed Company A drove final price to $52.50, a 49.7% premium over the unaffected close.",
+  "_source_file": "myogen_inc_MYOG.md"
+}

@@ -1,0 +1,65 @@
+{
+  "company": "Avigen, Inc.",
+  "ticker": "AVGN",
+  "buyer": "MediciNova, Inc.",
+  "announcement_date": "2009-08-21",
+  "close_date": "2009-12-15",
+  "deal_status": "completed",
+  "deal_size_usd_m": 33.19,
+  "final_offer_per_share": 1.24,
+  "payment_type": "mixed",
+  "has_cvr": true,
+  "premium": {
+    "pct": null,
+    "basis": "No explicit headline premium; final offer represents a 24% premium over BVF's hostile $1.00 bid and a premium to net cash per share, but was below the pre-announcement market price of $1.34 due to run-up in speculation."
+  },
+  "company_stage": "Phase 2",
+  "lead_asset": "AV411 (Ibudilast)",
+  "lead_asset_stage": "Phase 2",
+  "value_inflection_events": [
+    {
+      "date": "2008-05-02",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 24.5
+    },
+    {
+      "date": "2008-09-26",
+      "event": "not identified in filings or news",
+      "approx_change_pct": -20.2
+    },
+    {
+      "date": "2008-10-24",
+      "event": "AV650 Phase 2 trial failure announced",
+      "approx_change_pct": -82.5
+    },
+    {
+      "date": "2008-11-07",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 25.0
+    },
+    {
+      "date": "2008-12-19",
+      "event": "Sale of AV513 to Baxter Healthcare for $7M",
+      "approx_change_pct": 29.4
+    }
+  ],
+  "offer_low_per_share": 1.0,
+  "offer_high_per_share": 1.24,
+  "num_offers_or_rounds": 3,
+  "num_parties_interested": 2,
+  "process_type": "limited / targeted",
+  "engagement_to_deal_days": 255,
+  "first_engagement_date": "2008-12-08",
+  "signing_date": "2009-08-20",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": true,
+    "details": "Multiple press reports beginning December 2008 detailed MediciNova's merger proposal and BVF's hostile bid, well over one month before the August 2009 definitive agreement."
+  },
+  "price_move_3m_pct": 3.88,
+  "price_move_6m_pct": 36.73,
+  "price_move_12m_pct": -61.6,
+  "price_move_24m_pct": -76.66,
+  "notes": "Cash-rich biotech acquired after hostile activist pressure; deal provided liquidity above net cash and contingent value from pipeline.",
+  "_source_file": "avigen_inc_de_AVGN.md"
+}

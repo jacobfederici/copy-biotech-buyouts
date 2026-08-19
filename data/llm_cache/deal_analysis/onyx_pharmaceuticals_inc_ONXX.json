@@ -1,0 +1,50 @@
+{
+  "company": "Onyx Pharmaceuticals, Inc.",
+  "ticker": "ONXX",
+  "buyer": "Amgen Inc.",
+  "announcement_date": "2013-08-25",
+  "close_date": "2013-10-01",
+  "deal_status": "completed",
+  "deal_size_usd_m": 10600,
+  "final_offer_per_share": 125.0,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 44.0,
+    "basis": "Unaffected stock price on June 28, 2013 ($86.82)"
+  },
+  "company_stage": "commercial",
+  "lead_asset": "Kyprolis (carfilzomib)",
+  "lead_asset_stage": "Marketed (Accelerated Approval) / Phase 3",
+  "value_inflection_events": [
+    {
+      "date": "2012-06-22",
+      "event": "Unidentified catalyst; stock price jumped 42.8% potentially on M&A speculation",
+      "approx_change_pct": 42.8
+    },
+    {
+      "date": "2013-07-05",
+      "event": "Leak and confirmation of Amgen's $120/share bid and initiation of formal sale process",
+      "approx_change_pct": 56.7
+    }
+  ],
+  "offer_low_per_share": 120.0,
+  "offer_high_per_share": 125.0,
+  "num_offers_or_rounds": 5,
+  "num_parties_interested": 7,
+  "process_type": "broad auction",
+  "engagement_to_deal_days": 80,
+  "first_engagement_date": "2013-06-06",
+  "signing_date": "2013-08-25",
+  "interest_direction": "mixed",
+  "leaked_early": {
+    "leaked": true,
+    "details": "Amgen's unsolicited $120/share bid was reported by Financial Post on June 28, 2013; Onyx confirmed and launched sale process on June 30. Takeover speculation existed as early as 2012."
+  },
+  "price_move_3m_pct": 22.82,
+  "price_move_6m_pct": 49.36,
+  "price_move_12m_pct": 59.48,
+  "price_move_24m_pct": 266.19,
+  "notes": "Kyprolis was the key value driver; Amgen lowered bid after Onyx refused to unblind FOCUS Phase 3 data, but final $125/sh all-cash deal represents a 44% premium to unaffected price.",
+  "_source_file": "onyx_pharmaceuticals_inc_ONXX.md"
+}

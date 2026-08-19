@@ -1,0 +1,39 @@
+{
+  "company": "Evoke Pharma, Inc.",
+  "ticker": "EVOK",
+  "buyer": "QOL Medical, LLC",
+  "announcement_date": "2025-11-04",
+  "close_date": "2025-12-17",
+  "deal_status": "completed",
+  "deal_size_usd_m": 18.95,
+  "final_offer_per_share": 11.0,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 139.7,
+    "basis": "previous day's closing price (as reported in dossier)"
+  },
+  "company_stage": "commercial",
+  "lead_asset": "Gimoti",
+  "lead_asset_stage": "approved+marketed",
+  "value_inflection_events": [],
+  "offer_low_per_share": 8.17,
+  "offer_high_per_share": 12.0,
+  "num_offers_or_rounds": 7,
+  "num_parties_interested": 3,
+  "process_type": "limited / targeted",
+  "engagement_to_deal_days": 279,
+  "first_engagement_date": "2025-01-28",
+  "signing_date": "2025-11-03",
+  "interest_direction": "outbound (target ran process / sought buyer)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No pre-deal rumors; deal announced as a surprise."
+  },
+  "price_move_3m_pct": 9.81,
+  "price_move_6m_pct": 66.67,
+  "price_move_12m_pct": -11.21,
+  "price_move_24m_pct": 312.0,
+  "notes": "Evoke Pharma, a commercial-stage company with FDA-approved Gimoti, was acquired by QOL Medical for $11/share cash after a competitive process involving multiple bidders, with the final price representing a 139.7% premium to the prior close.",
+  "_source_file": "evoke_pharma_inc_EVOK.md"
+}

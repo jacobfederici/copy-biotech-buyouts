@@ -1,0 +1,39 @@
+{
+  "company": "Prevail Therapeutics Inc.",
+  "ticker": "PRVL",
+  "buyer": "Eli Lilly and Company",
+  "announcement_date": "2020-12-15",
+  "close_date": "2021-01-22",
+  "deal_status": "completed",
+  "deal_size_usd_m": 1040,
+  "final_offer_per_share": 22.5,
+  "payment_type": "cash+CVR",
+  "has_cvr": true,
+  "premium": {
+    "pct": 130.5,
+    "basis": "Premium to unaffected closing price on November 13, 2020 (the date of Lilly's first acquisition proposal) of $9.76; dossier states 115% but calculation yields ~130.5%"
+  },
+  "company_stage": "clinical (Phase 1/2)",
+  "lead_asset": "PR001",
+  "lead_asset_stage": "Phase 1/2",
+  "value_inflection_events": [],
+  "offer_low_per_share": 21.0,
+  "offer_high_per_share": 26.5,
+  "num_offers_or_rounds": 4,
+  "num_parties_interested": 4,
+  "process_type": "limited / targeted",
+  "engagement_to_deal_days": 534,
+  "first_engagement_date": "2019-06-28",
+  "signing_date": "2020-12-14",
+  "interest_direction": "outbound (target ran process / sought buyer)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No pre-deal rumors or leaks; deal was a surprise to the market."
+  },
+  "price_move_3m_pct": 3.45,
+  "price_move_6m_pct": -29.4,
+  "price_move_12m_pct": -27.0,
+  "price_move_24m_pct": null,
+  "notes": "Deal valued at up to $1.04B including CVR. Cash offer of $22.50 represents a 130.5% premium over the Nov 13, 2020 unaffected close despite the dossier citing 115%. CVR adds up to $4.00 per share upon first regulatory approval. The process was a limited targeted market check after initial partnership discussions with Lilly.",
+  "_source_file": "prevail_therapeutics_inc_PRVL.md"
+}

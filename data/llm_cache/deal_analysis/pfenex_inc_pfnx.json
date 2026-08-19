@@ -1,0 +1,70 @@
+{
+  "company": "Pfenex Inc.",
+  "ticker": "PFNX",
+  "buyer": "Ligand Pharmaceuticals Incorporated",
+  "announcement_date": "2020-08-10",
+  "close_date": "2020-10-01",
+  "deal_status": "completed",
+  "deal_size_usd_m": 411.8,
+  "final_offer_per_share": 12.0,
+  "payment_type": "cash+CVR",
+  "has_cvr": true,
+  "premium": {
+    "pct": 56.7,
+    "basis": "premium to the closing trading price of the Shares on August 10, 2020, per SC 14D9 filing"
+  },
+  "company_stage": "approved+marketed",
+  "lead_asset": "PF708 / Bonsity (teriparatide injection)",
+  "lead_asset_stage": "Approved (NDA approved Oct 2019); U.S. commercial launch June 2020; TE Rating determination pending",
+  "value_inflection_events": [
+    {
+      "date": "2019-03-01",
+      "event": "FDA acceptance of NDA for PF708 and expanded Alvogen collaboration to EU, MENA, and ROW",
+      "approx_change_pct": 22.9
+    },
+    {
+      "date": "2019-03-22",
+      "event": "Positive CRM197 and PF708 news; broader biotech rally",
+      "approx_change_pct": 27.5
+    },
+    {
+      "date": "2020-03-13",
+      "event": "Broad market COVID-19 selloff",
+      "approx_change_pct": -34.7
+    },
+    {
+      "date": "2020-03-27",
+      "event": "General market rebound following CARES Act enactment",
+      "approx_change_pct": 23.1
+    },
+    {
+      "date": "2020-04-17",
+      "event": "FDA General Advice Letter requiring additional CUHF study for TE Rating, delaying milestone and reducing maximum value",
+      "approx_change_pct": -29.7
+    },
+    {
+      "date": "2020-08-14",
+      "event": "Merger Agreement with Ligand announced at $12.00 + $2.00 CVR",
+      "approx_change_pct": 53.8
+    }
+  ],
+  "offer_low_per_share": 10.5,
+  "offer_high_per_share": 12.0,
+  "num_offers_or_rounds": 5,
+  "num_parties_interested": 1,
+  "process_type": "single bidder / bilateral",
+  "engagement_to_deal_days": 163,
+  "first_engagement_date": "2020-02-27",
+  "signing_date": "2020-08-10",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No pre-deal rumors or leaks identified; the deal was a 'clean' announcement on August 10, 2020."
+  },
+  "price_move_3m_pct": -8.0,
+  "price_move_6m_pct": -28.3,
+  "price_move_12m_pct": -17.5,
+  "price_move_24m_pct": 56.1,
+  "notes": "Deal was a bilateral negotiation initiated by Ligand after Pfenex's stock was depressed by an FDA setback for its lead asset's TE rating; the Board rejected multiple offers and briefly terminated discussions before accepting a final offer of $12.00 cash + $2.00 CVR, which was within the DCF valuation range.",
+  "_source_file": "pfenex_inc_pfnx.md"
+}

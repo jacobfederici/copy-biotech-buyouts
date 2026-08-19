@@ -1,0 +1,45 @@
+{
+  "company": "Anacor Pharmaceuticals, Inc.",
+  "ticker": "ANAC",
+  "buyer": "Pfizer Inc.",
+  "announcement_date": "2016-05-16",
+  "close_date": "2016-06-24",
+  "deal_status": "completed",
+  "deal_size_usd_m": 5200,
+  "final_offer_per_share": 99.25,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 55.0,
+    "basis": "Last pre-announcement close of $64.03 on 2016-05-13"
+  },
+  "company_stage": "commercial",
+  "lead_asset": "crisaborole",
+  "lead_asset_stage": "Phase 3 / NDA submitted",
+  "value_inflection_events": [
+    {
+      "date": "2016-05-16",
+      "event": "Merger agreement with Pfizer announced",
+      "approx_change_pct": 55.6
+    }
+  ],
+  "offer_low_per_share": 82.0,
+  "offer_high_per_share": 99.25,
+  "num_offers_or_rounds": 7,
+  "num_parties_interested": 3,
+  "process_type": "limited / targeted",
+  "engagement_to_deal_days": 268,
+  "first_engagement_date": "2015-08-19",
+  "signing_date": "2016-05-14",
+  "interest_direction": "outbound (target ran process / sought buyer)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No specific pre-deal rumors or leaks in major media prior to official announcement."
+  },
+  "price_move_3m_pct": -12.84,
+  "price_move_6m_pct": null,
+  "price_move_12m_pct": null,
+  "price_move_24m_pct": null,
+  "notes": "Competitive bidding involving Pfizer and Party A; all-cash offer valued at 55% premium over unaffected price; crisaborole as key asset.",
+  "_source_file": "anacor_pharmaceuticals_inc_ANAC.md"
+}

@@ -1,0 +1,80 @@
+{
+  "company": "Marinus Pharmaceuticals, Inc.",
+  "ticker": "MRNS",
+  "buyer": "Immedica Pharma AB",
+  "announcement_date": "2024-12-30",
+  "close_date": "2025-02-11",
+  "deal_status": "completed",
+  "deal_size_usd_m": 32.3,
+  "final_offer_per_share": 0.55,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 48.6,
+    "basis": "Previous closing price of $0.37 on 2024-12-27"
+  },
+  "company_stage": "commercial",
+  "lead_asset": "ganaxolone (Ztalmy)",
+  "lead_asset_stage": "approved+marketed",
+  "value_inflection_events": [
+    {
+      "date": "2023-06-09",
+      "event": "Not identified in filings or news",
+      "approx_change_pct": 41.0
+    },
+    {
+      "date": "2023-08-11",
+      "event": "Not identified in filings or news",
+      "approx_change_pct": -35.0
+    },
+    {
+      "date": "2023-09-29",
+      "event": "Not identified in filings or news",
+      "approx_change_pct": 22.0
+    },
+    {
+      "date": "2023-12-22",
+      "event": "Not identified in filings or news",
+      "approx_change_pct": 21.5
+    },
+    {
+      "date": "2024-04-19",
+      "event": "Not identified in filings or news",
+      "approx_change_pct": -81.6
+    },
+    {
+      "date": "2024-10-25",
+      "event": "Not identified in filings or news",
+      "approx_change_pct": -78.1
+    },
+    {
+      "date": "2024-12-27",
+      "event": "Not identified in filings or news",
+      "approx_change_pct": 61.5
+    },
+    {
+      "date": "2025-01-03",
+      "event": "Not identified in filings or news",
+      "approx_change_pct": 44.9
+    }
+  ],
+  "offer_low_per_share": 0.5,
+  "offer_high_per_share": 0.55,
+  "num_offers_or_rounds": 2,
+  "num_parties_interested": 10,
+  "process_type": "broad auction",
+  "engagement_to_deal_days": null,
+  "first_engagement_date": "unknown",
+  "signing_date": "2024-12-29",
+  "interest_direction": "outbound (target ran process / sought buyer)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No pre-deal rumors identified."
+  },
+  "price_move_3m_pct": -79.9,
+  "price_move_6m_pct": -68.4,
+  "price_move_12m_pct": -96.6,
+  "price_move_24m_pct": -92.0,
+  "notes": "Transaction followed multiple clinical failures and a strategic review, providing immediate liquidity for a company near bankruptcy.",
+  "_source_file": "marinus_pharmaceuticals_inc_MRNS.md"
+}

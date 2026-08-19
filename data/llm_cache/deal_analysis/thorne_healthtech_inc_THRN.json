@@ -1,0 +1,65 @@
+{
+  "company": "Thorne HealthTech, Inc.",
+  "ticker": "THRN",
+  "buyer": "L Catterton",
+  "announcement_date": "2023-08-28",
+  "close_date": "2023-10-16",
+  "deal_status": "completed",
+  "deal_size_usd_m": 680,
+  "final_offer_per_share": 10.2,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 112.7,
+    "basis": "unaffected 30-day VWAP as stated in Board rationale"
+  },
+  "company_stage": "commercial",
+  "lead_asset": "Onegevity",
+  "lead_asset_stage": "commercial",
+  "value_inflection_events": [
+    {
+      "date": "2022-01-21",
+      "event": "not identified in filings or news",
+      "approx_change_pct": -21.7
+    },
+    {
+      "date": "2022-11-11",
+      "event": "not identified in filings or news",
+      "approx_change_pct": -27.1
+    },
+    {
+      "date": "2022-11-18",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 21.2
+    },
+    {
+      "date": "2023-07-21",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 20.7
+    },
+    {
+      "date": "2023-09-01",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 30.2
+    }
+  ],
+  "offer_low_per_share": 7.0,
+  "offer_high_per_share": 10.2,
+  "num_offers_or_rounds": 7,
+  "num_parties_interested": 38,
+  "process_type": "broad auction",
+  "engagement_to_deal_days": 263,
+  "first_engagement_date": "2022-12-08",
+  "signing_date": "2023-08-27",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No widely reported specific rumors or leaks identifying the buyer or exact price prior to official announcement."
+  },
+  "price_move_3m_pct": 65.1,
+  "price_move_6m_pct": 66.2,
+  "price_move_12m_pct": 55.3,
+  "price_move_24m_pct": -2.4,
+  "notes": "Deal originated from multiple unsolicited inbound inquiries; broad auction process contacted 38 parties; final price of $10.20 emerged from competitive bidding between Catterton Flagship and Sponsor C.",
+  "_source_file": "thorne_healthtech_inc_THRN.md"
+}

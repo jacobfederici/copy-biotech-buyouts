@@ -1,0 +1,39 @@
+{
+  "company": "Elan Corporation, plc",
+  "ticker": "ELN",
+  "buyer": "Royalty Pharma",
+  "announcement_date": "2013-05-15",
+  "close_date": "unknown",
+  "deal_status": "pending",
+  "deal_size_usd_m": 7300,
+  "final_offer_per_share": 12.0,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 1.87,
+    "basis": "Last closing price before announcement (2013-05-10) of $11.78 and offer price of $12.00"
+  },
+  "company_stage": "unknown",
+  "lead_asset": "unknown",
+  "lead_asset_stage": "unknown",
+  "value_inflection_events": [],
+  "offer_low_per_share": 11.0,
+  "offer_high_per_share": 12.0,
+  "num_offers_or_rounds": 2,
+  "num_parties_interested": 1,
+  "process_type": "single bidder / bilateral",
+  "engagement_to_deal_days": 82,
+  "first_engagement_date": "2013-02-22",
+  "signing_date": "2013-05-15",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": true,
+    "details": "Press reports in late February 2013 indicated Royalty Pharma made an unsolicited approach at $11 per share."
+  },
+  "price_move_3m_pct": 13.82,
+  "price_move_6m_pct": 16.06,
+  "price_move_12m_pct": -10.35,
+  "price_move_24m_pct": 38.92,
+  "notes": "Hostile unsolicited tender offer by Royalty Pharma, with initial approach in February 2013 and subsequent increased bid. Deal status pending as of filing.",
+  "_source_file": "elan_corp_plc_ELN.md"
+}

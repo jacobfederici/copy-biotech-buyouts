@@ -1,0 +1,50 @@
+{
+  "company": "Tobira Therapeutics, Inc.",
+  "ticker": "TBRA",
+  "buyer": "Allergan plc",
+  "announcement_date": "2016-09-20",
+  "close_date": "2016-11-01",
+  "deal_status": "completed",
+  "deal_size_usd_m": 1472.6,
+  "final_offer_per_share": 28.35,
+  "payment_type": "cash+CVR",
+  "has_cvr": true,
+  "premium": {
+    "pct": 518.3,
+    "basis": "unaffected closing price of $4.59 on September 16, 2016"
+  },
+  "company_stage": "Phase 2b",
+  "lead_asset": "Cenicriviroc (CVC)",
+  "lead_asset_stage": "Phase 2b",
+  "value_inflection_events": [
+    {
+      "date": "2016-07-25",
+      "event": "Phase 2b CENTAUR trial results announced, causing stock to drop 61.7%",
+      "approx_change_pct": -61.7
+    },
+    {
+      "date": "2016-09-20",
+      "event": "Acquisition by Allergan announced with upfront $28.35 per share plus CVR, stock surge",
+      "approx_change_pct": 752.1
+    }
+  ],
+  "offer_low_per_share": 16.46,
+  "offer_high_per_share": 28.35,
+  "num_offers_or_rounds": 9,
+  "num_parties_interested": 11,
+  "process_type": "broad auction",
+  "engagement_to_deal_days": 90,
+  "first_engagement_date": "2016-06-21",
+  "signing_date": "2016-09-19",
+  "interest_direction": "mixed",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No pre-deal rumors."
+  },
+  "price_move_3m_pct": -62.0,
+  "price_move_6m_pct": -45.2,
+  "price_move_12m_pct": -66.2,
+  "price_move_24m_pct": -56.0,
+  "notes": "Surprise acquisition after Phase 2b failure carried a massive premium, driven by competitive bidding between Allergan and Party A.",
+  "_source_file": "tobira_therapeutics_inc_TBRA.md"
+}

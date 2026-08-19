@@ -1,0 +1,55 @@
+{
+  "company": "NGM Biopharmaceuticals, Inc.",
+  "ticker": "NGM",
+  "buyer": "Atlas Neon Parent, Inc. (affiliate of The Column Group, LP)",
+  "announcement_date": "2024-02-26",
+  "close_date": "2024-04-05",
+  "deal_status": "completed",
+  "deal_size_usd_m": 129.4,
+  "final_offer_per_share": 1.55,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 80.0,
+    "basis": "80% over the unaffected closing price of $0.86 on December 29, 2023, as stated in the SC 14D9"
+  },
+  "company_stage": "clinical",
+  "lead_asset": "Aldafermin (NGM282)",
+  "lead_asset_stage": "Phase 2",
+  "value_inflection_events": [
+    {
+      "date": "2022-10-21",
+      "event": "Phase 2 ALPINE 4 aldafermin data in NASH disclosed (AASLD 2022)",
+      "approx_change_pct": -60.3
+    },
+    {
+      "date": "2024-01-05",
+      "event": "TCG 13D amendment filed Dec 29, 2023 disclosing going-private interest; Company 8-K Jan 2, 2024 confirming Special Committee formation",
+      "approx_change_pct": 55.8
+    },
+    {
+      "date": "2024-02-23",
+      "event": "Stock rose above $1.55 offer price as Merger Agreement finalization neared; Merger Agreement executed Feb 25, 2024",
+      "approx_change_pct": 24.8
+    }
+  ],
+  "offer_low_per_share": 1.45,
+  "offer_high_per_share": 1.55,
+  "num_offers_or_rounds": 3,
+  "num_parties_interested": 5,
+  "process_type": "single bidder / bilateral",
+  "engagement_to_deal_days": 59,
+  "first_engagement_date": "2023-12-28",
+  "signing_date": "2024-02-25",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "TCG filed a 13D amendment on Dec 29, 2023, and the company filed an 8-K on Jan 2, 2024, both less than 2 months before the Feb 26, 2024 announcement. No evidence of a press report/rumor >= ~1 month prior."
+  },
+  "price_move_3m_pct": 80.2,
+  "price_move_6m_pct": 101.3,
+  "price_move_12m_pct": -67.8,
+  "price_move_24m_pct": -89.6,
+  "notes": "The deal was a take-private by the largest stockholder (TCG, ~26%) after a failed NASH program and severe cash burn; the Special Committee rejected $1.45, countered above $2.00, but settled at $1.55 after four external parties declined interest.",
+  "_source_file": "ngm_biopharmaceuticals_inc_ngm.md"
+}

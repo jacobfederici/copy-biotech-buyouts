@@ -1,0 +1,60 @@
+{
+  "company": "CARGO Therapeutics, Inc.",
+  "ticker": "CRGX",
+  "buyer": "Concentra Biosciences, LLC",
+  "announcement_date": "2025-07-08",
+  "close_date": "2025-08-19",
+  "deal_status": "completed",
+  "deal_size_usd_m": 213.5,
+  "final_offer_per_share": 4.379,
+  "payment_type": "cash+CVR",
+  "has_cvr": true,
+  "premium": {
+    "pct": null,
+    "basis": "Document provides final offer price but does not explicitly state a headline premium percentage or definitive unaffected price. Last pre-announcement close (2025-07-04) was $4.46."
+  },
+  "company_stage": "Phase 2",
+  "lead_asset": "CRG-022 (firi-cel)",
+  "lead_asset_stage": "Phase 2 (Discontinued)",
+  "value_inflection_events": [
+    {
+      "date": "2025-01-31",
+      "event": "CARGO Therapeutics discontinues FIRCE-1 Phase 2 study and evaluates strategic options. Stock drops ~73% to $3.60.",
+      "approx_change_pct": -73.3
+    },
+    {
+      "date": "2024-12-13",
+      "event": "Significant stock price decline with no specific event identified in filings.",
+      "approx_change_pct": -25.6
+    },
+    {
+      "date": "2024-11-15",
+      "event": "Significant stock price decline with no specific event identified in filings.",
+      "approx_change_pct": -28.4
+    },
+    {
+      "date": "2024-09-27",
+      "event": "Significant stock price decline with no specific event identified in filings.",
+      "approx_change_pct": -27.0
+    }
+  ],
+  "offer_low_per_share": 4.379,
+  "offer_high_per_share": 4.55,
+  "num_offers_or_rounds": 3,
+  "num_parties_interested": 19,
+  "process_type": "broad auction",
+  "engagement_to_deal_days": 133,
+  "first_engagement_date": "2025-01-29",
+  "signing_date": "2025-07-08",
+  "interest_direction": "outbound (target ran process / sought buyer)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No pre-deal rumors or speculative reporting found. Announcement was of a definitive merger agreement."
+  },
+  "price_move_3m_pct": -1.8,
+  "price_move_6m_pct": -69.0,
+  "price_move_12m_pct": -72.4,
+  "price_move_24m_pct": null,
+  "notes": "Deal followed trial failure and 90% workforce cut. Broad strategic review initially contacted 16 strategics and 141 reverse merger candidates, but ultimately a financial buyer won with a cash+CVR offer, providing immediate liquidity over a standalone liquidation. The final per-share value was reduced by a fixed $4.4M retention.",
+  "_source_file": "cargo_therapeutics_inc_CRGX.md"
+}

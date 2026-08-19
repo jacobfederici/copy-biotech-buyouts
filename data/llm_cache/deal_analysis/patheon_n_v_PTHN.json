@@ -1,0 +1,45 @@
+{
+  "company": "Patheon N.V.",
+  "ticker": "PTHN",
+  "buyer": "Thermo Fisher Scientific Inc.",
+  "announcement_date": "2017-05-15",
+  "close_date": "2017-08-29",
+  "deal_status": "completed",
+  "deal_size_usd_m": 7200,
+  "final_offer_per_share": 35.0,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 35.0,
+    "basis": "last closing price before announcement (2017-05-12 close of $26.00)"
+  },
+  "company_stage": "commercial",
+  "lead_asset": "Drug Product Services",
+  "lead_asset_stage": "Commercial/Clinical",
+  "value_inflection_events": [
+    {
+      "date": "2017-05-19",
+      "event": "Announcement of acquisition by Thermo Fisher Scientific",
+      "approx_change_pct": 33.1
+    }
+  ],
+  "offer_low_per_share": 33.0,
+  "offer_high_per_share": 35.0,
+  "num_offers_or_rounds": 5,
+  "num_parties_interested": 2,
+  "process_type": "limited / targeted",
+  "engagement_to_deal_days": 164,
+  "first_engagement_date": "2016-12-02",
+  "signing_date": "2017-05-15",
+  "interest_direction": "mixed",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No pre-deal rumors or public takeover speculation were reported prior to the official announcement."
+  },
+  "price_move_3m_pct": 35.38,
+  "price_move_6m_pct": 34.62,
+  "price_move_12m_pct": 37.89,
+  "price_move_24m_pct": 37.89,
+  "notes": "Deal value of $7.2B includes ~$2B in assumed debt; final price was $35.00 after a competitive, but ultimately bilateral, process where Party A withdrew without submitting a final proposal.",
+  "_source_file": "patheon_n_v_PTHN.md"
+}

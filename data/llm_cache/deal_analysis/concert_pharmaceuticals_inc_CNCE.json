@@ -1,0 +1,39 @@
+{
+  "company": "Concert Pharmaceuticals, Inc.",
+  "ticker": "CNCE",
+  "buyer": "Sun Pharmaceutical Industries Ltd.",
+  "announcement_date": "2023-01-19",
+  "close_date": "2023-03-06",
+  "deal_status": "completed",
+  "deal_size_usd_m": 576.0,
+  "final_offer_per_share": 8.0,
+  "payment_type": "cash+CVR",
+  "has_cvr": true,
+  "premium": {
+    "pct": 13.5,
+    "basis": "vs last closing price of $7.05 on 2023-01-13"
+  },
+  "company_stage": "Phase 3 / pre-approval",
+  "lead_asset": "deuruxolitinib",
+  "lead_asset_stage": "Phase 3",
+  "value_inflection_events": [],
+  "offer_low_per_share": 7.0,
+  "offer_high_per_share": 8.0,
+  "num_offers_or_rounds": 2,
+  "num_parties_interested": 1,
+  "process_type": "broad auction",
+  "engagement_to_deal_days": 191,
+  "first_engagement_date": "2022-07-12",
+  "signing_date": "2023-01-19",
+  "interest_direction": "outbound (target ran process / sought buyer)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No pre-deal rumors; kept confidential until official announcement."
+  },
+  "price_move_3m_pct": 16.1,
+  "price_move_6m_pct": 46.6,
+  "price_move_12m_pct": 123.8,
+  "price_move_24m_pct": -34.7,
+  "notes": "Cash+CVR deal with Sun Pharma valuing Concert at $8.00/share upfront; company faced cash crunch and opted for sale over standalone commercialization of Phase 3 deuruxolitinib.",
+  "_source_file": "concert_pharmaceuticals_inc_CNCE.md"
+}

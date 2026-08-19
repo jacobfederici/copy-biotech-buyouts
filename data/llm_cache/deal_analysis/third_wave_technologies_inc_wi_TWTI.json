@@ -1,0 +1,55 @@
+{
+  "company": "Third Wave Technologies, Inc.",
+  "ticker": "TWTI",
+  "buyer": "Hologic, Inc.",
+  "announcement_date": "2008-06-09",
+  "close_date": "2008-07-17",
+  "deal_status": "completed",
+  "deal_size_usd_m": 600,
+  "final_offer_per_share": 11.25,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 58.5,
+    "basis": "over pre-HPV trial data close on 2008-03-07 ($7.12), as stated by board rationale"
+  },
+  "company_stage": "Phase 3 / pre-approval",
+  "lead_asset": "HPV Cervista High Risk screening assay",
+  "lead_asset_stage": "PMA Submission",
+  "value_inflection_events": [
+    {
+      "date": "2008-03-14",
+      "event": "HPV clinical trial endpoints met",
+      "approx_change_pct": 26.0
+    },
+    {
+      "date": "2007-07-27",
+      "event": "unknown",
+      "approx_change_pct": 29.1
+    },
+    {
+      "date": "2006-08-18",
+      "event": "unknown",
+      "approx_change_pct": 20.1
+    }
+  ],
+  "offer_low_per_share": 11.25,
+  "offer_high_per_share": 11.5,
+  "num_offers_or_rounds": 2,
+  "num_parties_interested": 1,
+  "process_type": "limited / targeted",
+  "engagement_to_deal_days": 73,
+  "first_engagement_date": "2008-03-28",
+  "signing_date": "2008-06-08",
+  "interest_direction": "outbound (target ran process / sought buyer)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No pre-deal rumors or leaks; acquisition was a surprise"
+  },
+  "price_move_3m_pct": 47.5,
+  "price_move_6m_pct": 15.0,
+  "price_move_12m_pct": 87.5,
+  "price_move_24m_pct": 279.1,
+  "notes": "Deal triggered by positive HPV trial data in March 2008; Hologic initially offered $11.50 but reduced to $11.25 after due diligence, still representing a 58.5% premium over pre-data price.",
+  "_source_file": "third_wave_technologies_inc_wi_TWTI.md"
+}

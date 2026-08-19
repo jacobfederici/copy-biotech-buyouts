@@ -1,0 +1,60 @@
+{
+  "company": "Poseida Therapeutics, Inc.",
+  "ticker": "PSTV",
+  "buyer": "Roche Holdings, Inc.",
+  "announcement_date": "2024-11-26",
+  "close_date": "2025-01-08",
+  "deal_status": "completed",
+  "deal_size_usd_m": 1500.0,
+  "final_offer_per_share": 9.0,
+  "payment_type": "cash+CVR",
+  "has_cvr": true,
+  "premium": {
+    "pct": 215.0,
+    "basis": "premium over the unaffected stock price as stated by the Board in dossier rationale"
+  },
+  "company_stage": "Phase 1/Phase 2",
+  "lead_asset": "P-BCMA-ALLO1",
+  "lead_asset_stage": "Phase 1b",
+  "value_inflection_events": [
+    {
+      "date": "2023-05-05",
+      "event": "Stock price surge, possibly related to reverse stock split or initial clinical data not fully identified in filings",
+      "approx_change_pct": 1434.6
+    },
+    {
+      "date": "2023-06-30",
+      "event": "Stock price decline, not identified in filings or news",
+      "approx_change_pct": -32.7
+    },
+    {
+      "date": "2023-09-08",
+      "event": "Stock price decline, not identified in filings or news",
+      "approx_change_pct": -50.7
+    },
+    {
+      "date": "2023-11-17",
+      "event": "Stock price surge, not identified in filings or news",
+      "approx_change_pct": 87.9
+    }
+  ],
+  "offer_low_per_share": 5.75,
+  "offer_high_per_share": 9.0,
+  "num_offers_or_rounds": 5,
+  "num_parties_interested": 3,
+  "process_type": "limited / targeted",
+  "engagement_to_deal_days": 188,
+  "first_engagement_date": "2024-05-22",
+  "signing_date": "2024-11-25",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No pre-deal rumors were reported publicly before the formal announcement on 2024-11-26."
+  },
+  "price_move_3m_pct": 220.15,
+  "price_move_6m_pct": 306.78,
+  "price_move_12m_pct": -35.03,
+  "price_move_24m_pct": 204.76,
+  "notes": "The final upfront price of $9.00 represented a significant increase from Roche's initial $5.75 bid, driven by negotiation and Poseida's counter-offers, but is lower than the stock's late-2023 highs above $2.50 (adjusted for later reverse splits). The deal includes up to $4.00 in CVRs based on future pipeline milestones.",
+  "_source_file": "poseida_therapeutics_inc_PSTV.md"
+}

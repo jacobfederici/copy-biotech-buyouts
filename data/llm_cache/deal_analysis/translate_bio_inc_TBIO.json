@@ -1,0 +1,39 @@
+{
+  "company": "Translate Bio, Inc.",
+  "ticker": "TBIO",
+  "buyer": "Sanofi",
+  "announcement_date": "2021-08-03",
+  "close_date": "2021-09-14",
+  "deal_status": "completed",
+  "deal_size_usd_m": 2735.376686,
+  "final_offer_per_share": 38.0,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 30,
+    "basis": "30% over the last trading day before announcement, per Board rationale"
+  },
+  "company_stage": "Phase 2",
+  "lead_asset": "MRT5005",
+  "lead_asset_stage": "Phase 1/2",
+  "value_inflection_events": [],
+  "offer_low_per_share": 28.0,
+  "offer_high_per_share": 38.0,
+  "num_offers_or_rounds": 4,
+  "num_parties_interested": 1,
+  "process_type": "single bidder / bilateral",
+  "engagement_to_deal_days": 66,
+  "first_engagement_date": "2021-05-28",
+  "signing_date": "2021-08-02",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "First public report was on Aug 2, 2021 (one day before official announcement); no evidence of earlier leaks."
+  },
+  "price_move_3m_pct": null,
+  "price_move_6m_pct": null,
+  "price_move_12m_pct": null,
+  "price_move_24m_pct": null,
+  "notes": "Sanofi initiated inbound acquisition, raised bid from $28 to $38 after Translate Bio failed to attract other bidders; deal closed swiftly via tender offer.",
+  "_source_file": "translate_bio_inc_TBIO.md"
+}

@@ -1,0 +1,60 @@
+{
+  "company": "Bioenvision, Inc.",
+  "ticker": "BIVN",
+  "buyer": "Genzyme Corporation",
+  "announcement_date": "2007-05-29",
+  "close_date": "2007-10-10",
+  "deal_status": "completed",
+  "deal_size_usd_m": 345.0,
+  "final_offer_per_share": 5.6,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 50.0,
+    "basis": "50% over the 30-day average (as stated in the dossier Rationale section)"
+  },
+  "company_stage": "commercial",
+  "lead_asset": "Clofarabine (Evoltra/Clolar)",
+  "lead_asset_stage": "Marketed (Europe) / Phase 3 (Adult AML)",
+  "value_inflection_events": [
+    {
+      "date": "2006-08-18",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 34.3
+    },
+    {
+      "date": "2007-05-25",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 31.2
+    },
+    {
+      "date": "2007-05-24",
+      "event": "Bioenvision and Southern Research Institute amend their agreement to improve economic terms, used as leverage for a higher price.",
+      "approx_change_pct": null
+    },
+    {
+      "date": "2007-05-29",
+      "event": "Genzyme and Bioenvision Announce Definitive Merger Agreement",
+      "approx_change_pct": null
+    }
+  ],
+  "offer_low_per_share": 5.25,
+  "offer_high_per_share": 5.6,
+  "num_offers_or_rounds": 2,
+  "num_parties_interested": 1,
+  "process_type": "limited / targeted",
+  "engagement_to_delays": null,
+  "first_engagement_date": "2007-04-11",
+  "signing_date": "2007-05-29",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "There was a 2-week run-up starting May 14, 2007, noted retrospectively as suspicious by The Motley Fool, but this is less than 1 month before the announcement and not a confirmed early leak."
+  },
+  "price_move_3m_pct": 59.69,
+  "price_move_6m_pct": 18.08,
+  "price_move_12m_pct": -12.35,
+  "price_move_24m_pct": -8.53,
+  "notes": "The deal represents Genzyme's consolidation of worldwide rights to clofarabine; post-announcement, a class action lawsuit and executive turmoil did not derail the completion.",
+  "_source_file": "bioenvision_inc_BIVN.md"
+}

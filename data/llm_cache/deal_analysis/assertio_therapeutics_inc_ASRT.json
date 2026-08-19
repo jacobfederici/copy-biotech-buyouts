@@ -1,0 +1,60 @@
+{
+  "company": "Depomed, Inc.",
+  "ticker": "ASRT",
+  "buyer": "Horizon Pharma plc",
+  "announcement_date": "2015-07-07",
+  "close_date": "unknown",
+  "deal_status": "terminated",
+  "deal_size_usd_m": 1662.5,
+  "final_offer_per_share": 27.54,
+  "payment_type": "stock",
+  "has_cvr": false,
+  "premium": {
+    "pct": 42,
+    "basis": "Initial $29.25 per share offer versus Depomed's closing price of $20.84 on July 6, 2015, as reported in buyout rumors; final exchange-ratio value implied lower premium."
+  },
+  "company_stage": "commercial",
+  "lead_asset": "NUCYNTA / NUCYNTA ER",
+  "lead_asset_stage": "Approved",
+  "value_inflection_events": [
+    {
+      "date": "2013-12-20",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 22.6
+    },
+    {
+      "date": "2014-05-09",
+      "event": "not identified in filings or news",
+      "approx_change_pct": -24.2
+    },
+    {
+      "date": "2015-07-10",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 44.6
+    },
+    {
+      "date": "2015-09-25",
+      "event": "not identified in filings or news",
+      "approx_change_pct": -21.0
+    }
+  ],
+  "offer_low_per_share": 29.25,
+  "offer_high_per_share": 33.0,
+  "num_offers_or_rounds": 2,
+  "num_parties_interested": 1,
+  "process_type": "single bidder / bilateral",
+  "engagement_to_deal_days": null,
+  "first_engagement_date": "2015-05-27",
+  "signing_date": "unknown",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No evidence of leak; Horizon publicly announced its unsolicited proposal on July 7, 2015."
+  },
+  "price_move_3m_pct": -7.3,
+  "price_move_6m_pct": 29.8,
+  "price_move_12m_pct": 46.9,
+  "price_move_24m_pct": 239.4,
+  "notes": "Hostile unsolicited bid ultimately terminated after court injunction and settlement; target adopted poison pill and litigation over misuse of confidential information.",
+  "_source_file": "assertio_therapeutics_inc_ASRT.md"
+}

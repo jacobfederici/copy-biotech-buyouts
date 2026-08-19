@@ -1,0 +1,50 @@
+{
+  "company": "Theseus Pharmaceuticals, Inc.",
+  "ticker": "THRX",
+  "buyer": "Concentra Biosciences, LLC",
+  "announcement_date": "2023-12-22",
+  "close_date": "2024-02-14",
+  "deal_status": "completed",
+  "deal_size_usd_m": 180.8,
+  "final_offer_per_share": 4.05,
+  "payment_type": "cash+CVR",
+  "has_cvr": true,
+  "premium": {
+    "pct": 82.0,
+    "basis": "82% over the pre-announcement price (stated in Rationale section)"
+  },
+  "company_stage": "Phase 3 / pre-approval",
+  "lead_asset": "THE-630",
+  "lead_asset_stage": "discontinued",
+  "value_inflection_events": [
+    {
+      "date": "2023-07-14",
+      "event": "Discontinuation of lead candidate THE-630 development announced",
+      "approx_change_pct": -72.5
+    },
+    {
+      "date": "2023-11-17",
+      "event": "Formal review of strategic alternatives announced / market speculation of potential sale",
+      "approx_change_pct": 63.7
+    }
+  ],
+  "offer_low_per_share": 3.8,
+  "offer_high_per_share": 4.05,
+  "num_offers_or_rounds": 5,
+  "num_parties_interested": 71,
+  "process_type": "broad auction",
+  "engagement_to_deal_days": 211,
+  "first_engagement_date": "2023-05-26",
+  "signing_date": "2023-12-22",
+  "interest_direction": "outbound (target ran process / sought buyer)",
+  "leaked_early": {
+    "leaked": true,
+    "details": "Rumors of strategic alternatives and unsolicited proposals from Concentra and Foresite/OrbiMed were reported in mid-to-late November 2023, approximately one month before the December 22 announcement."
+  },
+  "price_move_3m_pct": 91.0,
+  "price_move_6m_pct": 52.6,
+  "price_move_12m_pct": -24.1,
+  "price_move_24m_pct": -63.6,
+  "notes": "Deal followed the discontinuation of lead asset THE-630 and a pivot from reverse merger to cash-out liquidation. The final $4.05/sh was determined by a net cash adjustment mechanism, and the CVR offers 80% of proceeds from any near-term asset sales.",
+  "_source_file": "theseus_pharmaceuticals_inc_THRX.md"
+}

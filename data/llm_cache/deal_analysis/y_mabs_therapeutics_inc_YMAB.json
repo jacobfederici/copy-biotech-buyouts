@@ -1,0 +1,43 @@
+{
+  "company": "Y-mAbs Therapeutics, Inc.",
+  "ticker": "YMAB",
+  "buyer": "SERB Pharmaceuticals (via Perseus BidCo US, Inc.)",
+  "announcement_date": "2025-08-05",
+  "close_date": "2025-09-16",
+  "deal_status": "completed",
+  "deal_size_usd_m": 413,
+  "final_offer_per_share": 8.6,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 105,
+    "basis": "premium over unaffected stock price as cited by the Board"
+  },
+  "company_stage": "commercial",
+  "lead_asset": "Danyelza (naxitamab-gqgk)",
+  "lead_asset_stage": "marketed",
+  "value_inflection_events": [
+    {
+      "date": "2025-08-05",
+      "event": "Announcement of definitive merger agreement with SERB Pharmaceuticals for $8.60 per share",
+      "approx_change_pct": 87.9
+    }
+  ],
+  "offer_low_per_share": 7.8,
+  "offer_high_per_share": 8.6,
+  "num_offers_or_rounds": 5,
+  "num_parties_interested": 2,
+  "process_type": "limited / targeted",
+  "engagement_to_deal_days": 207,
+  "first_engagement_date": "2025-02-04",
+  "signing_date": "2025-08-04",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked": false,
+  "details": "No pre-deal rumors were identified; the deal followed confidential strategic discussions.",
+  "price_move_3m_pct": -62.87,
+  "price_move_6m_pct": -51.47,
+  "price_move_12m_pct": -69.03,
+  "price_move_24m_pct": -18.35,
+  "notes": "The deal followed a five-month strategic review where initial asset-sale offers turned into a whole-company acquisition at a 105% premium, with the Board citing significant capital requirements for the RIT platform as a key reason for the sale.",
+  "_source_file": "y_mabs_therapeutics_inc_YMAB.md"
+}

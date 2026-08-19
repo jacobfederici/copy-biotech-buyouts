@@ -1,0 +1,45 @@
+{
+  "company": "Zogenix, Inc.",
+  "ticker": "ZGNX",
+  "buyer": "UCB S.A.",
+  "announcement_date": "2022-01-19",
+  "close_date": "2022-03-07",
+  "deal_status": "completed",
+  "deal_size_usd_m": 1900,
+  "final_offer_per_share": 26.0,
+  "payment_type": "cash+CVR",
+  "has_cvr": true,
+  "premium": {
+    "pct": 66,
+    "basis": "January 18, 2022 closing price of $15.64"
+  },
+  "company_stage": "approved+marketed",
+  "lead_asset": "Fintepla (fenfluramine oral solution)",
+  "lead_asset_stage": "approved+marketed",
+  "value_inflection_events": [
+    {
+      "date": "2022-01-19",
+      "event": "UCB acquisition announced at $26.00 per share plus CVR",
+      "approx_change_pct": 63.1
+    }
+  ],
+  "offer_low_per_share": 20.5,
+  "offer_high_per_share": 26.0,
+  "num_offers_or_rounds": 5,
+  "num_parties_interested": 3,
+  "process_type": "limited / targeted",
+  "engagement_to_deal_days": 183,
+  "first_engagement_date": "2021-07-19",
+  "signing_date": "2022-01-18",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No public rumors or reports identified prior to official announcement."
+  },
+  "price_move_3m_pct": 80.5,
+  "price_move_6m_pct": 63.0,
+  "price_move_12m_pct": 39.3,
+  "price_move_24m_pct": 15.1,
+  "notes": "Approved epilepsy drug with pipeline created competitive process: initial $20.50 PS offer came in while stock was near $15.20; final $26.00 + $2 CVR emerged after a 3-party contest that remained firewalled from public markets with no leaks.",
+  "_source_file": "zogenix_inc_zgnx.md"
+}

@@ -1,0 +1,70 @@
+{
+  "company": "Synthorx, Inc.",
+  "ticker": "THOR",
+  "buyer": "Sanofi",
+  "announcement_date": "2019-12-08",
+  "close_date": "2020-01-23",
+  "deal_status": "completed",
+  "deal_size_usd_m": 2206.1,
+  "final_offer_per_share": 68.0,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 172,
+    "basis": "Closing price on December 5, 2019 (day before signing of merger agreement)"
+  },
+  "company_stage": "Phase 1",
+  "lead_asset": "THOR-707",
+  "lead_asset_stage": "Phase 1",
+  "value_inflection_events": [
+    {
+      "date": "2018-12-28",
+      "event": "not identified",
+      "approx_change_pct": 23.2
+    },
+    {
+      "date": "2019-02-15",
+      "event": "not identified",
+      "approx_change_pct": 26.8
+    },
+    {
+      "date": "2019-10-04",
+      "event": "not identified",
+      "approx_change_pct": -24.2
+    },
+    {
+      "date": "2019-11-01",
+      "event": "not identified",
+      "approx_change_pct": 22.3
+    },
+    {
+      "date": "2019-12-06",
+      "event": "not identified",
+      "approx_change_pct": 39.8
+    },
+    {
+      "date": "2019-12-13",
+      "event": "Deal announcement",
+      "approx_change_pct": 171.8
+    }
+  ],
+  "offer_low_per_share": 36.0,
+  "offer_high_per_share": 70.0,
+  "num_offers_or_rounds": 8,
+  "num_parties_interested": 4,
+  "process_type": "limited / targeted",
+  "engagement_to_deal_days": 12,
+  "first_engagement_date": "2019-11-25",
+  "signing_date": "2019-12-07",
+  "interest_direction": "mixed",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No rumors; deal was unexpected."
+  },
+  "price_move_3m_pct": 34.43,
+  "price_move_6m_pct": 101.85,
+  "price_move_12m_pct": 98.49,
+  "price_move_24m_pct": null,
+  "notes": "Unsolicited approach by Sanofi at $36 triggered a rapid competitive process with multiple bidders, culminating in a final price of $68 after a post-signing topping bid of $70.",
+  "_source_file": "synthorx_inc_THOR.md"
+}

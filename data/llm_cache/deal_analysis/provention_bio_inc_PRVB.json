@@ -1,0 +1,60 @@
+{
+  "company": "Provention Bio, Inc.",
+  "ticker": "PRVB",
+  "buyer": "Sanofi S.A.",
+  "announcement_date": "2023-03-13",
+  "close_date": "2023-04-27",
+  "deal_status": "completed",
+  "deal_size_usd_m": 2900,
+  "final_offer_per_share": 25.0,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 273,
+    "basis": "unaffected price (pre-announcement close of $6.70 on 2023-03-10)"
+  },
+  "company_stage": "approved+marketed",
+  "lead_asset": "TZIELD (teplizumab-mzwv)",
+  "lead_asset_stage": "Approved / Commercial",
+  "value_inflection_events": [
+    {
+      "date": "2021-04-09",
+      "event": "FDA identified deficiencies in teplizumab BLA; shares dropped ~27.5%",
+      "approx_change_pct": -27.5
+    },
+    {
+      "date": "2021-07-09",
+      "event": "FDA issued Complete Response Letter for teplizumab BLA; shares dropped ~22.0%",
+      "approx_change_pct": -22.0
+    },
+    {
+      "date": "2022-10-07",
+      "event": "Sanofi co-promotion agreement for teplizumab signed; shares surged ~53.8%",
+      "approx_change_pct": 53.8
+    },
+    {
+      "date": "2022-11-17",
+      "event": "FDA approved TZIELD (teplizumab) for type 1 diabetes",
+      "approx_change_pct": null
+    }
+  ],
+  "offer_low_per_share": 21.0,
+  "offer_high_per_share": 25.0,
+  "num_offers_or_rounds": 2,
+  "num_parties_interested": 1,
+  "process_type": "single bidder / bilateral",
+  "engagement_to_deal_days": 466,
+  "first_engagement_date": "2021-12-01",
+  "signing_date": "2023-03-12",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No substantive pre-announcement leaks; deal widely characterized as a surprise."
+  },
+  "price_move_3m_pct": -24.0,
+  "price_move_6m_pct": 32.7,
+  "price_move_12m_pct": 3.1,
+  "price_move_24m_pct": null,
+  "notes": "Sanofi paid a 273% premium over the unaffected price following a co-promotion agreement, capitalizing on recent TZIELD FDA approval.",
+  "_source_file": "provention_bio_inc_PRVB.md"
+}

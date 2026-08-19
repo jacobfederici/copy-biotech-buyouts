@@ -1,0 +1,45 @@
+{
+  "company": "Eurand N.V.",
+  "ticker": "EURX",
+  "buyer": "Axcan Pharma Holding B.V.",
+  "announcement_date": "2010-12-01",
+  "close_date": "2011-01-20",
+  "deal_status": "completed",
+  "deal_size_usd_m": 576.2,
+  "final_offer_per_share": 12.0,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 38.7,
+    "basis": "over the price prior to Axcan's initial interest"
+  },
+  "company_stage": "commercial",
+  "lead_asset": "ZENPEP",
+  "lead_asset_stage": "Marketed",
+  "value_inflection_events": [
+    {
+      "date": "2010-03-12",
+      "event": "not identified",
+      "approx_change_pct": 21.4
+    }
+  ],
+  "offer_low_per_share": 11.0,
+  "offer_high_per_share": 12.0,
+  "num_offers_or_rounds": 4,
+  "num_parties_interested": 1,
+  "process_type": "broad auction",
+  "engagement_to_deal_days": 229,
+  "first_engagement_date": "2010-04-15",
+  "signing_date": "2010-11-30",
+  "interest_direction": "outbound (target ran process / sought buyer)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No pre-deal rumors or press reports identified."
+  },
+  "price_move_3m_pct": 23.6,
+  "price_move_6m_pct": 42.7,
+  "price_move_12m_pct": -3.8,
+  "price_move_24m_pct": 55.8,
+  "notes": "Deal structured as tender offer with Dutch-law asset sale and liquidation to capture non-tendering shares; majority shareholder Warburg Pincus influenced process, leading to a Special Committee.",
+  "_source_file": "eurand_n_v_EURX.md"
+}

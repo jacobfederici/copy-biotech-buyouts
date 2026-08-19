@@ -1,0 +1,45 @@
+{
+  "company": "QIAGEN N.V.",
+  "ticker": "QGEN",
+  "buyer": "Thermo Fisher Scientific Inc.",
+  "announcement_date": "2020-03-03",
+  "close_date": "unknown",
+  "deal_status": "pending",
+  "deal_size_usd_m": null,
+  "final_offer_per_share": 39.0,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": null,
+    "basis": "unknown"
+  },
+  "company_stage": "approved+marketed",
+  "lead_asset": "Molecular Diagnostics and Sample Technologies",
+  "lead_asset_stage": "Marketed",
+  "value_inflection_events": [
+    {
+      "date": "2019-11-15",
+      "event": "not identified (buyout rumors) \u2014 significant stock price jump",
+      "approx_change_pct": 28.3
+    }
+  ],
+  "offer_low_per_share": 39.0,
+  "offer_high_per_share": 39.0,
+  "num_offers_or_rounds": null,
+  "num_parties_interested": null,
+  "process_type": "single bidder / bilateral",
+  "engagement_to_deal_days": 111,
+  "first_engagement_date": "2019-11-13",
+  "signing_date": "2020-03-03",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": true,
+    "details": "Press reports of multiple parties' interest emerged in Oct 2019; Thermo Fisher's interest reported Nov 13, 2019 \u2014 well over 1 month before the Mar 3, 2020 announcement."
+  },
+  "price_move_3m_pct": null,
+  "price_move_6m_pct": null,
+  "price_move_12m_pct": null,
+  "price_move_24m_pct": null,
+  "notes": "Deal was pending at time of dossier; no definitive close date or deal value provided. Pre-announcement stock price movements appear heavily influenced by buyout rumors starting in late 2019, rendering clean unaffected-price premium calculation unreliable.",
+  "_source_file": "qiagen_n_v_QGEN.md"
+}

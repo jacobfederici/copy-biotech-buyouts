@@ -1,0 +1,39 @@
+{
+  "company": "Oyster Point Pharma, Inc.",
+  "ticker": "OYST",
+  "buyer": "Viatris Inc.",
+  "announcement_date": "2022-11-07",
+  "close_date": "2023-01-03",
+  "deal_status": "completed",
+  "deal_size_usd_m": 298.8,
+  "final_offer_per_share": 11.0,
+  "payment_type": "cash+CVR",
+  "has_cvr": true,
+  "premium": {
+    "pct": 31.7,
+    "basis": "Last close before announcement ($8.35 on 2022-11-04)"
+  },
+  "company_stage": "commercial",
+  "lead_asset": "TYRVAYA",
+  "lead_asset_stage": "Approved/Marketed",
+  "value_inflection_events": [],
+  "offer_low_per_share": 10.0,
+  "offer_high_per_share": 11.0,
+  "num_offers_or_rounds": 2,
+  "num_parties_interested": 2,
+  "process_type": "limited / targeted",
+  "engagement_to_deal_days": 137,
+  "first_engagement_date": "2022-06-23",
+  "signing_date": "2022-11-07",
+  "interest_direction": "mixed",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No pre-deal rumors or leaks identified."
+  },
+  "price_move_3m_pct": 5.7,
+  "price_move_6m_pct": 41.0,
+  "price_move_12m_pct": -40.9,
+  "price_move_24m_pct": -65.5,
+  "notes": "Acquired at a steep discount to its IPO price with a CVR tied to 2022 TYRVAYA performance, reflecting a challenging biotech financing environment.",
+  "_source_file": "oyster_point_pharma_inc_OYST.md"
+}

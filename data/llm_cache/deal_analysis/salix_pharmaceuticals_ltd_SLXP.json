@@ -1,0 +1,45 @@
+{
+  "company": "Salix Pharmaceuticals Ltd",
+  "ticker": "SLXP",
+  "buyer": "Valeant Pharmaceuticals International",
+  "announcement_date": "2015-02-22",
+  "close_date": "2015-04-01",
+  "deal_status": "completed",
+  "deal_size_usd_m": 11300,
+  "final_offer_per_share": 173.0,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": null,
+    "basis": "not explicitly stated in dossier"
+  },
+  "company_stage": "commercial",
+  "lead_asset": "Xifaxan 550 (rifaximin) for IBS-D",
+  "lead_asset_stage": "Phase 3 / Pending FDA Approval",
+  "value_inflection_events": [
+    {
+      "date": "2014-11-06",
+      "event": "Audit Committee review of wholesaler inventory disclosures and CFO resignation",
+      "approx_change_pct": -35.0
+    }
+  ],
+  "offer_low_per_share": 150.0,
+  "offer_high_per_share": 173.0,
+  "num_offers_or_rounds": 7,
+  "num_parties_interested": 7,
+  "process_type": "broad auction",
+  "engagement_to_deal_days": 470,
+  "first_engagement_date": "2013-11-07",
+  "signing_date": "2015-02-20",
+  "interest_direction": "mixed",
+  "leaked_early": {
+    "leaked": true,
+    "details": "Multiple press reports from August 2014 onward about Allergan, Valeant and Shire interest."
+  },
+  "price_move_3m_pct": 53.4,
+  "price_move_6m_pct": -0.7,
+  "price_move_12m_pct": 49.8,
+  "price_move_24m_pct": 219.7,
+  "notes": "Deal emerged after a significant inventory scandal and CFO resignation that crashed the stock; Valeant initially offered $150/sh and later raised to $173 amid competing interest and market speculation.",
+  "_source_file": "salix_pharmaceuticals_ltd_SLXP.md"
+}

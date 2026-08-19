@@ -1,0 +1,39 @@
+{
+  "company": "2seventy bio, Inc.",
+  "ticker": "TSVT",
+  "buyer": "Bristol-Myers Squibb Company",
+  "announcement_date": "2025-03-10",
+  "close_date": "2025-05-13",
+  "deal_status": "completed",
+  "deal_size_usd_m": 264.6,
+  "final_offer_per_share": 5.0,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 88.0,
+    "basis": "Last closing price before announcement ($2.66 on 2025-03-07)"
+  },
+  "company_stage": "commercial",
+  "lead_asset": "Abecma (ide-cel)",
+  "lead_asset_stage": "commercial",
+  "value_inflection_events": [],
+  "offer_low_per_share": 4.75,
+  "offer_high_per_share": 5.25,
+  "num_offers_or_rounds": 4,
+  "num_parties_interested": 2,
+  "process_type": "limited / targeted",
+  "engagement_to_deal_days": 10,
+  "first_engagement_date": "2025-02-28",
+  "signing_date": "2025-03-10",
+  "interest_direction": "outbound (target ran process / sought buyer)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No pre-deal rumors or acquisition speculation identified."
+  },
+  "price_move_3m_pct": -18.7,
+  "price_move_6m_pct": -43.5,
+  "price_move_12m_pct": -43.6,
+  "price_move_24m_pct": -73.4,
+  "notes": "88% premium over undisturbed price; BMS assumed ~$312M lease liabilities; all-cash deal at $264.6M.",
+  "_source_file": "2seventy_bio_inc_TSVT.md"
+}

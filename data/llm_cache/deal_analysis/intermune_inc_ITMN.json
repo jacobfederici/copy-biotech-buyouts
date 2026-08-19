@@ -1,0 +1,50 @@
+{
+  "company": "InterMune, Inc.",
+  "ticker": "ITMN",
+  "buyer": "Roche Holdings, Inc.",
+  "announcement_date": "2014-08-24",
+  "close_date": "2014-09-29",
+  "deal_status": "completed",
+  "deal_size_usd_m": 8765,
+  "final_offer_per_share": 74.0,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 63,
+    "basis": "63% premium to undisturbed price as stated by InterMune board"
+  },
+  "company_stage": "Phase 3 / pre-approval",
+  "lead_asset": "Pirfenidone (Esbriet)",
+  "lead_asset_stage": "Phase 3 / NDA Resubmission",
+  "value_inflection_events": [
+    {
+      "date": "2014-02-01",
+      "event": "Positive top-line data from Phase 3 ASCEND study",
+      "approx_change_pct": 118.2
+    },
+    {
+      "date": "2014-08-13",
+      "event": "Public rumors of a potential transaction cause stock to rise 14.5%",
+      "approx_change_pct": 14.5
+    }
+  ],
+  "offer_low_per_share": 57.0,
+  "offer_high_per_share": 74.0,
+  "num_offers_or_rounds": 3,
+  "num_parties_interested": 4,
+  "process_type": "single bidder / bilateral",
+  "engagement_to_deal_days": 28,
+  "first_engagement_date": "2014-07-25",
+  "signing_date": "2014-08-22",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": true,
+    "details": "Reuters reported buyout interest on 2014-03-07, well over 1 month before announcement"
+  },
+  "price_move_3m_pct": 34.6,
+  "price_move_6m_pct": 290.7,
+  "price_move_12m_pct": 272.3,
+  "price_move_24m_pct": 576.7,
+  "notes": "Roche paid a 63% premium to acquire InterMune's lead asset pirfenidone, which had positive Phase 3 data and was nearing US approval, in an all-cash tender offer completed swiftly.",
+  "_source_file": "intermune_inc_ITMN.md"
+}

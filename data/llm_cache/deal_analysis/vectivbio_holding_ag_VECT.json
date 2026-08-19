@@ -1,0 +1,39 @@
+{
+  "company": "VectivBio Holding AG",
+  "ticker": "VECT",
+  "buyer": "Ironwood Pharmaceuticals, Inc.",
+  "announcement_date": "2023-05-22",
+  "close_date": "unknown",
+  "deal_status": "pending",
+  "deal_size_usd_m": 1067.7,
+  "final_offer_per_share": 17.0,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 43,
+    "basis": "last closing price before announcement (2023-05-19 close $11.90)"
+  },
+  "company_stage": "Phase 3",
+  "lead_asset": "Apraglutide",
+  "lead_asset_stage": "Phase 3",
+  "value_inflection_events": [],
+  "offer_low_per_share": 14.0,
+  "offer_high_per_share": 17.0,
+  "num_offers_or_rounds": 4,
+  "num_parties_interested": 2,
+  "process_type": "limited / targeted",
+  "engagement_to_deal_days": 61,
+  "first_engagement_date": "2023-03-21",
+  "signing_date": "2023-05-21",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No pre-deal rumors or leaks identified."
+  },
+  "price_move_3m_pct": 37.1,
+  "price_move_6m_pct": 40.3,
+  "price_move_12m_pct": 81.7,
+  "price_move_24m_pct": -20.1,
+  "notes": "The deal was a clean announcement with no prior leaks; Ironwood's final all-cash offer of $17.00 represented a 43% premium to the last close and an 80% premium to the 90-day VWAP, and the target board unanimously recommended the offer after a limited outreach to other parties.",
+  "_source_file": "vectivbio_holding_ag_VECT.md"
+}

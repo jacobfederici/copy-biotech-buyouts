@@ -1,0 +1,39 @@
+{
+  "company": "Genelabs Technologies, Inc.",
+  "ticker": "GNLB",
+  "buyer": "SmithKline Beecham Corporation",
+  "announcement_date": "2008-10-29",
+  "close_date": "2009-01-07",
+  "deal_status": "completed",
+  "deal_size_usd_m": 57.04,
+  "final_offer_per_share": 1.3,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 465,
+    "basis": "vs closing price of $0.23 on day prior to announcement"
+  },
+  "company_stage": "Preclinical",
+  "lead_asset": "HCV Technology",
+  "lead_asset_stage": "Discovery/Preclinical",
+  "value_inflection_events": [],
+  "offer_low_per_share": 1.25,
+  "offer_high_per_share": 1.3,
+  "num_offers_or_rounds": 2,
+  "num_parties_interested": 3,
+  "process_type": "limited / targeted",
+  "engagement_to_deal_days": 40,
+  "first_engagement_date": "2008-09-19",
+  "signing_date": "2008-10-29",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No pre-deal rumors; deal was a surprise to the market."
+  },
+  "price_move_3m_pct": -37.0,
+  "price_move_6m_pct": -67.4,
+  "price_move_12m_pct": -85.5,
+  "price_move_24m_pct": -81.3,
+  "notes": "GSK shifted from a licensing discussion to a surprise acquisition, paying a 465% premium to secure Genelabs' HCV technology.",
+  "_source_file": "genelabs_technologies_inc_ca_GNLB.md"
+}

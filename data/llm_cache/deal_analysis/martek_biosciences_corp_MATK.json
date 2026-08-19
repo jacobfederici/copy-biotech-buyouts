@@ -1,0 +1,50 @@
+{
+  "company": "Martek Biosciences Corporation",
+  "ticker": "MATK",
+  "buyer": "Koninklijke DSM N.V.",
+  "announcement_date": "2010-12-21",
+  "close_date": "2011-02-25",
+  "deal_status": "completed",
+  "deal_size_usd_m": 1090,
+  "final_offer_per_share": 31.5,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 35,
+    "basis": "35% over the December 20 closing price of $23.36 (as stated in Rationale section)"
+  },
+  "company_stage": "commercial",
+  "lead_asset": "Arachidonic Acid (ARA)",
+  "lead_asset_stage": "Marketed",
+  "value_inflection_events": [
+    {
+      "date": "2010-06-04",
+      "event": "Unidentified event causing stock price increase",
+      "approx_change_pct": 20.3
+    },
+    {
+      "date": "2010-12-24",
+      "event": "Deal announcement",
+      "approx_change_pct": 37.1
+    }
+  ],
+  "offer_low_per_share": 27.0,
+  "offer_high_per_share": 31.5,
+  "num_offers_or_rounds": 3,
+  "num_parties_interested": 6,
+  "process_type": "limited / targeted",
+  "engagement_to_deal_days": 377,
+  "first_engagement_date": "2009-12-08",
+  "signing_date": "2010-12-20",
+  "interest_direction": "mixed",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No specific rumors naming DSM or a price were widely reported >1 month before announcement. General speculation and unusual options activity occurred only in the days immediately preceding the deal."
+  },
+  "price_move_3m_pct": 1.39,
+  "price_move_6m_pct": 3.79,
+  "price_move_12m_pct": 28.17,
+  "price_move_24m_pct": 9.85,
+  "notes": "Deal featured a competitive process with a PE bidder (Party B) and a strategic (DSM), with DSM winning due to higher closing certainty despite a lower initial offer; a top-up option was used to complete the short-form merger after the tender offer fell short of 90%.",
+  "_source_file": "martek_biosciences_corp_MATK.md"
+}

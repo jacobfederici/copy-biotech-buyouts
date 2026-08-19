@@ -1,0 +1,85 @@
+{
+  "company": "Societal CDMO, Inc.",
+  "ticker": "SCTL",
+  "buyer": "CoreRx, Inc.",
+  "announcement_date": "2024-02-28",
+  "close_date": "2024-04-08",
+  "deal_status": "completed",
+  "deal_size_usd_m": 130,
+  "final_offer_per_share": 1.1,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 115.69,
+    "basis": "vs last close before announcement ($0.51 on 2024-02-23)"
+  },
+  "company_stage": "commercial",
+  "lead_asset": "CDMO Services",
+  "lead_asset_stage": "commercial",
+  "value_inflection_events": [
+    {
+      "date": "2022-05-13",
+      "event": "Price move, trigger not identified",
+      "approx_change_pct": -29.5
+    },
+    {
+      "date": "2022-08-05",
+      "event": "Price move, trigger not identified",
+      "approx_change_pct": 30.0
+    },
+    {
+      "date": "2022-12-09",
+      "event": "Price move, trigger not identified",
+      "approx_change_pct": -25.3
+    },
+    {
+      "date": "2023-06-09",
+      "event": "Price move, trigger not identified",
+      "approx_change_pct": 43.1
+    },
+    {
+      "date": "2023-08-18",
+      "event": "Price move, trigger not identified",
+      "approx_change_pct": -21.8
+    },
+    {
+      "date": "2023-08-25",
+      "event": "Price move, trigger not identified",
+      "approx_change_pct": -34.3
+    },
+    {
+      "date": "2023-09-01",
+      "event": "Price move, trigger not identified",
+      "approx_change_pct": 40.7
+    },
+    {
+      "date": "2024-02-09",
+      "event": "Price move, trigger not identified",
+      "approx_change_pct": 26.0
+    },
+    {
+      "date": "2024-03-01",
+      "event": "Price move, trigger not identified",
+      "approx_change_pct": 111.0
+    }
+  ],
+  "offer_low_per_share": 1.0,
+  "offer_high_per_share": 1.2,
+  "num_offers_or_rounds": 3,
+  "num_parties_interested": 3,
+  "process_type": "limited / targeted",
+  "engagement_to_deal_days": 124,
+  "first_engagement_date": "2023-10-27",
+  "signing_date": "2024-02-28",
+  "interest_direction": "outbound (target ran process / sought buyer)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No pre-deal rumors or leaks reported."
+  },
+  "price_move_3m_pct": 41.67,
+  "price_move_6m_pct": 24.39,
+  "price_move_12m_pct": -64.83,
+  "price_move_24m_pct": -70.86,
+  "notes": "CoreRx acquired the distressed CDMO via tender offer at a large premium to the depressed stock price, with no prior leaks; the board concluded a sale was better than a standalone plan.",
+  "_source_file": "societal_cdmo_inc_SCTL.md"
+}

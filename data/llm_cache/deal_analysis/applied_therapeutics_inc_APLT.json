@@ -1,0 +1,39 @@
+{
+  "company": "Applied Therapeutics, Inc.",
+  "ticker": "APLT",
+  "buyer": "Cycle Group Holdings Limited",
+  "announcement_date": "2025-12-11",
+  "close_date": "2026-02-03",
+  "deal_status": "completed",
+  "deal_size_usd_m": 14.3,
+  "final_offer_per_share": 0.088,
+  "payment_type": "cash+CVR",
+  "has_cvr": true,
+  "premium": {
+    "pct": 121.82,
+    "basis": "Maximum offer value ($0.488) vs. last weekly close before announcement ($0.22)"
+  },
+  "company_stage": "Phase 3 / pre-approval",
+  "lead_asset": "govorestat (AT-007)",
+  "lead_asset_stage": "NDA / Phase 3",
+  "value_inflection_events": [],
+  "offer_low_per_share": 0.088,
+  "offer_high_per_share": 0.1,
+  "num_offers_or_rounds": 3,
+  "num_parties_interested": 8,
+  "process_type": "limited / targeted",
+  "engagement_to_deal_days": 316,
+  "first_engagement_date": "2025-01-29",
+  "signing_date": "2025-12-11",
+  "interest_direction": "outbound (target ran process / sought buyer)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No pre-deal rumors identified"
+  },
+  "price_move_3m_pct": -47.62,
+  "price_move_6m_pct": -37.14,
+  "price_move_12m_pct": -80.87,
+  "price_move_24m_pct": -92.57,
+  "notes": "Distressed sale driven by liquidity crisis after FDA CRL for govorestat; offer heavily back-end loaded via CVR with minimal upfront cash.",
+  "_source_file": "applied_therapeutics_inc_APLT.md"
+}

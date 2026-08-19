@@ -1,0 +1,55 @@
+{
+  "company": "Juniper Pharmaceuticals, Inc.",
+  "ticker": "JNP",
+  "buyer": "Catalent Pharma Solutions, Inc.",
+  "announcement_date": "2018-07-03",
+  "close_date": "2018-08-14",
+  "deal_status": "completed",
+  "deal_size_usd_m": 130,
+  "final_offer_per_share": 11.5,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": null,
+    "basis": "Significant premium over unaffected share price prior to January 31, 2018 announcement of strategic alternatives"
+  },
+  "company_stage": "approved+marketed",
+  "lead_asset": "Crinone",
+  "lead_asset_stage": "marketed",
+  "value_inflection_events": [
+    {
+      "date": "2018-03-16",
+      "event": "Unidentified trigger (possibly receipt of preliminary bids)",
+      "approx_change_pct": 30.6
+    },
+    {
+      "date": "2018-03-30",
+      "event": "Unidentified trigger",
+      "approx_change_pct": -20.4
+    },
+    {
+      "date": "2018-07-06",
+      "event": "Merger announcement",
+      "approx_change_pct": 31.0
+    }
+  ],
+  "offer_low_per_share": 8.2,
+  "offer_high_per_share": 11.5,
+  "num_offers_or_rounds": null,
+  "num_parties_interested": 92,
+  "process_type": "broad auction",
+  "engagement_to_deal_days": 160,
+  "first_engagement_date": "2018-01-23",
+  "signing_date": "2018-07-02",
+  "interest_direction": "mixed",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No pre-deal rumors reported prior to January 31, 2018 strategic alternatives announcement."
+  },
+  "price_move_3m_pct": -16.35,
+  "price_move_6m_pct": 62.62,
+  "price_move_12m_pct": 72.28,
+  "price_move_24m_pct": 10.27,
+  "notes": "Competitive auction involving 92 parties; final all-cash deal at $11.50/share with Catalent, supported by fairness opinion.",
+  "_source_file": "juniper_pharmaceuticals_inc_JNP.md"
+}

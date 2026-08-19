@@ -1,0 +1,60 @@
+{
+  "company": "ZS Pharma, Inc.",
+  "ticker": "ZSPH",
+  "buyer": "Zeneca Inc.",
+  "announcement_date": "2015-11-06",
+  "close_date": "2015-12-17",
+  "deal_status": "completed",
+  "deal_size_usd_m": 2700,
+  "final_offer_per_share": 90.0,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 37.7,
+    "basis": "over unaffected price as stated in Board rationale"
+  },
+  "company_stage": "Phase 3 / pre-approval",
+  "lead_asset": "ZS-9",
+  "lead_asset_stage": "NDA under review",
+  "value_inflection_events": [
+    {
+      "date": "2014-08-29",
+      "event": "Not identified",
+      "approx_change_pct": 23.7
+    },
+    {
+      "date": "2015-05-08",
+      "event": "Not identified",
+      "approx_change_pct": 25.0
+    },
+    {
+      "date": "2015-09-11",
+      "event": "Media report of takeover interest from Party A",
+      "approx_change_pct": 40.5
+    },
+    {
+      "date": "2015-11-06",
+      "event": "Deal announcement",
+      "approx_change_pct": 37.0
+    }
+  ],
+  "offer_low_per_share": 85.0,
+  "offer_high_per_share": 90.0,
+  "num_offers_or_rounds": 9,
+  "num_parties_interested": 3,
+  "process_type": "broad auction",
+  "engagement_to_deal_days": 79,
+  "first_engagement_date": "2015-08-18",
+  "signing_date": "2015-11-05",
+  "interest_direction": "mixed",
+  "leaked_early": {
+    "leaked": true,
+    "details": "Bloomberg reported on Sep 9, 2015 that Actelion (Party A) made a preliminary takeover proposal; ZS Pharma confirmed discussions on Sep 10."
+  },
+  "price_move_3m_pct": 15.0,
+  "price_move_6m_pct": 33.4,
+  "price_move_12m_pct": 79.8,
+  "price_move_24m_pct": null,
+  "notes": "Competitive process with three bidders; AstraZeneca won with final $90 all-cash offer despite earlier $93 bid, by accepting regulatory risk allocation.",
+  "_source_file": "zs_pharma_inc_ZSPH.md"
+}

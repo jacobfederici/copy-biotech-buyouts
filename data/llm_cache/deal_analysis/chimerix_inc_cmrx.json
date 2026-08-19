@@ -1,0 +1,60 @@
+{
+  "company": "Chimerix, Inc.",
+  "ticker": "CMRX",
+  "buyer": "Jazz Pharmaceuticals Public Limited Company",
+  "announcement_date": "2025-03-05",
+  "close_date": "2025-04-21",
+  "deal_status": "completed",
+  "deal_size_usd_m": 802.6,
+  "final_offer_per_share": 8.55,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 70.0,
+    "basis": "closing price on March 3, 2025 (last trading day before announcement)"
+  },
+  "company_stage": "Phase 3 / pre-approval",
+  "lead_asset": "dordaviprone (ONC201)",
+  "lead_asset_stage": "Phase 3 (NDA accepted with priority review)",
+  "value_inflection_events": [
+    {
+      "date": "2024-02-16",
+      "event": "not identified",
+      "approx_change_pct": 23.7
+    },
+    {
+      "date": "2024-08-16",
+      "event": "not identified",
+      "approx_change_pct": 24.4
+    },
+    {
+      "date": "2024-12-13",
+      "event": "not identified",
+      "approx_change_pct": 254.6
+    },
+    {
+      "date": "2025-03-07",
+      "event": "not identified",
+      "approx_change_pct": 60.6
+    }
+  ],
+  "offer_low_per_share": 5.5,
+  "offer_high_per_share": 8.55,
+  "num_offers_or_rounds": 5,
+  "num_parties_interested": 8,
+  "process_type": "limited / targeted",
+  "engagement_to_deal_days": 82,
+  "first_engagement_date": "2024-12-12",
+  "signing_date": "2025-03-04",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": true,
+    "details": "Fierce Biotech reported Party A's buyout proposal in late 2023/early 2024, over a year before announcement."
+  },
+  "price_move_3m_pct": 532.5,
+  "price_move_6m_pct": 496.6,
+  "price_move_12m_pct": 348.7,
+  "price_move_24m_pct": 286.0,
+  "notes": "Jazz won a competitive process with an all-cash $8.55 bid, beating Party A's CVR-heavy proposal, and the stock surged over 500% in the months before announcement driven by ONC201 regulatory progress.",
+  "_source_file": "chimerix_inc_cmrx.md"
+}

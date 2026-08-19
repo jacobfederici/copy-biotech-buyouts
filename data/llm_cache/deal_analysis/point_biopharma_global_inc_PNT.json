@@ -1,0 +1,55 @@
+{
+  "company": "POINT Biopharma Global Inc.",
+  "ticker": "PNT",
+  "buyer": "Eli Lilly and Company",
+  "announcement_date": "2023-10-03",
+  "close_date": "2023-12-27",
+  "deal_status": "completed",
+  "deal_size_usd_m": 1400.0,
+  "final_offer_per_share": 12.5,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 87.0,
+    "basis": "approximate premium to unaffected closing price prior to announcement, as stated in the dossier"
+  },
+  "company_stage": "Phase 3 / pre-approval",
+  "lead_asset": "177Lu-PNT2002",
+  "lead_asset_stage": "Phase 3 (SPLASH trial)",
+  "value_inflection_events": [
+    {
+      "date": "2022-11-14",
+      "event": "Lantheus strategic collaboration and exclusive license agreements announced",
+      "approx_change_pct": null
+    },
+    {
+      "date": "2023-01-12",
+      "event": "Completion of randomization in PNT2002's Phase 3 SPLASH Trial",
+      "approx_change_pct": null
+    },
+    {
+      "date": "2023-04-24",
+      "event": "FDA grants Fast Track Designation for 177Lu-PNT2002",
+      "approx_change_pct": null
+    }
+  ],
+  "offer_low_per_share": 12.0,
+  "offer_high_per_share": 13.0,
+  "num_offers_or_rounds": 4,
+  "num_parties_interested": 3,
+  "process_type": "limited / targeted",
+  "engagement_to_deal_days": 110,
+  "first_engagement_date": "2023-06-15",
+  "signing_date": "2023-10-02",
+  "interest_direction": "mixed",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No pre-deal rumors or leaks found; deal was announced as a definitive agreement on October 3, 2023."
+  },
+  "price_move_3m_pct": -26.7,
+  "price_move_6m_pct": -36.11,
+  "price_move_12m_pct": -14.1,
+  "price_move_24m_pct": -8.13,
+  "notes": "Transaction completed via tender offering, with Lilly's $12.50 best and final outbid by Company B's $13.00 + CVR by upfront value certainty. POINT's board deemed the cash certainty superior to the contingent, complex CVR offers, especially given upcoming SPLASH trial risk.",
+  "_source_file": "point_biopharma_global_inc_PNT.md"
+}

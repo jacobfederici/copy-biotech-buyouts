@@ -1,0 +1,50 @@
+{
+  "company": "LogicBio Therapeutics, Inc.",
+  "ticker": "LOGC",
+  "buyer": "Alexion Pharmaceuticals, Inc.",
+  "announcement_date": "2022-10-03",
+  "close_date": "2022-11-16",
+  "deal_status": "completed",
+  "deal_size_usd_m": 68.2,
+  "final_offer_per_share": 2.07,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 660.0,
+    "basis": "660% premium over the closing price prior to board approval, as stated in the dossier."
+  },
+  "company_stage": "Phase 1/2",
+  "lead_asset": "LB-001",
+  "lead_asset_stage": "Phase 1/2",
+  "value_inflection_events": [
+    {
+      "date": "2022-02-02",
+      "event": "FDA clinical hold on Phase 1/2 SUNRISE trial of LB-001 due to TMA adverse events.",
+      "approx_change_pct": null
+    },
+    {
+      "date": "2022-05-09",
+      "event": "FDA lifts clinical hold on SUNRISE trial with amended protocol.",
+      "approx_change_pct": null
+    }
+  ],
+  "offer_low_per_share": 1.56,
+  "offer_high_per_share": 2.07,
+  "num_offers_or_rounds": 4,
+  "num_parties_interested": 2,
+  "process_type": "limited / targeted",
+  "engagement_to_deal_days": 360,
+  "first_engagement_date": "2021-10-08",
+  "signing_date": "2022-10-02",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No pre-deal rumors or leaks were identified; the announcement was a surprise to the market."
+  },
+  "price_move_3m_pct": -68.0,
+  "price_move_6m_pct": -59.4,
+  "price_move_12m_pct": -86.4,
+  "price_move_24m_pct": -96.9,
+  "notes": "The deal was a fire-sale acquisition following a clinical hold and delisting notice, with Alexion securing the company's gene-editing platform and R&D team at a 660% premium over the distressed pre-announcement price.",
+  "_source_file": "logicbio_therapeutics_inc_LOGC.md"
+}

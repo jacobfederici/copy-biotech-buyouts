@@ -1,0 +1,45 @@
+{
+  "company": "Array BioPharma Inc.",
+  "ticker": "ARRY",
+  "buyer": "Pfizer Inc.",
+  "announcement_date": "2019-06-17",
+  "close_date": "2019-07-30",
+  "deal_status": "completed",
+  "deal_size_usd_m": 10710.2,
+  "final_offer_per_share": 48.0,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 63.0,
+    "basis": "63% over the last closing price (stated in Rationale section)"
+  },
+  "company_stage": "commercial",
+  "lead_asset": "BRAFTOVI (encorafenib)",
+  "lead_asset_stage": "Approved / Phase 3 (BEACON)",
+  "value_inflection_events": [
+    {
+      "date": "2019-05-24",
+      "event": "Positive interim results from the Phase 3 BEACON CRC trial (implied by stock move)",
+      "approx_change_pct": 23.9
+    }
+  ],
+  "offer_low_per_share": 44.0,
+  "offer_high_per_share": 48.0,
+  "num_offers_or_rounds": 2,
+  "num_parties_interested": 3,
+  "process_type": "limited / targeted",
+  "engagement_to_deal_days": 85,
+  "first_engagement_date": "2019-03-21",
+  "signing_date": "2019-06-14",
+  "interest_direction": "mixed",
+  "leaked_early": {
+    "leaked": false,
+    "details": "Rumors of a deal with Pfizer at ~$48 surfaced on June 14, 2019, just days before the official June 17 announcement, not 1+ month prior."
+  },
+  "price_move_3m_pct": null,
+  "price_move_6m_pct": null,
+  "price_move_12m_pct": null,
+  "price_move_24m_pct": null,
+  "notes": "The deal was catalyzed by the May 2019 BEACON CRC data, which drove a ~24% stock surge and prompted Pfizer's rapid, two-step bid increase from $44 to $48. Array had been exploring strategic options since 2017, with interest from multiple parties, but Pfizer's post-data offer and speed secured the deal.",
+  "_source_file": "array_biopharma_inc_ARRY.md"
+}

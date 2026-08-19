@@ -1,0 +1,45 @@
+{
+  "company": "Perrigo Company plc",
+  "ticker": "PRGO",
+  "buyer": "Mylan N.V.",
+  "announcement_date": "2015-04-08",
+  "close_date": "not applicable",
+  "deal_status": "terminated",
+  "deal_size_usd_m": 34800.0,
+  "final_offer_per_share": 232.2,
+  "payment_type": "mixed",
+  "has_cvr": false,
+  "premium": {
+    "pct": 21.3,
+    "basis": "Based on the Value Inflection Points table showing a +21.3% change from the pre-event close of $163.73 to the post-event close of $198.55 for the week ended 2015-04-10."
+  },
+  "company_stage": "commercial",
+  "lead_asset": "Store Brand OTC Portfolio",
+  "lead_asset_stage": "Marketed",
+  "value_inflection_events": [
+    {
+      "date": "2015-04-10",
+      "event": "Mylan publicly announces the Initial Proposal.",
+      "approx_change_pct": 21.3
+    }
+  ],
+  "offer_low_per_share": 205.0,
+  "offer_high_per_share": 232.2,
+  "num_offers_or_rounds": 3,
+  "num_parties_interested": 1,
+  "process_type": "single bidder / bilateral",
+  "engagement_to_deal_days": 2,
+  "first_engagement_date": "2015-04-06",
+  "signing_date": "unknown",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "The initial approach was made on April 6, 2015, and publicly announced by Mylan on April 8, 2015. There is no evidence of a press report or rumor circulating a month or more before the official announcement."
+  },
+  "price_move_3m_pct": null,
+  "price_move_6m_pct": null,
+  "price_move_12m_pct": null,
+  "price_move_24m_pct": null,
+  "notes": "The deal was an unsolicited, hostile tender offer that was ultimately terminated after failing to gain sufficient shareholder support, leading to the resignation of Perrigo's CEO.",
+  "_source_file": "perrigo_co_plc_PRGO.md"
+}

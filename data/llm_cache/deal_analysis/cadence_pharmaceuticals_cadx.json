@@ -1,0 +1,60 @@
+{
+  "company": "Cadence Pharmaceuticals Inc",
+  "ticker": "CADX",
+  "buyer": "Mallinckrodt plc",
+  "announcement_date": "2014-02-10",
+  "close_date": "2014-03-19",
+  "deal_status": "completed",
+  "deal_size_usd_m": 1248.6,
+  "final_offer_per_share": 14.0,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 26.7,
+    "basis": "premium vs last close prior to announcement (2014-02-07 close: $11.05)"
+  },
+  "company_stage": "commercial",
+  "lead_asset": "OFIRMEV (acetaminophen injection)",
+  "lead_asset_stage": "approved+marketed",
+  "value_inflection_events": [
+    {
+      "date": "2013-11-15",
+      "event": "U.S. District Court ruling in favor of Cadence in OFIRMEV patent lawsuit",
+      "approx_change_pct": 5.7
+    },
+    {
+      "date": "2014-01-24",
+      "event": "Board meeting approved strategic transaction path and discussions with Mallinckrodt",
+      "approx_change_pct": 16.4
+    },
+    {
+      "date": "2014-02-07",
+      "event": "Merger Agreement with Mallinckrodt executed",
+      "approx_change_pct": 0.1
+    },
+    {
+      "date": "2014-03-21",
+      "event": "Merger effective; Cadence delisted",
+      "approx_change_pct": 0.0
+    }
+  ],
+  "offer_low_per_share": 14.0,
+  "offer_high_per_share": 14.0,
+  "num_offers_or_rounds": 4,
+  "num_parties_interested": 2,
+  "process_type": "limited / targeted",
+  "engagement_to_deal_days": 91,
+  "first_engagement_date": "2013-11-11",
+  "signing_date": "2014-02-10",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No pre-deal rumors or press reports; market was surprised by the announcement."
+  },
+  "price_move_3m_pct": 91.8,
+  "price_move_6m_pct": 80.0,
+  "price_move_12m_pct": 138.1,
+  "price_move_24m_pct": 174.2,
+  "notes": "Single-product company with limited pipeline; deal driven by Mallinckrodt's unsolicited approach after favorable patent ruling; stock more than doubled in 12 months leading up to deal due to patent victory and buyout premium.",
+  "_source_file": "cadence_pharmaceuticals_cadx.md"
+}

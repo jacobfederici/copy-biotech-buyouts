@@ -1,0 +1,55 @@
+{
+  "company": "Santarus, Inc.",
+  "ticker": "SNTS",
+  "buyer": "Salix Pharmaceuticals, Ltd.",
+  "announcement_date": "2013-11-07",
+  "close_date": "2014-01-02",
+  "deal_status": "completed",
+  "deal_size_usd_m": 2600,
+  "final_offer_per_share": 32.0,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 36,
+    "basis": "unaffected price (per dossier summary)"
+  },
+  "company_stage": "commercial",
+  "lead_asset": "Uceris (budesonide)",
+  "lead_asset_stage": "Marketed / Phase 3b",
+  "value_inflection_events": [
+    {
+      "date": "2012-01-13",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 29.7
+    },
+    {
+      "date": "2012-09-07",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 21.0
+    },
+    {
+      "date": "2013-11-08",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 35.5
+    }
+  ],
+  "offer_low_per_share": 28.0,
+  "offer_high_per_share": 33.0,
+  "num_offers_or_rounds": 6,
+  "num_parties_interested": 16,
+  "process_type": "limited / targeted",
+  "engagement_to_deal_days": 140,
+  "first_engagement_date": "2013-06-20",
+  "signing_date": "2013-11-07",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No pre-deal rumors identified; deal was a 'surprise' per market reports."
+  },
+  "price_move_3m_pct": null,
+  "price_move_6m_pct": null,
+  "price_move_12m_pct": null,
+  "price_move_24m_pct": null,
+  "notes": "Salix initially offered $28-$30, Santarus countered with $33 + CVR, but Salix lowered its 'best and final' to $32 after Ruconest regulatory diligence; final deal excluded any CVR.",
+  "_source_file": "santarus_inc_SNTS.md"
+}

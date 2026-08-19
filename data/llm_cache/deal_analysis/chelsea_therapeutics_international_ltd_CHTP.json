@@ -1,0 +1,90 @@
+{
+  "company": "Chelsea Therapeutics International, Ltd.",
+  "ticker": "CHTP",
+  "buyer": "H. Lundbeck A/S",
+  "announcement_date": "2014-05-08",
+  "close_date": "2014-06-23",
+  "deal_status": "completed",
+  "deal_size_usd_m": 508.3,
+  "final_offer_per_share": 6.44,
+  "payment_type": "cash+CVR",
+  "has_cvr": true,
+  "premium": {
+    "pct": null,
+    "basis": "unknown"
+  },
+  "company_stage": "approved+marketed",
+  "lead_asset": "Northera (droxidopa)",
+  "lead_asset_stage": "Approved (Accelerated)",
+  "value_inflection_events": [
+    {
+      "date": "2012-06-01",
+      "event": "not identified in filings or news",
+      "approx_change_pct": -27.8
+    },
+    {
+      "date": "2012-09-07",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 24.8
+    },
+    {
+      "date": "2012-10-26",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 37.8
+    },
+    {
+      "date": "2012-12-07",
+      "event": "not identified in filings or news",
+      "approx_change_pct": -49.7
+    },
+    {
+      "date": "2013-02-22",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 113.9
+    },
+    {
+      "date": "2013-06-07",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 28.0
+    },
+    {
+      "date": "2014-01-10",
+      "event": "not identified in filings or news",
+      "approx_change_pct": -28.6
+    },
+    {
+      "date": "2014-01-17",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 90.4
+    },
+    {
+      "date": "2014-02-21",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 27.7
+    },
+    {
+      "date": "2014-05-09",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 28.1
+    }
+  ],
+  "offer_low_per_share": 6.44,
+  "offer_high_per_share": 6.44,
+  "num_offers_or_rounds": 2,
+  "num_parties_interested": 12,
+  "process_type": "broad auction",
+  "engagement_to_deal_days": 391,
+  "first_engagement_date": "2013-04-12",
+  "signing_date": "2014-05-08",
+  "interest_direction": "outbound (target ran process / sought buyer)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "Rumors of a buyout surfaced in mid-March 2014, less than 2 months before the announcement, but no specific acquirer or price was reported according to the dossier."
+  },
+  "price_move_3m_pct": 22.72,
+  "price_move_6m_pct": 11.77,
+  "price_move_12m_pct": 198.14,
+  "price_move_24m_pct": 528.75,
+  "notes": "The deal was structured as a cash tender offer with a CVR tied to aggressive Northera sales milestones, reflecting regulatory and commercial risk.",
+  "_source_file": "chelsea_therapeutics_international_ltd_CHTP.md"
+}

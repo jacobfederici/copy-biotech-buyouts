@@ -1,0 +1,60 @@
+{
+  "company": "G1 Therapeutics, Inc.",
+  "ticker": "GTHX",
+  "buyer": "Pharmacosmos A/S",
+  "announcement_date": "2024-08-07",
+  "close_date": "2024-09-18",
+  "deal_status": "completed",
+  "deal_size_usd_m": 405,
+  "final_offer_per_share": 7.15,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 81,
+    "basis": "Closing price on August 5, 2024, the last trading day before the final offer was submitted and accepted."
+  },
+  "company_stage": "commercial",
+  "lead_asset": "COSELA (trilaciclib)",
+  "lead_asset_stage": "approved+marketed",
+  "value_inflection_events": [
+    {
+      "date": "2023-02-13",
+      "event": "Unfavorable Phase 3 PRESERVE 1 CRC Trial results announced, leading to trial discontinuation.",
+      "approx_change_pct": -43.6
+    },
+    {
+      "date": "2024-02-12",
+      "event": "Interim TNBC Trial Data announced, recommending continuation of the Phase 3 trial.",
+      "approx_change_pct": -47.5
+    },
+    {
+      "date": "2024-06-24",
+      "event": "Unfavorable Final TNBC Trial Data (PRESERVE 2) results announced.",
+      "approx_change_pct": -8.1
+    },
+    {
+      "date": "2024-08-07",
+      "event": "Announcement of all-cash acquisition by Pharmacosmos A/S at $7.15/share.",
+      "approx_change_pct": 78.1
+    }
+  ],
+  "offer_low_per_share": 2.25,
+  "offer_high_per_share": 7.15,
+  "num_offers_or_rounds": 10,
+  "num_parties_interested": 8,
+  "process_type": "broad auction",
+  "engagement_to_deal_days": 581,
+  "first_engagement_date": "2023-01-01",
+  "signing_date": "2024-08-06",
+  "interest_direction": "mixed",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No pre-deal rumors were identified in financial news or market reporting services prior to the definitive announcement."
+  },
+  "price_move_3m_pct": 80.3,
+  "price_move_6m_pct": 171.9,
+  "price_move_12m_pct": 230.4,
+  "price_move_24m_pct": -43.5,
+  "notes": "The deal followed a prolonged strategic review triggered by a failed pivotal CRC trial, with a final auction leading to an 81% premium over the unaffected pre-announcement price.",
+  "_source_file": "g1_therapeutics_inc_GTHX.md"
+}

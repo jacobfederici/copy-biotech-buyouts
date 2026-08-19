@@ -1,0 +1,39 @@
+{
+  "company": "Forma Therapeutics Holdings, Inc.",
+  "ticker": "FMTX",
+  "buyer": "Novo Nordisk A/S",
+  "announcement_date": "2022-09-01",
+  "close_date": "2022-10-14",
+  "deal_status": "completed",
+  "deal_size_usd_m": 1100,
+  "final_offer_per_share": 20.0,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 52,
+    "basis": "Prior trading day close (2022-08-31) as stated in company rationale"
+  },
+  "company_stage": "Phase 2/3",
+  "lead_asset": "etavopivat",
+  "lead_asset_stage": "Phase 2/3",
+  "value_inflection_events": [],
+  "offer_low_per_share": 8.2,
+  "offer_high_per_share": 20.0,
+  "num_offers_or_rounds": 5,
+  "num_parties_interested": 4,
+  "process_type": "limited / targeted",
+  "engagement_to_deal_days": 607,
+  "first_engagement_date": "2021-01-01",
+  "signing_date": "2022-08-31",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No public rumors or media leaks prior to official announcement"
+  },
+  "price_move_3m_pct": 116.1,
+  "price_move_6m_pct": 36.6,
+  "price_move_12m_pct": -46.7,
+  "price_move_24m_pct": -68.4,
+  "notes": "Multiple rounds of bidding, elimination of CVR, and targeted market check; stock rallied sharply from June 2022 lows before announcement.",
+  "_source_file": "forma_therapeutics_holdings_inc_FMTX.md"
+}

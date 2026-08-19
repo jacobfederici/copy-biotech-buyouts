@@ -1,0 +1,39 @@
+{
+  "company": "Terns Pharmaceuticals, Inc.",
+  "ticker": "TERN",
+  "buyer": "Merck Sharp & Dohme LLC",
+  "announcement_date": "2026-03-25",
+  "close_date": "2026-05-05",
+  "deal_status": "completed",
+  "deal_size_usd_m": 6119.3,
+  "final_offer_per_share": 53.0,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 47.0,
+    "basis": "47% over the price prior to Merck's first proposal, as stated in the board's rationale"
+  },
+  "company_stage": "Phase 1/2",
+  "lead_asset": "TERN-701",
+  "lead_asset_stage": "Phase 1/2",
+  "value_inflection_events": [],
+  "offer_low_per_share": 50.0,
+  "offer_high_per_share": 61.0,
+  "num_offers_or_rounds": 6,
+  "num_parties_interested": 2,
+  "process_type": "limited / targeted",
+  "engagement_to_deal_days": 91,
+  "first_engagement_date": "2025-12-23",
+  "signing_date": "2026-03-24",
+  "interest_direction": "mixed",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No leak >1 month prior; FT reported advanced talks on announcement day morning."
+  },
+  "price_move_3m_pct": 16.7,
+  "price_move_6m_pct": 534.0,
+  "price_move_12m_pct": 1558.9,
+  "price_move_24m_pct": 638.4,
+  "notes": "Deal driven by TERN-701 Phase 1/2 data; Merck lowered offer after due diligence; final price $53/sh, a 47% premium per board.",
+  "_source_file": "terns_pharmaceuticals_inc_TERN.md"
+}

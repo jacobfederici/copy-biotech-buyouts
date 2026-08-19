@@ -1,0 +1,55 @@
+{
+  "company": "InSite Vision Incorporated",
+  "ticker": "INSV",
+  "buyer": "Ranbaxy Inc.",
+  "announcement_date": "2015-09-15",
+  "close_date": "2015-11-02",
+  "deal_status": "completed",
+  "deal_size_usd_m": 46.2,
+  "final_offer_per_share": 0.35,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 150,
+    "basis": "Stated in dossier as 150% premium over pre-announcement price (implied ~$0.14 before QLT deal)"
+  },
+  "company_stage": "Phase 3 / NDA filed",
+  "lead_asset": "BromSite (ISV-101)",
+  "lead_asset_stage": "NDA filed",
+  "value_inflection_events": [
+    {
+      "date": "2015-06-08",
+      "event": "Initial merger agreement with QLT Inc. announced",
+      "approx_change_pct": 28.6
+    },
+    {
+      "date": "2015-08-10",
+      "event": "Unsolicited $0.25 per share offer from Sun Pharma rumored",
+      "approx_change_pct": 29.4
+    },
+    {
+      "date": "2015-09-03",
+      "event": "Sun Pharma revised proposal to $0.35 per share",
+      "approx_change_pct": 30.8
+    }
+  ],
+  "offer_low_per_share": 0.25,
+  "offer_high_per_share": 0.35,
+  "num_offers_or_rounds": 4,
+  "num_parties_interested": 3,
+  "process_type": "broad auction",
+  "engagement_to_deal_days": 592,
+  "first_engagement_date": "2014-01-31",
+  "signing_date": "2015-09-15",
+  "interest_direction": "mixed",
+  "leaked_early": {
+    "leaked": true,
+    "details": "Rumored unsolicited $0.25 proposal from unnamed pharmaceutical company on August 10, 2015, more than one month before official announcement."
+  },
+  "price_move_3m_pct": 88.9,
+  "price_move_6m_pct": 70.0,
+  "price_move_12m_pct": -2.9,
+  "price_move_24m_pct": 70.0,
+  "notes": "InSite was in severe financial distress and used a broad process that ultimately attracted a topping bid from Sun Pharma after initially agreeing to merge with QLT.",
+  "_source_file": "insite_vision_inc_INSV.md"
+}

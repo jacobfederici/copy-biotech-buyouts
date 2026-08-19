@@ -1,0 +1,45 @@
+{
+  "company": "Digene Corporation",
+  "ticker": "DIGE",
+  "buyer": "QIAGEN N.V.",
+  "announcement_date": "2007-06-03",
+  "close_date": "2007-07-30",
+  "deal_status": "completed",
+  "deal_size_usd_m": 1498.3,
+  "final_offer_per_share": 61.25,
+  "payment_type": "mixed",
+  "has_cvr": false,
+  "premium": {
+    "pct": null,
+    "basis": "unknown"
+  },
+  "company_stage": "commercial",
+  "lead_asset": "Hybrid Capture 2 (HC2)",
+  "lead_asset_stage": "Marketed",
+  "value_inflection_events": [
+    {
+      "date": "2007-06-08",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 25.6
+    }
+  ],
+  "offer_low_per_share": 58.0,
+  "offer_high_per_share": 61.25,
+  "num_offers_or_rounds": 3,
+  "num_parties_interested": 2,
+  "process_type": "limited / targeted",
+  "engagement_to_deal_days": 87,
+  "first_engagement_date": "2007-03-06",
+  "signing_date": "2007-06-03",
+  "interest_direction": "mixed",
+  "leaked_early": {
+    "leaked": false,
+    "details": "Rumors solidified just prior to the official announcement; no evidence of a press report/rumor >= 1 month prior."
+  },
+  "price_move_3m_pct": 5.5,
+  "price_move_6m_pct": -5.7,
+  "price_move_12m_pct": 18.1,
+  "price_move_24m_pct": 79.4,
+  "notes": "Deal followed a strategic review by new CEO and a limited market check; QIAGEN was an existing OEM partner. The final offer of $61.25 was within the initial $58-$62 range.",
+  "_source_file": "digene_corp_DIGE.md"
+}

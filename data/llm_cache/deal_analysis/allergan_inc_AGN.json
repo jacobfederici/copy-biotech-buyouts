@@ -1,0 +1,39 @@
+{
+  "company": "Allergan Inc.",
+  "ticker": "AGN",
+  "buyer": "Actavis plc",
+  "announcement_date": "2014-11-16",
+  "close_date": "2015-03-17",
+  "deal_status": "completed",
+  "deal_size_usd_m": 66000,
+  "final_offer_per_share": 219.0,
+  "payment_type": "mixed",
+  "has_cvr": false,
+  "premium": {
+    "pct": 10.2,
+    "basis": "Based on closing price of $198.65 on 2014-11-14, the last trading day before announcement."
+  },
+  "company_stage": "commercial",
+  "lead_asset": "OZURDEX",
+  "lead_asset_stage": "Approved",
+  "value_inflection_events": [],
+  "offer_low_per_share": 153.0,
+  "offer_high_per_share": 219.0,
+  "num_offers_or_rounds": 4,
+  "num_parties_interested": 2,
+  "process_type": "mixed",
+  "engagement_to_deal_days": 209,
+  "first_engagement_date": "2014-04-21",
+  "signing_date": "2014-11-16",
+  "interest_direction": "mixed",
+  "leaked_early": {
+    "leaked": true,
+    "details": "Actavis approach reported by Bloomberg/WSJ in September 2014, about two months before official announcement."
+  },
+  "price_move_3m_pct": 25.5,
+  "price_move_6m_pct": 24.2,
+  "price_move_12m_pct": 106.1,
+  "price_move_24m_pct": 123.9,
+  "notes": "Allergan fended off a hostile Valeant/Pershing Square bid and accepted a white-knight merger with Actavis at $219/share, representing a 10.2% premium over the last close, but shares had already risen significantly from the hostile bid and long-term growth.",
+  "_source_file": "allergan_inc_AGN.md"
+}

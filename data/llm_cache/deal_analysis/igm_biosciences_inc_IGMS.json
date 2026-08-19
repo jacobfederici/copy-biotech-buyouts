@@ -1,0 +1,55 @@
+{
+  "company": "IGM Biosciences, Inc.",
+  "ticker": "IGMS",
+  "buyer": "Concentra Biosciences, LLC",
+  "announcement_date": "2025-07-01",
+  "close_date": "2025-08-14",
+  "deal_status": "completed",
+  "deal_size_usd_m": 78.0,
+  "final_offer_per_share": 1.247,
+  "payment_type": "cash+CVR",
+  "has_cvr": true,
+  "premium": {
+    "pct": 15.46,
+    "basis": "premium vs last pre-announcement close of $1.08 on 2025-06-27"
+  },
+  "company_stage": "clinical",
+  "lead_asset": "imvotamab",
+  "lead_asset_stage": "Phase 1b (discontinued)",
+  "value_inflection_events": [
+    {
+      "date": "2024-09-27",
+      "event": "Strategic pivot to prioritize autoimmune diseases announced",
+      "approx_change_pct": null
+    },
+    {
+      "date": "2025-01-07",
+      "event": "Imvotamab data failure leads to strategic alternatives exploration",
+      "approx_change_pct": -68.1
+    },
+    {
+      "date": "2025-07-01",
+      "event": "Acquisition by Concentra Biosciences announced",
+      "approx_change_pct": 25.9
+    }
+  ],
+  "offer_low_per_share": 1.204,
+  "offer_high_per_share": 1.247,
+  "num_offers_or_rounds": 3,
+  "num_parties_interested": 6,
+  "process_type": "limited / targeted",
+  "engagement_to_deal_days": 25,
+  "first_engagement_date": "2025-06-06",
+  "signing_date": "2025-07-01",
+  "interest_direction": "outbound (target ran process / sought buyer)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No pre-deal rumors or leaks identified. The acquisition was the result of a publicly disclosed strategic review."
+  },
+  "price_move_3m_pct": -14.96,
+  "price_move_6m_pct": -83.54,
+  "price_move_12m_pct": -93.65,
+  "price_move_24m_pct": -89.02,
+  "notes": "The deal followed a failed clinical pivot and effectively valued IGM at slightly above its estimated liquidation value, with the board concluding the Concentra offer provided the best and most certain outcome for shareholders.",
+  "_source_file": "igm_biosciences_inc_IGMS.md"
+}

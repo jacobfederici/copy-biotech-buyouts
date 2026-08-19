@@ -1,0 +1,45 @@
+{
+  "company": "Hyperion Therapeutics Inc",
+  "ticker": "HPTX",
+  "buyer": "Horizon Pharma plc",
+  "announcement_date": "2015-03-30",
+  "close_date": "2015-05-07",
+  "deal_status": "completed",
+  "deal_size_usd_m": 1100,
+  "final_offer_per_share": 46.0,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": null,
+    "basis": "unknown"
+  },
+  "company_stage": "commercial",
+  "lead_asset": "RAVICTI",
+  "lead_asset_stage": "Marketed",
+  "value_inflection_events": [
+    {
+      "date": "2015-02-27",
+      "event": "Analyst report identifying Hyperion as attractive takeover target; stock price rose in following weeks",
+      "approx_change_pct": null
+    }
+  ],
+  "offer_low_per_share": 30.0,
+  "offer_high_per_share": 46.0,
+  "num_offers_or_rounds": 5,
+  "num_parties_interested": 4,
+  "process_type": "limited / targeted",
+  "engagement_to_deal_days": 166,
+  "first_engagement_date": "2014-10-15",
+  "signing_date": "2015-03-29",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": true,
+    "details": "Takeover rumors reported by Brean Capital on 2015-02-27 and TheStreet in March 2015, more than one month before the official announcement on 2015-03-30."
+  },
+  "price_move_3m_pct": 55.1,
+  "price_move_6m_pct": 108.7,
+  "price_move_12m_pct": 88.0,
+  "price_move_24m_pct": 86.4,
+  "notes": "Deal followed unsolicited inbound interest from multiple parties; final $46/sh cash offer represented a significant increase from initial $30/sh proposals and was driven by a competitive dynamic and post-litigation settlement clarity.",
+  "_source_file": "hyperion_therapeutics_inc_HPTX.md"
+}

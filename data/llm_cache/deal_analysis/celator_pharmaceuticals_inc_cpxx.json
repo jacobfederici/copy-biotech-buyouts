@@ -1,0 +1,55 @@
+{
+  "company": "Celator Pharmaceuticals Inc",
+  "ticker": "CPXX",
+  "buyer": "Jazz Pharmaceuticals plc",
+  "announcement_date": "2016-05-27",
+  "close_date": "2016-07-12",
+  "deal_status": "completed",
+  "deal_size_usd_m": 1500,
+  "final_offer_per_share": 30.25,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 73.0,
+    "basis": "vs May 26, 2016 closing price of $17.50 (last trading day before signing/announcement)"
+  },
+  "company_stage": "Phase 3 / pre-approval",
+  "lead_asset": "VYXEOS (CPX-351)",
+  "lead_asset_stage": "Phase 3 (positive data, pre-approval)",
+  "value_inflection_events": [
+    {
+      "date": "2016-03-14",
+      "event": "Positive Phase 3 trial results for VYXEOS announced",
+      "approx_change_pct": 431.5
+    },
+    {
+      "date": "2016-05-06",
+      "event": "Completion of 4.6 million share public offering; market pricing in transaction likelihood",
+      "approx_change_pct": 14.4
+    },
+    {
+      "date": "2016-05-27",
+      "event": "Merger Agreement executed with Jazz at $30.25 per share; announcement pre-market May 31",
+      "approx_change_pct": 72.8
+    }
+  ],
+  "offer_low_per_share": 18.0,
+  "offer_high_per_share": 30.25,
+  "num_offers_or_rounds": 10,
+  "num_parties_interested": 6,
+  "process_type": "broad auction",
+  "engagement_to_deal_days": 53,
+  "first_engagement_date": "2016-04-04",
+  "signing_date": "2016-05-27",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No leak detected \u22651 month prior; WSJ report over May 28-30 weekend, just before official May 31 announcement."
+  },
+  "price_move_3m_pct": 41.2,
+  "price_move_6m_pct": 29.5,
+  "price_move_12m_pct": 42.7,
+  "price_move_24m_pct": 550.6,
+  "notes": "Phase 3 data triggered a 431% stock surge and a competitive auction among six bidders, culminating in Jazz's final $30.25/share bid\u2014a 73% premium to pre-deal close.",
+  "_source_file": "celator_pharmaceuticals_inc_cpxx.md"
+}

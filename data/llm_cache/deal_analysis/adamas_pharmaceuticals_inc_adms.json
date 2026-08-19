@@ -1,0 +1,55 @@
+{
+  "company": "Adamas Pharmaceuticals Inc",
+  "ticker": "ADMS",
+  "buyer": "Supernus Pharmaceuticals, Inc.",
+  "announcement_date": "2021-10-10",
+  "close_date": "unknown",
+  "deal_status": "completed",
+  "deal_size_usd_m": 416.5,
+  "final_offer_per_share": 8.1,
+  "payment_type": "cash+CVR",
+  "has_cvr": true,
+  "premium": {
+    "pct": 75.7,
+    "basis": "Based on last unaffected close of $4.61 on October 8, 2021"
+  },
+  "company_stage": "commercial",
+  "lead_asset": "Gocovri",
+  "lead_asset_stage": "Commercial / approved",
+  "value_inflection_events": [
+    {
+      "date": "2020-02-28",
+      "event": "COVID-19 pandemic market volatility",
+      "approx_change_pct": -21.2
+    },
+    {
+      "date": "2020-03-13",
+      "event": "COVID-19 pandemic market sell-off",
+      "approx_change_pct": -30.6
+    },
+    {
+      "date": "2021-10-15",
+      "event": "Acquisition announcement by Supernus",
+      "approx_change_pct": 75.1
+    }
+  ],
+  "offer_low_per_share": null,
+  "offer_high_per_share": null,
+  "num_offers_or_rounds": null,
+  "num_parties_interested": null,
+  "process_type": "unknown",
+  "engagement_to_deal_days": null,
+  "first_engagement_date": "unknown",
+  "signing_date": "2021-10-10",
+  "interest_direction": "unknown",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No public rumors or reports of deal prior to official announcement."
+  },
+  "price_move_3m_pct": -14.0,
+  "price_move_6m_pct": 2.0,
+  "price_move_12m_pct": -4.4,
+  "price_move_24m_pct": 15.8,
+  "notes": "Adamas, a commercial neurology company with marketed products Gocovri and Namzaric, was acquired by Supernus for $8.10/share cash plus CVR, representing a 76% premium to the unaffected price.",
+  "_source_file": "adamas_pharmaceuticals_inc_adms.md"
+}

@@ -1,0 +1,39 @@
+{
+  "company": "Alder BioPharmaceuticals, Inc.",
+  "ticker": "ALDR",
+  "buyer": "Lundbeck LLC",
+  "announcement_date": "2019-09-16",
+  "close_date": "2019-10-22",
+  "deal_status": "completed",
+  "deal_size_usd_m": 1950,
+  "final_offer_per_share": 18.0,
+  "payment_type": "cash+CVR",
+  "has_cvr": true,
+  "premium": {
+    "pct": 79.0,
+    "basis": "79% over last closing price of $10.06 on 2019-09-13"
+  },
+  "company_stage": "Phase 3 / pre-approval",
+  "lead_asset": "Eptinezumab",
+  "lead_asset_stage": "BLA submitted",
+  "value_inflection_events": [],
+  "offer_low_per_share": 14.0,
+  "offer_high_per_share": 18.0,
+  "num_offers_or_rounds": 3,
+  "num_parties_interested": 1,
+  "process_type": "single bidder / bilateral",
+  "engagement_to_deal_days": 250,
+  "first_engagement_date": "2019-01-09",
+  "signing_date": "2019-09-16",
+  "interest_direction": "mixed",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No specific pre-announcement rumors; deal was not leaked."
+  },
+  "price_move_3m_pct": -16.4,
+  "price_move_6m_pct": -25.5,
+  "price_move_12m_pct": -44.7,
+  "price_move_24m_pct": -7.3,
+  "notes": "Alder, a late-stage migraine biotech, was acquired by Lundbeck for $18.00/share cash plus a $2.00 CVR, a 79% premium, after a bilateral negotiation that evolved from partnership discussions.",
+  "_source_file": "alder_biopharmaceuticals_inc_ALDR.md"
+}

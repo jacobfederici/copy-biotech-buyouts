@@ -1,0 +1,60 @@
+{
+  "company": "Apellis Pharmaceuticals, Inc.",
+  "ticker": "APLS",
+  "buyer": "Biogen Inc.",
+  "announcement_date": "2026-03-31",
+  "close_date": "2026-05-14",
+  "deal_status": "completed",
+  "deal_size_usd_m": 5300,
+  "final_offer_per_share": 41.0,
+  "payment_type": "cash+CVR",
+  "has_cvr": true,
+  "premium": {
+    "pct": 141.6,
+    "basis": "vs last close before announcement (2026-03-27) of $16.97"
+  },
+  "company_stage": "commercial",
+  "lead_asset": "SYFOVRE (pegcetacoplan)",
+  "lead_asset_stage": "Approved/Commercial",
+  "value_inflection_events": [
+    {
+      "date": "2025-10-31",
+      "event": "Not identified",
+      "approx_change_pct": -23.8
+    },
+    {
+      "date": "2026-01-16",
+      "event": "Not identified",
+      "approx_change_pct": -27.0
+    },
+    {
+      "date": "2026-04-03",
+      "event": "Deal announcement",
+      "approx_change_pct": 138.1
+    },
+    {
+      "date": "2026-05-15",
+      "event": "Deal close",
+      "approx_change_pct": -91.4
+    }
+  ],
+  "offer_low_per_share": 26.0,
+  "offer_high_per_share": 41.0,
+  "num_offers_or_rounds": 5,
+  "num_parties_interested": 1,
+  "process_type": "single bidder / bilateral",
+  "engagement_to_deal_days": 557,
+  "first_engagement_date": "2024-09-20",
+  "signing_date": "2026-03-31",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": true,
+    "details": "Bloomberg report in April 2023 about takeover interest, no specific buyer identified."
+  },
+  "price_move_3m_pct": -32.0,
+  "price_move_6m_pct": -24.1,
+  "price_move_12m_pct": -30.1,
+  "price_move_24m_pct": -69.6,
+  "notes": "Deal involved a CVR tied to SYFOVRE sales milestones; market check contacted seven parties, none interested; prior Bloomberg rumor in April 2023 hinted at takeover interest.",
+  "_source_file": "apellis_pharmaceuticals_inc_APLS.md"
+}

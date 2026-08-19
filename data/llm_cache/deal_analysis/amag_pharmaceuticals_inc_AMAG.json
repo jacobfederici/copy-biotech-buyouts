@@ -1,0 +1,70 @@
+{
+  "company": "AMAG Pharmaceuticals, Inc.",
+  "ticker": "AMAG",
+  "buyer": "Covis Group S.\u00e0 r.l.",
+  "announcement_date": "2020-10-01",
+  "close_date": "2020-11-16",
+  "deal_status": "completed",
+  "deal_size_usd_m": 499.8,
+  "final_offer_per_share": 13.75,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 54.0,
+    "basis": "vs. last close before announcement ($8.93 on 2020-09-25)"
+  },
+  "company_stage": "commercial",
+  "lead_asset": "Feraheme",
+  "lead_asset_stage": "commercialized",
+  "value_inflection_events": [
+    {
+      "date": "2019-03-08",
+      "event": "Not identified",
+      "approx_change_pct": -23.5
+    },
+    {
+      "date": "2020-03-13",
+      "event": "Not identified",
+      "approx_change_pct": -22.1
+    },
+    {
+      "date": "2020-04-10",
+      "event": "Not identified",
+      "approx_change_pct": 27.5
+    },
+    {
+      "date": "2020-05-15",
+      "event": "Not identified",
+      "approx_change_pct": -25.7
+    },
+    {
+      "date": "2020-06-12",
+      "event": "Not identified",
+      "approx_change_pct": -20.1
+    },
+    {
+      "date": "2020-10-02",
+      "event": "Not identified",
+      "approx_change_pct": 53.9
+    }
+  ],
+  "offer_low_per_share": 11.0,
+  "offer_high_per_share": 13.75,
+  "num_offers_or_rounds": 4,
+  "num_parties_interested": 1,
+  "process_type": "single bidder / bilateral",
+  "engagement_to_deal_days": 178,
+  "first_engagement_date": "2020-04-06",
+  "signing_date": "2020-10-01",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No leak more than a month prior; the only pre-announcement rumor was on September 30, 2020, one day before official announcement."
+  },
+  "price_move_3m_pct": 11.1,
+  "price_move_6m_pct": 45.4,
+  "price_move_12m_pct": -26.2,
+  "price_move_24m_pct": -60.4,
+  "notes": "AMAG faced significant regulatory headwinds for Makena and divested women's health assets during the negotiation period; Covis was the sole bidder after a broad outreach failed to generate alternative offers.",
+  "_source_file": "amag_pharmaceuticals_inc_AMAG.md"
+}

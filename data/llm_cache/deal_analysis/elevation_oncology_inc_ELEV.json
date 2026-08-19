@@ -1,0 +1,39 @@
+{
+  "company": "Elevation Oncology, Inc.",
+  "ticker": "ELEV",
+  "buyer": "Concentra Biosciences, LLC",
+  "announcement_date": "2025-06-09",
+  "close_date": "2025-07-23",
+  "deal_status": "completed",
+  "deal_size_usd_m": 21.33,
+  "final_offer_per_share": 0.36,
+  "payment_type": "cash+CVR",
+  "has_cvr": true,
+  "premium": {
+    "pct": 12.5,
+    "basis": "vs last close before announcement ($0.32 on 2025-06-06)"
+  },
+  "company_stage": "preclinical",
+  "lead_asset": "EO-1022",
+  "lead_asset_stage": "preclinical",
+  "value_inflection_events": [],
+  "offer_low_per_share": 0.36,
+  "offer_high_per_share": 0.37,
+  "num_offers_or_rounds": 3,
+  "num_parties_interested": 23,
+  "process_type": "broad auction",
+  "engagement_to_deal_days": 46,
+  "first_engagement_date": "2025-04-23",
+  "signing_date": "2025-06-08",
+  "interest_direction": "outbound (target ran process / sought buyer)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No pre-deal rumors; activist pressure from BML Capital Management in April 2025 urged liquidation."
+  },
+  "price_move_3m_pct": -37.25,
+  "price_move_6m_pct": -46.67,
+  "price_move_12m_pct": -90.93,
+  "price_move_24m_pct": -78.23,
+  "notes": "Elevation Oncology was acquired by Concentra Biosciences for $0.36/share plus CVR after discontinuing its lead asset, with the deal representing a modest premium to the depressed stock price following a broad strategic review.",
+  "_source_file": "elevation_oncology_inc_ELEV.md"
+}

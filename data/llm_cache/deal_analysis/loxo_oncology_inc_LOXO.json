@@ -1,0 +1,55 @@
+{
+  "company": "Loxo Oncology, Inc.",
+  "ticker": "LOXO",
+  "buyer": "Eli Lilly and Company",
+  "announcement_date": "2019-01-07",
+  "close_date": "2019-02-15",
+  "deal_status": "completed",
+  "deal_size_usd_m": 8000,
+  "final_offer_per_share": 235.0,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 68.0,
+    "basis": "last trading day close of $139.87 on 2019-01-04"
+  },
+  "company_stage": "approved+marketed",
+  "lead_asset": "LOXO-292",
+  "lead_asset_stage": "Phase 1/2",
+  "value_inflection_events": [
+    {
+      "date": "2017-06-09",
+      "event": "unknown",
+      "approx_change_pct": 46.1
+    },
+    {
+      "date": "2018-05-18",
+      "event": "unknown",
+      "approx_change_pct": 22.2
+    },
+    {
+      "date": "2019-01-11",
+      "event": "unknown",
+      "approx_change_pct": 66.2
+    }
+  ],
+  "offer_low_per_share": 230.0,
+  "offer_high_per_share": 235.0,
+  "num_offers_or_rounds": 2,
+  "num_parties_interested": 1,
+  "process_type": "single bidder / bilateral",
+  "engagement_to_deal_days": 26,
+  "first_engagement_date": "2018-12-10",
+  "signing_date": "2019-01-05",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No pre-deal rumors; deal was a surprise announcement."
+  },
+  "price_move_3m_pct": -12.36,
+  "price_move_6m_pct": -26.36,
+  "price_move_12m_pct": 63.99,
+  "price_move_24m_pct": 266.5,
+  "notes": "Loxo was acquired by Lilly for $235/share cash, a 68% premium, after a rapid 26-day negotiation without a broad auction, driven by the value of its RET inhibitor LOXO-292.",
+  "_source_file": "loxo_oncology_inc_LOXO.md"
+}

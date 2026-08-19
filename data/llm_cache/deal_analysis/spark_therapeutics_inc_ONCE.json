@@ -1,0 +1,39 @@
+{
+  "company": "Spark Therapeutics, Inc.",
+  "ticker": "ONCE",
+  "buyer": "Roche Holdings, Inc.",
+  "announcement_date": "2019-02-25",
+  "close_date": "2019-12-17",
+  "deal_status": "completed",
+  "deal_size_usd_m": 4800,
+  "final_offer_per_share": 114.5,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 122.0,
+    "basis": "122% premium to unaffected closing price of $51.56 on 2019-02-22"
+  },
+  "company_stage": "commercial",
+  "lead_asset": "SPK-8011",
+  "lead_asset_stage": "Phase 3",
+  "value_inflection_events": [],
+  "offer_low_per_share": 70.0,
+  "offer_high_per_share": 114.5,
+  "num_offers_or_rounds": 6,
+  "num_parties_interested": 3,
+  "process_type": "limited / targeted",
+  "engagement_to_deal_days": 73,
+  "first_engagement_date": "2018-12-11",
+  "signing_date": "2019-02-22",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "First media report of deal talks was on February 23, 2019, two days before the official announcement."
+  },
+  "price_move_3m_pct": 25.7,
+  "price_move_6m_pct": -15.0,
+  "price_move_12m_pct": -6.3,
+  "price_move_24m_pct": -18.6,
+  "notes": "Roche paid a 122% premium for Spark's gene therapy platform, with lead asset SPK-8011 in Phase 3 for hemophilia A; the deal faced extended FTC and UK CMA review but closed in December 2019.",
+  "_source_file": "spark_therapeutics_inc_ONCE.md"
+}

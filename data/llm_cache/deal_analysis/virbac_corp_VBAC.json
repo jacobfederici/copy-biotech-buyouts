@@ -1,0 +1,65 @@
+{
+  "company": "Virbac Corporation",
+  "ticker": "VBAC",
+  "buyer": "Labogroup Holding, Inc.",
+  "announcement_date": "2006-08-08",
+  "close_date": "2006-11-01",
+  "deal_status": "completed",
+  "deal_size_usd_m": 47.4,
+  "final_offer_per_share": 5.75,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 18.6,
+    "basis": "Based on last close before announcement (week ended 2006-08-04: $4.85) vs final offer $5.75"
+  },
+  "company_stage": "commercial",
+  "lead_asset": "Veterinary proprietary products",
+  "lead_asset_stage": "Research and Development",
+  "value_inflection_events": [
+    {
+      "date": "2004-11-26",
+      "event": "Significant price movement (trigger not identified)",
+      "approx_change_pct": -21.5
+    },
+    {
+      "date": "2005-06-24",
+      "event": "Significant price movement (trigger not identified)",
+      "approx_change_pct": -30.0
+    },
+    {
+      "date": "2005-07-01",
+      "event": "Significant price movement (trigger not identified)",
+      "approx_change_pct": 54.4
+    },
+    {
+      "date": "2005-07-08",
+      "event": "Significant price movement (trigger not identified)",
+      "approx_change_pct": -22.4
+    },
+    {
+      "date": "2005-08-26",
+      "event": "Significant price movement (trigger not identified)",
+      "approx_change_pct": 21.9
+    }
+  ],
+  "offer_low_per_share": 4.15,
+  "offer_high_per_share": 5.75,
+  "num_offers_or_rounds": 3,
+  "num_parties_interested": 1,
+  "process_type": "single bidder / bilateral",
+  "engagement_to_deal_days": 241,
+  "first_engagement_date": "2005-12-12",
+  "signing_date": "2006-08-10",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No public rumors reported well in advance of the official announcement"
+  },
+  "price_move_3m_pct": 11.5,
+  "price_move_6m_pct": 12.8,
+  "price_move_12m_pct": 78.3,
+  "price_move_24m_pct": 90.2,
+  "notes": "Parent company buyout of minority shares at a premium, with price increased to overcome litigation and secure short-form merger threshold.",
+  "_source_file": "virbac_corp_VBAC.md"
+}

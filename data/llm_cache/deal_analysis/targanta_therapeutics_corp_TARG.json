@@ -1,0 +1,65 @@
+{
+  "company": "Targanta Therapeutics Corporation",
+  "ticker": "TARG",
+  "buyer": "The Medicines Company",
+  "announcement_date": "2009-01-12",
+  "close_date": "2009-02-25",
+  "deal_status": "completed",
+  "deal_size_usd_m": 50,
+  "final_offer_per_share": 2.0,
+  "payment_type": "cash+CVR",
+  "has_cvr": true,
+  "premium": {
+    "pct": 96,
+    "basis": "The board stated that the $2.00 upfront cash represented a 96% premium to the prior day's closing price."
+  },
+  "company_stage": "Phase 3 / pre-approval",
+  "lead_asset": "Oritavancin",
+  "lead_asset_stage": "Phase 3 / Complete Response Letter received",
+  "value_inflection_events": [
+    {
+      "date": "2008-11-19",
+      "event": "FDA advisory committee votes against oritavancin; stock price drops 82%.",
+      "approx_change_pct": -82
+    },
+    {
+      "date": "2008-12-08",
+      "event": "FDA issues complete response letter requiring additional Phase III study.",
+      "approx_change_pct": null
+    },
+    {
+      "date": "2008-12-16",
+      "event": "The Medicines Company submits initial acquisition proposal.",
+      "approx_change_pct": null
+    },
+    {
+      "date": "2009-01-08",
+      "event": "MDCO delivers best and final offer of $2.00 cash plus CVRs.",
+      "approx_change_pct": null
+    },
+    {
+      "date": "2009-01-12",
+      "event": "Merger agreement announced.",
+      "approx_change_pct": null
+    }
+  ],
+  "offer_low_per_share": 1.8,
+  "offer_high_per_share": 2.0,
+  "num_offers_or_rounds": 4,
+  "num_parties_interested": 6,
+  "process_type": "limited / targeted",
+  "engagement_to_deal_days": 127,
+  "first_engagement_date": "2008-09-02",
+  "signing_date": "2009-01-12",
+  "interest_direction": "outbound (target ran process / sought buyer)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No pre-deal rumors or reports were identified prior to the official announcement on January 12, 2009."
+  },
+  "price_move_3m_pct": -77.3,
+  "price_move_6m_pct": -83.5,
+  "price_move_12m_pct": -88.0,
+  "price_move_24m_pct": null,
+  "notes": "Targanta was in severe financial distress post-CRL and the board recommended the deal to avoid insolvency, ultimately accepting a $2.00 cash tender offer with up to $4.55 in CVRs as the best available option.",
+  "_source_file": "targanta_therapeutics_corp_TARG.md"
+}

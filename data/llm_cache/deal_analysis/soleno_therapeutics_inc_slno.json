@@ -1,0 +1,65 @@
+{
+  "company": "Soleno Therapeutics, Inc.",
+  "ticker": "SLNO",
+  "buyer": "Neurocrine Biosciences, Inc.",
+  "announcement_date": "2026-04-06",
+  "close_date": "2026-05-18",
+  "deal_status": "completed",
+  "deal_size_usd_m": 2741.1,
+  "final_offer_per_share": 53.0,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 34,
+    "basis": "premium vs April 2, 2026 closing price of $39.49 as stated in SC 14D9"
+  },
+  "company_stage": "commercial",
+  "lead_asset": "VYKAT XR",
+  "lead_asset_stage": "commercial",
+  "value_inflection_events": [
+    {
+      "date": "2025-03-26",
+      "event": "FDA approves VYKAT XR for hyperphagia in Prader-Willi Syndrome; commercial launch announced",
+      "approx_change_pct": 46.6
+    },
+    {
+      "date": "2025-09-12",
+      "event": "Significant stock decline on high volume; no specific adverse event disclosed in SC 14D9",
+      "approx_change_pct": -23.1
+    },
+    {
+      "date": "2025-11-07",
+      "event": "Significant stock decline on very high volume; no specific adverse event disclosed in SC 14D9; Party B eventually terminates discussions in early Feb 2026",
+      "approx_change_pct": -29.0
+    },
+    {
+      "date": "2026-04-03",
+      "event": "Stock begins to rise in advance of merger announcement on April 6, 2026",
+      "approx_change_pct": 31.4
+    },
+    {
+      "date": "2026-04-10",
+      "event": "Merger announcement at $53.00/share; stock converges to deal price",
+      "approx_change_pct": 33.3
+    }
+  ],
+  "offer_low_per_share": 50.0,
+  "offer_high_per_share": 53.0,
+  "num_offers_or_rounds": 2,
+  "num_parties_interested": 7,
+  "process_type": "single bidder / bilateral",
+  "engagement_to_deal_days": 48,
+  "first_engagement_date": "2026-02-17",
+  "signing_date": "2026-04-05",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "Leaks/reports emerged on April 5-6, 2026, less than 1 month before the official April 6, 2026 announcement."
+  },
+  "price_move_3m_pct": null,
+  "price_move_6m_pct": null,
+  "price_move_12m_pct": null,
+  "price_move_24m_pct": null,
+  "notes": "Price moves relative to announcement could not be reliably computed from the table because the last pre-announcement weekly close is April 3, 2026 and the table does not contain a single distinct 'last pre-announcement close' that is clearly unaffected by deal rumors/leaks; the deal was signed April 5 and announced April 6 with a press report on April 5.",
+  "_source_file": "soleno_therapeutics_inc_slno.md"
+}

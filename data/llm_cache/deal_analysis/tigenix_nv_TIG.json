@@ -1,0 +1,50 @@
+{
+  "company": "TiGenix NV",
+  "ticker": "TIG",
+  "buyer": "Takeda Pharmaceutical Company Limited",
+  "announcement_date": "2018-01-05",
+  "close_date": "unknown",
+  "deal_status": "pending",
+  "deal_size_usd_m": null,
+  "final_offer_per_share": 1.78,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 78.2,
+    "basis": "vs Jan 3, 2018 closing price"
+  },
+  "company_stage": "approved+marketed",
+  "lead_asset": "Cx601 (Alofisel)",
+  "lead_asset_stage": "Approved (EU), Phase 3 (US)",
+  "value_inflection_events": [
+    {
+      "date": "2017-12-15",
+      "event": "Positive CHMP Opinion for Cx601 and Mesoblast Licensing Agreement",
+      "approx_change_pct": 10.2
+    },
+    {
+      "date": "2018-01-05",
+      "event": "Announcement of Takeda acquisition",
+      "approx_change_pct": 77.9
+    }
+  ],
+  "offer_low_per_share": 1.25,
+  "offer_high_per_share": 1.78,
+  "num_offers_or_rounds": 4,
+  "num_parties_interested": 1,
+  "process_type": "single bidder / bilateral",
+  "engagement_to_deal_days": 196,
+  "first_engagement_date": "2017-06-23",
+  "signing_date": "2018-01-05",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No pre-deal rumors per search"
+  },
+  "price_move_3m_pct": -7.1,
+  "price_move_6m_pct": 11.7,
+  "price_move_12m_pct": 55.8,
+  "price_move_24m_pct": null,
+  "notes": "Takeda acquired TiGenix to consolidate global rights to Cx601 after EU approval; no competing bidders, premium 78.2%.",
+  "_source_file": "tigenix_nv_TIG.md"
+}

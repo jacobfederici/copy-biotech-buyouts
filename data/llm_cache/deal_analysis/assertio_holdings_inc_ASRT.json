@@ -1,0 +1,60 @@
+{
+  "company": "Assertio Holdings, Inc.",
+  "ticker": "ASRT",
+  "buyer": "Zydus Worldwide DMCC",
+  "announcement_date": "2026-05-13",
+  "close_date": "2026-06-16",
+  "deal_status": "completed",
+  "deal_size_usd_m": 166.4,
+  "final_offer_per_share": 23.5,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 75.8,
+    "basis": "75.8% over the unaffected price, as stated in the Rationale section of the dossier."
+  },
+  "company_stage": "commercial",
+  "lead_asset": "Rolvedon (eflapegrastim-xnst)",
+  "lead_asset_stage": "Commercial",
+  "value_inflection_events": [
+    {
+      "date": "2025-12-26",
+      "event": "Unidentified event causing a significant stock price increase.",
+      "approx_change_pct": 1280.6
+    },
+    {
+      "date": "2026-01-16",
+      "event": "Unidentified event causing a stock price increase.",
+      "approx_change_pct": 24.9
+    },
+    {
+      "date": "2026-03-27",
+      "event": "Unidentified event causing a stock price increase.",
+      "approx_change_pct": 45.0
+    },
+    {
+      "date": "2026-05-08",
+      "event": "Unidentified event causing a stock price increase.",
+      "approx_change_pct": 21.8
+    }
+  ],
+  "offer_low_per_share": 13.5,
+  "offer_high_per_share": 23.6,
+  "num_offers_or_rounds": 6,
+  "num_parties_interested": 30,
+  "process_type": "broad auction",
+  "engagement_to_deal_days": 590,
+  "first_engagement_date": "2024-10-01",
+  "signing_date": "2026-05-13",
+  "interest_direction": "outbound (target ran process / sought buyer)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "The dossier's Buyout Rumors section explicitly states that no pre-deal rumors exist for Assertio Holdings, Inc."
+  },
+  "price_move_3m_pct": null,
+  "price_move_6m_pct": null,
+  "price_move_12m_pct": null,
+  "price_move_24m_pct": null,
+  "notes": "The deal followed a competitive process where Zydus outbid Garda Therapeutics, which had two prior merger agreements. The final Zydus offer of $23.50/share in cash was chosen over Garda's $23.60/share + CVR bid due to Zydus's superior financing certainty.",
+  "_source_file": "assertio_holdings_inc_ASRT.md"
+}

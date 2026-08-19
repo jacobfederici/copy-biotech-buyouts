@@ -1,0 +1,45 @@
+{
+  "company": "Audentes Therapeutics, Inc.",
+  "ticker": "BOLD",
+  "buyer": "Astellas Pharma Inc.",
+  "announcement_date": "2019-12-02",
+  "close_date": "2020-01-15",
+  "deal_status": "completed",
+  "deal_size_usd_m": 3000.0,
+  "final_offer_per_share": 60.0,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 110.0,
+    "basis": "premium over the unaffected closing price, per board rationale stating 110% premium"
+  },
+  "company_stage": "Phase 1/2",
+  "lead_asset": "AT132",
+  "lead_asset_stage": "Phase 1/2",
+  "value_inflection_events": [
+    {
+      "date": "2019-12-02",
+      "event": "Announcement of acquisition by Astellas at $60 per share",
+      "approx_change_pct": 104.1
+    }
+  ],
+  "offer_low_per_share": 50.0,
+  "offer_high_per_share": 60.0,
+  "num_offers_or_rounds": 5,
+  "num_parties_interested": 4,
+  "process_type": "limited / targeted",
+  "engagement_to_deal_days": 194,
+  "first_engagement_date": "2019-05-22",
+  "signing_date": "2019-12-02",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No pre-deal rumors or leaks identified; private negotiations remained confidential."
+  },
+  "price_move_3m_pct": 3.36,
+  "price_move_6m_pct": -23.82,
+  "price_move_12m_pct": 14.53,
+  "price_move_24m_pct": 16.15,
+  "notes": "Deal followed a targeted market check after Astellas' initial inbound interest; bidding war with an unnamed Company C pushed the price from $50 to $60 per share before exclusivity was granted.",
+  "_source_file": "audentes_therapeutics_inc_BOLD.md"
+}

@@ -1,0 +1,45 @@
+{
+  "company": "Repros Therapeutics Inc.",
+  "ticker": "RPRX",
+  "buyer": "Allergan Sales, LLC",
+  "announcement_date": "2017-12-12",
+  "close_date": "2018-01-31",
+  "deal_status": "completed",
+  "deal_size_usd_m": 26.6,
+  "final_offer_per_share": 0.67,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 42.6,
+    "basis": "closing price on December 11, 2017"
+  },
+  "company_stage": "Phase 2",
+  "lead_asset": "Proellex (telapristone)",
+  "lead_asset_stage": "preclinical / Phase 2",
+  "value_inflection_events": [
+    {
+      "date": "2017-12-12",
+      "event": "Deal announcement at $0.67 per share",
+      "approx_change_pct": 43.5
+    }
+  ],
+  "offer_low_per_share": 0.45,
+  "offer_high_per_share": 0.67,
+  "num_offers_or_rounds": 3,
+  "num_parties_interested": 6,
+  "process_type": "limited / targeted",
+  "engagement_to_deal_days": 254,
+  "first_engagement_date": "2017-04-01",
+  "signing_date": "2017-12-11",
+  "interest_direction": "outbound",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No pre-deal rumors involving a named buyer or price were identified; the deal was announced without prior public speculation."
+  },
+  "price_move_3m_pct": 53.3,
+  "price_move_6m_pct": 12.2,
+  "price_move_12m_pct": -69.5,
+  "price_move_24m_pct": -63.8,
+  "notes": "Allergan acquired pre-commercial Repros primarily for its Proellex asset at a 42.6% premium after a direct bilateral negotiation; no competing bids emerged.",
+  "_source_file": "repros_therapeutics_inc_rprx.md"
+}

@@ -1,0 +1,50 @@
+{
+  "company": "Epizyme, Inc.",
+  "ticker": "EPZM",
+  "buyer": "Ipsen Pharma SAS",
+  "announcement_date": "2022-06-27",
+  "close_date": "2022-08-12",
+  "deal_status": "completed",
+  "deal_size_usd_m": 244.1,
+  "final_offer_per_share": 1.45,
+  "payment_type": "cash+CVR",
+  "has_cvr": true,
+  "premium": {
+    "pct": 52.6,
+    "basis": "Computed premium of $1.45 offer vs. the last unaffected close of $0.95 on 2022-06-24, per the stock price table."
+  },
+  "company_stage": "commercial",
+  "lead_asset": "TAZVERIK (tazemetostat)",
+  "lead_asset_stage": "Commercial / Phase 3 (confirmatory)",
+  "value_inflection_events": [
+    {
+      "date": "2022-01-28",
+      "event": "Significant price drop likely related to public offering of common stock announced on 2022-01-26, pricing equity at a substantial discount.",
+      "approx_change_pct": -48.8
+    },
+    {
+      "date": "2022-06-24",
+      "event": "Pre-announcement price spike, attributed in buyout rumors to speculation of an imminent deal.",
+      "approx_change_pct": 38.6
+    }
+  ],
+  "offer_low_per_share": 1.1,
+  "offer_high_per_share": 1.45,
+  "num_offers_or_rounds": 5,
+  "num_parties_interested": 2,
+  "process_type": "limited / targeted",
+  "engagement_to_deal_days": 180,
+  "first_engagement_date": "2021-12-00",
+  "signing_date": "2022-06-27",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "A price spike occurred the week before the announcement (2022-06-24), but no press report/rumor surfaced >= 1 month prior. Speculation was noted only in that immediate pre-announcement week."
+  },
+  "price_move_3m_pct": null,
+  "price_move_6m_pct": null,
+  "price_move_12m_pct": null,
+  "price_move_24m_pct": null,
+  "notes": "The deal was a fire-sale acquisition by Ipsen after Epizyme's market cap had collapsed from over $1.5B in 2020 to under $100M, driven by severe capital constraints, high debt, and a depressed biotech funding environment.",
+  "_source_file": "epizyme_inc_EPZM.md"
+}

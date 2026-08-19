@@ -1,0 +1,50 @@
+{
+  "company": "IDM Pharma, Inc.",
+  "ticker": "IDMI",
+  "buyer": "Takeda America Holdings, Inc.",
+  "announcement_date": "2009-05-18",
+  "close_date": "2009-06-24",
+  "deal_status": "completed",
+  "deal_size_usd_m": 67.4,
+  "final_offer_per_share": 2.64,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": null,
+    "basis": "unknown"
+  },
+  "company_stage": "approved+marketed",
+  "lead_asset": "MEPACT (mifamurtide / L-MTP-PE)",
+  "lead_asset_stage": "Approved (Europe) / Phase 3 (US)",
+  "value_inflection_events": [
+    {
+      "date": "2008-11-17",
+      "event": "CHMP issues positive opinion for MEPACT in Europe; IDM resumes strategic process",
+      "approx_change_pct": null
+    },
+    {
+      "date": "2009-05-18",
+      "event": "Takeda to Acquire IDM Pharma announced",
+      "approx_change_pct": 53.5
+    }
+  ],
+  "offer_low_per_share": null,
+  "offer_high_per_share": 2.64,
+  "num_offers_or_rounds": 4,
+  "num_parties_interested": 3,
+  "process_type": "broad auction",
+  "engagement_to_deal_days": 125,
+  "first_engagement_date": "2009-01-14",
+  "signing_date": "2009-05-18",
+  "interest_direction": "outbound (target ran process / sought buyer)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No pre-deal rumors identified; announcement was without prior public reports."
+  },
+  "price_move_3m_pct": -5.6,
+  "price_move_6m_pct": -8.6,
+  "price_move_12m_pct": -34.6,
+  "price_move_24m_pct": -46.5,
+  "notes": "Deal driven by IDM's cash constraints (runway through Q3 2009) and Takeda's desire to leverage European infrastructure for MEPACT launch; competitive process included two other bidders but Takeda's all-cash offer won.",
+  "_source_file": "idm_pharma_inc_IDMI.md"
+}

@@ -1,0 +1,45 @@
+{
+  "company": "BioSpecifics Technologies Corp.",
+  "ticker": "BSTC",
+  "buyer": "Endo International plc",
+  "announcement_date": "2020-10-19",
+  "close_date": "2020-12-02",
+  "deal_status": "completed",
+  "deal_size_usd_m": 650.0,
+  "final_offer_per_share": 88.5,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 45.0,
+    "basis": "vs unaffected last close of $61.02 on October 16, 2020, the last trading day before announcement"
+  },
+  "company_stage": "commercial",
+  "lead_asset": "XIAFLEX",
+  "lead_asset_stage": "Marketed",
+  "value_inflection_events": [
+    {
+      "date": "2020-10-19",
+      "event": "Merger agreement announced at $88.50 per share",
+      "approx_change_pct": 45.0
+    }
+  ],
+  "offer_low_per_share": 85.0,
+  "offer_high_per_share": 88.5,
+  "num_offers_or_rounds": 4,
+  "num_parties_interested": 1,
+  "process_type": "single bidder / bilateral",
+  "engagement_to_deal_days": 68,
+  "first_engagement_date": "2020-08-12",
+  "signing_date": "2020-10-19",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No pre-deal rumors or acquisition speculation were publicly documented prior to the official announcement; the transaction was a surprise to the market."
+  },
+  "price_move_3m_pct": -9.1,
+  "price_move_6m_pct": 16.6,
+  "price_move_12m_pct": 25.1,
+  "price_move_24m_pct": -2.9,
+  "notes": "Royalty-based biotech with marketed products acquired by its long-standing licensee Endo; no prior leaks; premium ~45% over unaffected close.",
+  "_source_file": "biospecifics_technologies_corp_BSTC.md"
+}

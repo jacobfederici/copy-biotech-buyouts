@@ -1,0 +1,60 @@
+{
+  "company": "Merus N.V.",
+  "ticker": "MRUS",
+  "buyer": "Genmab Holding II B.V.",
+  "announcement_date": "2025-09-29",
+  "close_date": "2025-12-29",
+  "deal_status": "completed",
+  "deal_size_usd_m": 7356.8,
+  "final_offer_per_share": 97.0,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 40.8,
+    "basis": "vs last closing price before announcement on 2025-09-26 ($68.89)"
+  },
+  "company_stage": "commercial",
+  "lead_asset": "petosemtamab (MCLA-158)",
+  "lead_asset_stage": "Phase 3",
+  "value_inflection_events": [
+    {
+      "date": "2023-11-03",
+      "event": "Unknown",
+      "approx_change_pct": 24.0
+    },
+    {
+      "date": "2024-05-24",
+      "event": "Unknown",
+      "approx_change_pct": 36.6
+    },
+    {
+      "date": "2025-05-23",
+      "event": "Unknown",
+      "approx_change_pct": 32.7
+    },
+    {
+      "date": "2025-10-03",
+      "event": "Deal announcement",
+      "approx_change_pct": 36.9
+    }
+  ],
+  "offer_low_per_share": 81.0,
+  "offer_high_per_share": 97.0,
+  "num_offers_or_rounds": 6,
+  "num_parties_interested": 4,
+  "process_type": "limited / targeted",
+  "engagement_to_deal_days": 52,
+  "first_engagement_date": "2025-08-08",
+  "signing_date": "2025-09-29",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "Rumors surfaced on 2025-09-28, one day before announcement, no earlier leak."
+  },
+  "price_move_3m_pct": 30.0,
+  "price_move_6m_pct": 54.4,
+  "price_move_12m_pct": 44.3,
+  "price_move_24m_pct": 215.3,
+  "notes": "Genmab outbid Parties A and B; final offer $97 cash after initial $81; stock had risen 215% over two years before deal.",
+  "_source_file": "merus_n_v_MRUS.md"
+}

@@ -1,0 +1,45 @@
+{
+  "company": "Dynavax Technologies Corporation",
+  "ticker": "DVAX",
+  "buyer": "Sanofi",
+  "announcement_date": "2025-12-24",
+  "close_date": "2026-02-10",
+  "deal_status": "completed",
+  "deal_size_usd_m": 1780,
+  "final_offer_per_share": 15.5,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 39,
+    "basis": "undisturbed closing price"
+  },
+  "company_stage": "commercial",
+  "lead_asset": "HEPLISAV-B",
+  "lead_asset_stage": "commercial",
+  "value_inflection_events": [
+    {
+      "date": "2025-12-26",
+      "event": "Deal announcement",
+      "approx_change_pct": 41.6
+    }
+  ],
+  "offer_low_per_share": 14.4,
+  "offer_high_per_share": 15.5,
+  "num_offers_or_rounds": 3,
+  "num_parties_interested": 2,
+  "process_type": "limited / targeted",
+  "engagement_to_deal_days": 376,
+  "first_engagement_date": "2024-12-12",
+  "signing_date": "2025-12-23",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No evidence of leak"
+  },
+  "price_move_3m_pct": 11.04,
+  "price_move_6m_pct": 9.59,
+  "price_move_12m_pct": -16.46,
+  "price_move_24m_pct": -22.32,
+  "notes": "Deal completed after proxy contest by Deep Track Capital; Sanofi's final offer of $15.50 represented a 39% premium and was accepted despite a late unsolicited bid from Party A.",
+  "_source_file": "dynavax_technologies_corp_DVAX.md"
+}

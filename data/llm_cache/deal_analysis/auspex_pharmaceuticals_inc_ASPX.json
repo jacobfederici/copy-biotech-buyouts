@@ -1,0 +1,50 @@
+{
+  "company": "Auspex Pharmaceuticals, Inc.",
+  "ticker": "ASPX",
+  "buyer": "Teva Pharmaceutical Industries Ltd.",
+  "announcement_date": "2015-03-30",
+  "close_date": "2015-05-05",
+  "deal_status": "completed",
+  "deal_size_usd_m": 3500,
+  "final_offer_per_share": 101.0,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": null,
+    "basis": "unknown"
+  },
+  "company_stage": "Phase 3 / pre-approval",
+  "lead_asset": "SD-809 (deutetrabenazine)",
+  "lead_asset_stage": "Phase 3 (Completed)",
+  "value_inflection_events": [
+    {
+      "date": "2014-12-19",
+      "event": "Positive Phase 3 results for SD-809 in Huntington's disease chorea",
+      "approx_change_pct": 114.3
+    },
+    {
+      "date": "2015-03-30",
+      "event": "Public announcement of the transaction",
+      "approx_change_pct": 41.8
+    }
+  ],
+  "offer_low_per_share": 85.0,
+  "offer_high_per_share": 101.0,
+  "num_offers_or_rounds": 3,
+  "num_parties_interested": 6,
+  "process_type": "broad auction",
+  "engagement_to_deal_days": 74,
+  "first_engagement_date": "2015-01-15",
+  "signing_date": "2015-03-29",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No specific, widely reported buyout rumors or leaked acquisition details prior to the official deal announcement."
+  },
+  "price_move_3m_pct": 33.5,
+  "price_move_6m_pct": 184.7,
+  "price_move_12m_pct": 133.7,
+  "price_move_24m_pct": null,
+  "notes": "Deal driven by positive Phase 3 data for SD-809; Teva won a competitive auction against five other parties with an all-cash offer, completing the acquisition via tender offer in just over a month.",
+  "_source_file": "auspex_pharmaceuticals_inc_ASPX.md"
+}

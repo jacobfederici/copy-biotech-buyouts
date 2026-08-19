@@ -1,0 +1,60 @@
+{
+  "company": "Jounce Therapeutics, Inc.",
+  "ticker": "JNCE",
+  "buyer": "Concentra Biosciences, LLC",
+  "announcement_date": "2023-03-27",
+  "close_date": "2023-05-03",
+  "deal_status": "completed",
+  "deal_size_usd_m": 97.4,
+  "final_offer_per_share": 1.85,
+  "payment_type": "cash+CVR",
+  "has_cvr": true,
+  "premium": {
+    "pct": null,
+    "basis": "Board considered substantial premium to historical market prices prior to the March 14 proposal; specific unaffected price not explicitly stated in dossier"
+  },
+  "company_stage": "Phase 2",
+  "lead_asset": "JTX-8064",
+  "lead_asset_stage": "Phase 2",
+  "value_inflection_events": [
+    {
+      "date": "2022-11-11",
+      "event": "Jounce Board begins strategic alternatives review",
+      "approx_change_pct": -21.6
+    },
+    {
+      "date": "2023-01-27",
+      "event": "Ongoing negotiations with Redx",
+      "approx_change_pct": -23.9
+    },
+    {
+      "date": "2023-02-24",
+      "event": "Redx and Jounce announce recommended business combination",
+      "approx_change_pct": 34.7
+    },
+    {
+      "date": "2023-03-17",
+      "event": "Jounce confirms receipt of unsolicited proposal from Concentra",
+      "approx_change_pct": 48.5
+    }
+  ],
+  "offer_low_per_share": 1.8,
+  "offer_high_per_share": 1.85,
+  "num_offers_or_rounds": 2,
+  "num_parties_interested": null,
+  "process_type": "single bidder / bilateral",
+  "engagement_to_deal_days": null,
+  "first_engagement_date": "2023-03-14",
+  "signing_date": "2023-03-27",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "Concentra's unsolicited proposal was submitted March 14 and publicly confirmed March 15, 2023, less than 2 weeks before the March 27 announcement; no evidence of a leak 1+ month prior"
+  },
+  "price_move_3m_pct": null,
+  "price_move_6m_pct": null,
+  "price_move_12m_pct": null,
+  "price_move_24m_pct": null,
+  "notes": "Deal emerged from an unsolicited bid by a 10%+ shareholder (Tang Capital) that disrupted a pending reverse merger with Redx Pharma; the final $1.85 cash+CVR offer was only a $0.05 increase over the initial $1.80 proposal.",
+  "_source_file": "jounce_therapeutics_inc_jnce.md"
+}

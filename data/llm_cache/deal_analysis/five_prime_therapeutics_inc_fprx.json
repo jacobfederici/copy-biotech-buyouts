@@ -1,0 +1,60 @@
+{
+  "company": "Five Prime Therapeutics, Inc.",
+  "ticker": "FPRX",
+  "buyer": "Amgen Inc.",
+  "announcement_date": "2021-03-04",
+  "close_date": "2021-04-16",
+  "deal_status": "completed",
+  "deal_size_usd_m": 1900,
+  "final_offer_per_share": 38.0,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 7.7,
+    "basis": "Last closing price on March 3, 2021 ($35.27)"
+  },
+  "company_stage": "Phase 2",
+  "lead_asset": "Bemarituzumab (Bema)",
+  "lead_asset_stage": "Phase 2",
+  "value_inflection_events": [
+    {
+      "date": "2019-06-07",
+      "event": "Pre-FIGHT data: stock decline from $12.72 to $6.10; investors discounting pipeline execution risks",
+      "approx_change_pct": -52.1
+    },
+    {
+      "date": "2020-11-13",
+      "event": "Announcement of positive FIGHT trial topline results; Bema plus chemotherapy demonstrated significant PFS, OS, and ORR benefit",
+      "approx_change_pct": 20.3
+    },
+    {
+      "date": "2021-01-08",
+      "event": "Strategic interest from multiple parties materializes; market prices in acquisition premium potential",
+      "approx_change_pct": 10.3
+    },
+    {
+      "date": "2021-03-05",
+      "event": "Announcement of Amgen agreement and pending tender offer at $38 per share",
+      "approx_change_pct": 7.9
+    }
+  ],
+  "offer_low_per_share": 25.0,
+  "offer_high_per_share": 38.0,
+  "num_offers_or_rounds": 3,
+  "num_parties_interested": 3,
+  "process_type": "limited / targeted",
+  "engagement_to_deal_days": 37,
+  "first_engagement_date": "2021-01-27",
+  "signing_date": "2021-03-04",
+  "interest_direction": "mixed",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No pre-deal rumors per search; negotiations remained confidential"
+  },
+  "price_move_3m_pct": -13.0,
+  "price_move_6m_pct": null,
+  "price_move_12m_pct": null,
+  "price_move_24m_pct": 220.6,
+  "notes": "Board stated 79% premium over last close but stock table implies 7.7%; data gaps prevent 6m/12m price moves.",
+  "_source_file": "five_prime_therapeutics_inc_fprx.md"
+}

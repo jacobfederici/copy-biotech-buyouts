@@ -1,0 +1,75 @@
+{
+  "company": "LAVA Therapeutics N.V.",
+  "ticker": "LVTX",
+  "buyer": "XOMA Royalty Corporation",
+  "announcement_date": "2025-08-04",
+  "close_date": "2025-11-13",
+  "deal_status": "completed",
+  "deal_size_usd_m": 27.36,
+  "final_offer_per_share": 1.04,
+  "payment_type": "mixed",
+  "has_cvr": true,
+  "premium": {
+    "pct": null,
+    "basis": "unknown"
+  },
+  "company_stage": "Phase 1",
+  "lead_asset": "EGFRd2 (PF-8046052)",
+  "lead_asset_stage": "Phase 1",
+  "value_inflection_events": [
+    {
+      "date": "2024-02-16",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 25.6
+    },
+    {
+      "date": "2024-03-15",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 27.2
+    },
+    {
+      "date": "2024-03-22",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 23.7
+    },
+    {
+      "date": "2024-06-21",
+      "event": "not identified in filings or news",
+      "approx_change_pct": -20.5
+    },
+    {
+      "date": "2024-12-13",
+      "event": "not identified in filings or news",
+      "approx_change_pct": -37.3
+    },
+    {
+      "date": "2025-02-28",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 34.7
+    },
+    {
+      "date": "2025-04-18",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 20.2
+    }
+  ],
+  "offer_low_per_share": 1.04,
+  "offer_high_per_share": 1.16,
+  "num_offers_or_rounds": 2,
+  "num_parties_interested": null,
+  "process_type": "broad auction",
+  "engagement_to_deal_days": 174,
+  "first_engagement_date": "2025-02-10",
+  "signing_date": "2025-08-03",
+  "interest_direction": "outbound (target ran process / sought buyer)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No pre-deal rumors identified"
+  },
+  "price_move_3m_pct": 10.94,
+  "price_move_6m_pct": 47.92,
+  "price_move_12m_pct": -27.92,
+  "price_move_24m_pct": -13.41,
+  "notes": "Deal amended to lower upfront cash from $1.16 to $1.04 due to a reduction in the minimum closing net cash condition.",
+  "_source_file": "lava_therapeutics_nv_LVTX.md"
+}

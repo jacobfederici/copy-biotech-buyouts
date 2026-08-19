@@ -1,0 +1,65 @@
+{
+  "company": "Avanir Pharmaceuticals, Inc.",
+  "ticker": "AVNR",
+  "buyer": "Otsuka Pharmaceutical Co., Ltd.",
+  "announcement_date": "2014-12-02",
+  "close_date": "2015-01-13",
+  "deal_status": "completed",
+  "deal_size_usd_m": 3294.8,
+  "final_offer_per_share": 17.0,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 48,
+    "basis": "48% over unaffected price as stated in rationale"
+  },
+  "company_stage": "commercial",
+  "lead_asset": "NUEDEXTA",
+  "lead_asset_stage": "Marketed",
+  "value_inflection_events": [
+    {
+      "date": "2013-09-13",
+      "event": "not identified",
+      "approx_change_pct": -30.1
+    },
+    {
+      "date": "2013-12-13",
+      "event": "not identified",
+      "approx_change_pct": -34.6
+    },
+    {
+      "date": "2013-12-20",
+      "event": "not identified",
+      "approx_change_pct": 21.1
+    },
+    {
+      "date": "2014-05-02",
+      "event": "not identified",
+      "approx_change_pct": 40.3
+    },
+    {
+      "date": "2014-09-19",
+      "event": "Positive Phase II results for AVP-923 in Alzheimer's agitation",
+      "approx_change_pct": 63.8
+    }
+  ],
+  "offer_low_per_share": 15.0,
+  "offer_high_per_share": 17.0,
+  "num_offers_or_rounds": 3,
+  "num_parties_interested": 4,
+  "process_type": "limited / targeted",
+  "engagement_to_deal_days": 567,
+  "first_engagement_date": "2013-05-13",
+  "signing_date": "2014-12-01",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": true,
+    "details": "Rumors in October 2014 about potential acquirers including Lundbeck, Mallinckrodt, and Shire; speculation about Otsuka on December 1, 2014."
+  },
+  "price_move_3m_pct": 139.9,
+  "price_move_6m_pct": 182.6,
+  "price_move_12m_pct": 236.0,
+  "price_move_24m_pct": 480.5,
+  "notes": "Deal valued at $3.3B cash, 48% premium, following positive Phase II data and a CRL for AVP-825; limited market check with three other parties.",
+  "_source_file": "avanir_pharmaceuticals_inc_AVNR.md"
+}

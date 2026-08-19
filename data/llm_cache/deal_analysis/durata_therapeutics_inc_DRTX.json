@@ -1,0 +1,50 @@
+{
+  "company": "Durata Therapeutics, Inc.",
+  "ticker": "DRTX",
+  "buyer": "Actavis W.C. Holding Inc.",
+  "announcement_date": "2014-10-06",
+  "close_date": "2014-11-17",
+  "deal_status": "completed",
+  "deal_size_usd_m": 675,
+  "final_offer_per_share": 23.0,
+  "payment_type": "cash+CVR",
+  "has_cvr": true,
+  "premium": {
+    "pct": 66,
+    "basis": "66% over unaffected closing price of $13.88 on October 3, 2014"
+  },
+  "company_stage": "commercial",
+  "lead_asset": "dalbavancin (Dalvance)",
+  "lead_asset_stage": "Approved (US)",
+  "value_inflection_events": [
+    {
+      "date": "2013-11-29",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 20.8
+    },
+    {
+      "date": "2014-10-10",
+      "event": "Deal announcement",
+      "approx_change_pct": 69.7
+    }
+  ],
+  "offer_low_per_share": 20.0,
+  "offer_high_per_share": 23.0,
+  "num_offers_or_rounds": 4,
+  "num_parties_interested": 6,
+  "process_type": "limited / targeted",
+  "engagement_to_deal_days": 96,
+  "first_engagement_date": "2014-07-01",
+  "signing_date": "2014-10-05",
+  "interest_direction": "mixed",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No specific deal rumors; only general speculation about being an acquisition target."
+  },
+  "price_move_3m_pct": -22.5,
+  "price_move_6m_pct": 7.7,
+  "price_move_12m_pct": 54.1,
+  "price_move_24m_pct": 46.6,
+  "notes": "Durata was acquired by Actavis after an unsolicited approach from Company A led to a targeted market check, resulting in a 66% premium and a CVR tied to regulatory and revenue milestones.",
+  "_source_file": "durata_therapeutics_inc_DRTX.md"
+}

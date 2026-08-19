@@ -1,0 +1,65 @@
+{
+  "company": "Inspire Pharmaceuticals, Inc.",
+  "ticker": "ISPH",
+  "buyer": "Merck & Co., Inc.",
+  "announcement_date": "2011-04-05",
+  "close_date": "2011-05-16",
+  "deal_status": "completed",
+  "deal_size_usd_m": 416.5,
+  "final_offer_per_share": 5.0,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 25.6,
+    "basis": "pre-announcement closing price (as stated in the merger agreement rationale)"
+  },
+  "company_stage": "commercial",
+  "lead_asset": "AzaSite",
+  "lead_asset_stage": "Marketed",
+  "value_inflection_events": [
+    {
+      "date": "2009-06-05",
+      "event": "not identified",
+      "approx_change_pct": 23.2
+    },
+    {
+      "date": "2009-08-21",
+      "event": "not identified",
+      "approx_change_pct": 27.8
+    },
+    {
+      "date": "2009-11-06",
+      "event": "not identified",
+      "approx_change_pct": 22.6
+    },
+    {
+      "date": "2011-01-03",
+      "event": "Denufosol Phase 3 trial failure announced",
+      "approx_change_pct": -54.3
+    },
+    {
+      "date": "2011-04-05",
+      "event": "Acquisition by Merck announced",
+      "approx_change_pct": 26.4
+    }
+  ],
+  "offer_low_per_share": 4.4,
+  "offer_high_per_share": 5.0,
+  "num_offers_or_rounds": 6,
+  "num_parties_interested": 3,
+  "process_type": "limited / targeted",
+  "engagement_to_deal_days": 69,
+  "first_engagement_date": "2011-01-26",
+  "signing_date": "2011-04-05",
+  "interest_direction": "outbound (target ran process / sought buyer)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No pre-deal rumors reported."
+  },
+  "price_move_3m_pct": 2.6,
+  "price_move_6m_pct": -35.5,
+  "price_move_12m_pct": -36.8,
+  "price_move_24m_pct": -12.4,
+  "notes": "Deal triggered by denufosol Phase 3 failure; competitive process yielded a modest premium over the depressed stock price.",
+  "_source_file": "inspire_pharmaceuticals_inc_ISPH.md"
+}

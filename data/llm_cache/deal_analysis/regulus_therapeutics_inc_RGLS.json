@@ -1,0 +1,39 @@
+{
+  "company": "Regulus Therapeutics Inc.",
+  "ticker": "RGLS",
+  "buyer": "Novartis AG",
+  "announcement_date": "2025-04-30",
+  "close_date": "2025-06-25",
+  "deal_status": "completed",
+  "deal_size_usd_m": 529.3,
+  "final_offer_per_share": 7.0,
+  "payment_type": "cash+CVR",
+  "has_cvr": true,
+  "premium": {
+    "pct": 108.0,
+    "basis": "unaffected stock price (last close before announcement)"
+  },
+  "company_stage": "Phase 1",
+  "lead_asset": "farabursen (RGLS 8429)",
+  "lead_asset_stage": "Phase 1b",
+  "value_inflection_events": [],
+  "offer_low_per_share": 2.5,
+  "offer_high_per_share": 7.0,
+  "num_offers_or_rounds": 8,
+  "num_parties_interested": 5,
+  "process_type": "broad auction",
+  "engagement_to_deal_days": 295,
+  "first_engagement_date": "2024-07-08",
+  "signing_date": "2025-04-29",
+  "interest_direction": "outbound (target ran process / sought buyer)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No pre-deal rumors or leaks; negotiations remained confidential until official announcement."
+  },
+  "price_move_3m_pct": 176.0,
+  "price_move_6m_pct": 85.2,
+  "price_move_12m_pct": 4.2,
+  "price_move_24m_pct": 95.7,
+  "notes": "Competitive bidding war between Novartis and Party A drove final offer to $7.00 cash plus $7.00 CVR, a 108% premium.",
+  "_source_file": "regulus_therapeutics_inc_RGLS.md"
+}

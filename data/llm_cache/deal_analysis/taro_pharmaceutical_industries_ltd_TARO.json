@@ -1,0 +1,45 @@
+{
+  "company": "Taro Pharmaceutical Industries Ltd.",
+  "ticker": "TARO",
+  "buyer": "Sun Pharmaceutical Industries Ltd.",
+  "announcement_date": "2008-06-25",
+  "close_date": "unknown",
+  "deal_status": "terminated",
+  "deal_size_usd_m": 305.8,
+  "final_offer_per_share": 7.75,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": -14.8,
+    "basis": "vs. last close before announcement ($9.10 on 2008-06-20)"
+  },
+  "company_stage": "commercial",
+  "lead_asset": "Generic Product Pipeline",
+  "lead_asset_stage": "various",
+  "value_inflection_events": [
+    {
+      "date": "2007-05-25",
+      "event": "Merger agreement with Sun announced (2007-05-18)",
+      "approx_change_pct": 23.0
+    }
+  ],
+  "offer_low_per_share": 7.75,
+  "offer_high_per_share": 10.25,
+  "num_offers_or_rounds": 2,
+  "num_parties_interested": 1,
+  "process_type": "single bidder / bilateral",
+  "engagement_to_deal_days": 42,
+  "first_engagement_date": "2008-05-14",
+  "signing_date": "2008-06-25",
+  "interest_direction": "outbound (target ran process / sought buyer)",
+  "leaked_early": {
+    "leaked": true,
+    "details": "Rumors of Sun Pharma interest reported on May 10, 2007, over a year before the tender offer announcement."
+  },
+  "price_move_3m_pct": 17.4,
+  "price_move_6m_pct": 19.0,
+  "price_move_12m_pct": 25.9,
+  "price_move_24m_pct": -14.2,
+  "notes": "Hostile tender offer at $7.75 after termination of prior merger agreement, with board recommending rejection due to inadequate price and coercive tactics.",
+  "_source_file": "taro_pharmaceutical_industries_ltd_TARO.md"
+}

@@ -1,0 +1,45 @@
+{
+  "company": "Medivation, Inc.",
+  "ticker": "MDVN",
+  "buyer": "Pfizer Inc.",
+  "announcement_date": "2016-08-22",
+  "close_date": "2016-09-28",
+  "deal_status": "completed",
+  "deal_size_usd_m": 14000,
+  "final_offer_per_share": 81.5,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 56.6,
+    "basis": "over unaffected price as stated in SEC filings"
+  },
+  "company_stage": "commercial",
+  "lead_asset": "XTANDI (enzalutamide)",
+  "lead_asset_stage": "Marketed / Phase 3",
+  "value_inflection_events": [
+    {
+      "date": "2015-09-18",
+      "event": "Sharp unexplained stock decline of -47%",
+      "approx_change_pct": -47.0
+    }
+  ],
+  "offer_low_per_share": 52.5,
+  "offer_high_per_share": 81.5,
+  "num_offers_or_rounds": 5,
+  "num_parties_interested": 5,
+  "process_type": "broad auction",
+  "engagement_to_deal_days": 153,
+  "first_engagement_date": "2016-03-22",
+  "signing_date": "2016-08-22",
+  "interest_direction": "mixed",
+  "leaked_early": {
+    "leaked": true,
+    "details": "Rumors of Sanofi's interest surfaced on March 30, 2016, ~5 months before official announcement, with multiple subsequent media reports on potential bidders."
+  },
+  "price_move_3m_pct": 10.9,
+  "price_move_6m_pct": 105.0,
+  "price_move_12m_pct": -26.5,
+  "price_move_24m_pct": -26.4,
+  "notes": "Pfizer beat out multiple bidders including Sanofi by offering $81.50/share cash after a highly competitive process, representing a 56.6% premium; the deal closed within 5 weeks of announcement.",
+  "_source_file": "medivation_inc_MDVN.md"
+}

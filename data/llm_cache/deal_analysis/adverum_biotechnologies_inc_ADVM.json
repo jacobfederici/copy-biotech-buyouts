@@ -1,0 +1,75 @@
+{
+  "company": "Adverum Biotechnologies, Inc.",
+  "ticker": "ADVM",
+  "buyer": "Eli Lilly and Company",
+  "announcement_date": "2025-10-24",
+  "close_date": "2025-12-09",
+  "deal_status": "completed",
+  "deal_size_usd_m": 275.3,
+  "final_offer_per_share": 3.56,
+  "payment_type": "cash+CVR",
+  "has_cvr": true,
+  "premium": {
+    "pct": null,
+    "basis": "Not determinable from dossier. The deal was driven by Adverum's critical need for capital with an estimated liquidation value of $0.03/share, making standard premium calculations inapplicable"
+  },
+  "company_stage": "Phase 3 / pre-approval",
+  "lead_asset": "Ixoberogene soroparvovec (Ixo-vec / ADVM-022)",
+  "lead_asset_stage": "Phase 3",
+  "value_inflection_events": [
+    {
+      "date": "2024-02-02",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 51.1
+    },
+    {
+      "date": "2024-02-09",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 21.8
+    },
+    {
+      "date": "2024-03-22",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 844.7
+    },
+    {
+      "date": "2025-05-16",
+      "event": "not identified in filings or news",
+      "approx_change_pct": -24.7
+    },
+    {
+      "date": "2025-06-06",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 27.5
+    },
+    {
+      "date": "2025-08-15",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 24.9
+    },
+    {
+      "date": "2025-09-19",
+      "event": "not identified in filings or news",
+      "approx_change_pct": 24.5
+    }
+  ],
+  "offer_low_per_share": 4.12,
+  "offer_high_per_share": 3.56,
+  "num_offers_or_rounds": 3,
+  "num_parties_interested": 30,
+  "process_type": "broad auction",
+  "engagement_to_deal_days": 405,
+  "first_engagement_date": "2023-10-10",
+  "signing_date": "2025-10-24",
+  "interest_direction": "mixed",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No pre-deal rumors documented prior to official announcement on 2025-10-24"
+  },
+  "price_move_3m_pct": -40.25,
+  "price_move_6m_pct": -53.66,
+  "price_move_12m_pct": -44.22,
+  "price_move_24m_pct": 328.42,
+  "notes": "Deal driven by Adverum's severe cash constraints (runway expiring Oct 2025) and a liquidation alternative of $0.03/share, resulting in a heavily discounted take-under with most value contingent on future milestones via a CVR.",
+  "_source_file": "adverum_biotechnologies_inc_ADVM.md"
+}

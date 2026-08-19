@@ -1,0 +1,85 @@
+{
+  "company": "Alexza Pharmaceuticals Inc.",
+  "ticker": "ALXA",
+  "buyer": "Ferrer Pharma, Inc. (subsidiary of Grupo Ferrer Internacional, S.A.)",
+  "announcement_date": "2016-05-10",
+  "close_date": "2016-06-21",
+  "deal_status": "completed",
+  "deal_size_usd_m": 19.58,
+  "final_offer_per_share": 0.9,
+  "payment_type": "cash+CVR",
+  "has_cvr": true,
+  "premium": {
+    "pct": 210.0,
+    "basis": "210% premium to the share price on February 26, 2016 (the last trading day before the non-binding letter of intent was first made public), per Buyout Rumors section."
+  },
+  "company_stage": "approved+marketed",
+  "lead_asset": "ADASUVE (Staccato loxapine)",
+  "lead_asset_stage": "Approved/Commercial",
+  "value_inflection_events": [
+    {
+      "date": "2014-11-07",
+      "event": "Unidentified event causing significant price drop",
+      "approx_change_pct": -26.1
+    },
+    {
+      "date": "2015-01-09",
+      "event": "Unidentified event causing significant price increase",
+      "approx_change_pct": 28.6
+    },
+    {
+      "date": "2015-05-08",
+      "event": "Unidentified event causing significant price drop",
+      "approx_change_pct": -35.1
+    },
+    {
+      "date": "2016-01-08",
+      "event": "Unidentified event causing significant price drop",
+      "approx_change_pct": -22.9
+    },
+    {
+      "date": "2016-03-04",
+      "event": "Unidentified event causing significant price increase",
+      "approx_change_pct": 62.1
+    },
+    {
+      "date": "2016-03-25",
+      "event": "Unidentified event causing significant price increase",
+      "approx_change_pct": 47.8
+    },
+    {
+      "date": "2016-04-01",
+      "event": "Unidentified event causing significant price drop",
+      "approx_change_pct": -37.5
+    },
+    {
+      "date": "2016-04-15",
+      "event": "Unidentified event causing significant price increase",
+      "approx_change_pct": 20.9
+    },
+    {
+      "date": "2016-05-13",
+      "event": "Deal announcement drives stock price up",
+      "approx_change_pct": 68.5
+    }
+  ],
+  "offer_low_per_share": 0.6,
+  "offer_high_per_share": 1.04,
+  "num_offers_or_rounds": 4,
+  "num_parties_interested": 83,
+  "process_type": "broad auction",
+  "engagement_to_deal_days": 264,
+  "first_engagement_date": "2015-08-18",
+  "signing_date": "2016-05-09",
+  "interest_direction": "outbound (target ran process / sought buyer)",
+  "leaked_early": {
+    "leaked": true,
+    "details": "On February 29, 2016, Alexza disclosed it had entered into a non-binding letter of intent with Ferrer, which was more than 2 months before the May 10, 2016 announcement. Media also reported on 'emergency talks' in March 2016."
+  },
+  "price_move_3m_pct": -15.63,
+  "price_move_6m_pct": -81.25,
+  "price_move_12m_pct": -87.21,
+  "price_move_24m_pct": -78.49,
+  "notes": "Distressed company with only one approved product (ADASUVE) and on the brink of insolvency; the deal, structured as a cash tender offer plus CVRs, was a rescue acquisition by its commercial partner Ferrer after a broad auction failed to yield any other funded bidders.",
+  "_source_file": "alexza_pharmaceuticals_inc_ALXA.md"
+}

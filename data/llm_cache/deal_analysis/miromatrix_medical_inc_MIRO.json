@@ -1,0 +1,55 @@
+{
+  "company": "Miromatrix Medical Inc.",
+  "ticker": "MIRO",
+  "buyer": "United Therapeutics Corporation",
+  "announcement_date": "2023-10-30",
+  "close_date": "2023-12-13",
+  "deal_status": "completed",
+  "deal_size_usd_m": 91,
+  "final_offer_per_share": 5.0,
+  "payment_type": "cash+CVR",
+  "has_cvr": true,
+  "premium": {
+    "pct": 380.8,
+    "basis": "vs last close of $1.04 on 2023-10-27"
+  },
+  "company_stage": "preclinical",
+  "lead_asset": "mirokidney (MIRO-003)",
+  "lead_asset_stage": "preclinical",
+  "value_inflection_events": [
+    {
+      "date": "2022-12-16",
+      "event": "FDA clinical hold on miroliverELAP IND",
+      "approx_change_pct": -29.8
+    },
+    {
+      "date": "2023-03-10",
+      "event": "Public offering of common stock",
+      "approx_change_pct": -42.7
+    },
+    {
+      "date": "2023-11-03",
+      "event": "Acquisition announcement",
+      "approx_change_pct": 221.2
+    }
+  ],
+  "offer_low_per_share": 2.75,
+  "offer_high_per_share": 5.0,
+  "num_offers_or_rounds": 3,
+  "num_parties_interested": 2,
+  "process_type": "broad auction",
+  "engagement_to_deal_days": 104,
+  "first_engagement_date": "2023-07-17",
+  "signing_date": "2023-10-29",
+  "interest_direction": "outbound (target ran process / sought buyer)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No pre-deal rumors or leaks identified"
+  },
+  "price_move_3m_pct": -24.1,
+  "price_move_6m_pct": -14.8,
+  "price_move_12m_pct": -73.5,
+  "price_move_24m_pct": -87.0,
+  "notes": "Preclinical biotech with lead asset mirokidney, acquired by United Therapeutics in a cash + CVR deal following a broad process and liquidity crunch.",
+  "_source_file": "miromatrix_medical_inc_MIRO.md"
+}

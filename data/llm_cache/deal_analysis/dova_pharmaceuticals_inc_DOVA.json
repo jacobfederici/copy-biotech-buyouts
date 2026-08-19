@@ -1,0 +1,50 @@
+{
+  "company": "Dova Pharmaceuticals, Inc.",
+  "ticker": "DOVA",
+  "buyer": "Swedish Orphan Biovitrum AB (publ)",
+  "announcement_date": "2019-09-30",
+  "close_date": "2019-11-12",
+  "deal_status": "completed",
+  "deal_size_usd_m": 868,
+  "final_offer_per_share": 29.0,
+  "payment_type": "cash+CVR",
+  "has_cvr": true,
+  "premium": {
+    "pct": null,
+    "basis": "unknown"
+  },
+  "company_stage": "commercial",
+  "lead_asset": "Doptelet (avatrombopag)",
+  "lead_asset_stage": "approved+marketed",
+  "value_inflection_events": [
+    {
+      "date": "2019-06-27",
+      "event": "FDA approves Doptelet for chronic ITP",
+      "approx_change_pct": 57.9
+    },
+    {
+      "date": "2019-09-30",
+      "event": "Deal announcement",
+      "approx_change_pct": 39.7
+    }
+  ],
+  "offer_low_per_share": 23.0,
+  "offer_high_per_share": 29.0,
+  "num_offers_or_rounds": 2,
+  "num_parties_interested": 5,
+  "process_type": "limited / targeted",
+  "engagement_to_deal_days": 47,
+  "first_engagement_date": "2019-08-14",
+  "signing_date": "2019-09-30",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No pre-deal rumors or press reports identified; deal was a surprise to the market."
+  },
+  "price_move_3m_pct": 33.7,
+  "price_move_6m_pct": 42.9,
+  "price_move_12m_pct": 197.1,
+  "price_move_24m_pct": -27.5,
+  "notes": "Deal was a surprise with no pre-announcement leaks; the stock had collapsed from ~$30 to ~$6 before recovering on ITP approval, and the final $29.00 offer (including CVR) represented a substantial premium to the unaffected mid-teens price.",
+  "_source_file": "dova_pharmaceuticals_inc_DOVA.md"
+}

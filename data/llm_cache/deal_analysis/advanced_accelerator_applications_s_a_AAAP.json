@@ -1,0 +1,50 @@
+{
+  "company": "Advanced Accelerator Applications S.A.",
+  "ticker": "AAAP",
+  "buyer": "Novartis Groupe France S.A.",
+  "announcement_date": "2017-10-30",
+  "close_date": "2018-01-22",
+  "deal_status": "completed",
+  "deal_size_usd_m": 3900,
+  "final_offer_per_share": 41.0,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 123.3,
+    "basis": "90-day VWAP as of announcement"
+  },
+  "company_stage": "approved+marketed",
+  "lead_asset": "Lutathera (lutetium Lu 177 dotatate)",
+  "lead_asset_stage": "Approved (EU) / NDA Resubmitted (US)",
+  "value_inflection_events": [
+    {
+      "date": "2016-02-19",
+      "event": "Unidentified positive catalyst",
+      "approx_change_pct": 24.4
+    },
+    {
+      "date": "2017-09-29",
+      "event": "European Approval of Lutathera",
+      "approx_change_pct": 22.8
+    }
+  ],
+  "offer_low_per_share": 31.25,
+  "offer_high_per_share": 41.0,
+  "num_offers_or_rounds": 4,
+  "num_parties_interested": 2,
+  "process_type": "single bidder / bilateral",
+  "engagement_to_deal_days": 93,
+  "first_engagement_date": "2017-07-27",
+  "signing_date": "2017-10-28",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": true,
+    "details": "Bloomberg reported potential deal discussions on September 27, 2017, approximately one month before the official announcement."
+  },
+  "price_move_3m_pct": 77.4,
+  "price_move_6m_pct": 82.9,
+  "price_move_12m_pct": 171.0,
+  "price_move_24m_pct": 160.4,
+  "notes": "Novartis initiated an unsolicited approach, escalating from $62.50 to a 'best and final' $82.00 per ADS after AAA's board rejected earlier offers and countered at $82.50. A second party ('Party A') inquired post-leak but was dismissed as lacking financial capacity.",
+  "_source_file": "advanced_accelerator_applications_s_a_AAAP.md"
+}

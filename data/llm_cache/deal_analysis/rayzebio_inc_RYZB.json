@@ -1,0 +1,50 @@
+{
+  "company": "RayzeBio, Inc.",
+  "ticker": "RYZB",
+  "buyer": "Bristol-Myers Squibb Company",
+  "announcement_date": "2023-12-26",
+  "close_date": "2024-02-26",
+  "deal_status": "completed",
+  "deal_size_usd_m": 4100,
+  "final_offer_per_share": 62.5,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": 104,
+    "basis": "104% premium over the last trading price before announcement ($30.57 on 2023-12-22)"
+  },
+  "company_stage": "Phase 3 / pre-approval",
+  "lead_asset": "RYZ101",
+  "lead_asset_stage": "Phase 3",
+  "value_inflection_events": [
+    {
+      "date": "2023-11-03",
+      "event": "Unidentified event; stock rose 21.3% from prior week close",
+      "approx_change_pct": 21.3
+    },
+    {
+      "date": "2023-12-29",
+      "event": "Deal announcement (2023-12-26); stock rose 103.4% from prior week close",
+      "approx_change_pct": 103.4
+    }
+  ],
+  "offer_low_per_share": 36.0,
+  "offer_high_per_share": 62.5,
+  "num_offers_or_rounds": 4,
+  "num_parties_interested": 3,
+  "process_type": "limited / targeted",
+  "engagement_to_deal_days": 50,
+  "first_engagement_date": "2023-11-06",
+  "signing_date": "2023-12-25",
+  "interest_direction": "inbound (buyer approached target)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No pre-deal rumors or leaks identified; negotiations were private until the official announcement."
+  },
+  "price_move_3m_pct": 36.9,
+  "price_move_6m_pct": null,
+  "price_move_12m_pct": null,
+  "price_move_24m_pct": null,
+  "notes": "BMS won a rapid, competitive bidding process over the 2023 Christmas holiday with a 104% premium, driven by the lead Phase 3 radiopharmaceutical asset RYZ101.",
+  "_source_file": "rayzebio_inc_RYZB.md"
+}

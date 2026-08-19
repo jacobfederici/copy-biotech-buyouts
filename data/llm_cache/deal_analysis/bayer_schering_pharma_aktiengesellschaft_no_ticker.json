@@ -1,0 +1,39 @@
+{
+  "company": "Schering Aktiengesellschaft",
+  "ticker": "no_ticker",
+  "buyer": "Bayer Aktiengesellschaft",
+  "announcement_date": "2006-03-23",
+  "close_date": "2006-10-27",
+  "deal_status": "completed",
+  "deal_size_usd_m": null,
+  "final_offer_per_share": 89.36,
+  "payment_type": "cash",
+  "has_cvr": false,
+  "premium": {
+    "pct": null,
+    "basis": "unknown"
+  },
+  "company_stage": "commercial",
+  "lead_asset": "Gynecology & Andrology",
+  "lead_asset_stage": "Marketed",
+  "value_inflection_events": [],
+  "offer_low_per_share": 84.0,
+  "offer_high_per_share": 89.36,
+  "num_offers_or_rounds": 4,
+  "num_parties_interested": 1,
+  "process_type": "single bidder / bilateral",
+  "engagement_to_deal_days": 10,
+  "first_engagement_date": "2006-03-13",
+  "signing_date": "2006-03-23",
+  "interest_direction": "outbound (target sought buyer)",
+  "leaked_early": {
+    "leaked": false,
+    "details": "No credible leak of Bayer deal more than 1 month prior; Merck hostile bid rumored 13 days before announcement."
+  },
+  "price_move_3m_pct": null,
+  "price_move_6m_pct": null,
+  "price_move_12m_pct": null,
+  "price_move_24m_pct": null,
+  "notes": "Friendly white knight defense against Merck KGaA's unsolicited bid; final price increased to EUR 89.36 after Bayer bought Merck's stake.",
+  "_source_file": "bayer_schering_pharma_aktiengesellschaft_no_ticker.md"
+}
